@@ -1,50 +1,50 @@
-name: Update NSFW Hosts List
+name: Update NSFW Hosts
 
 on:
   schedule:
-    - cron:  '0 0 * * *'   # every day at 00:00 UTC
-  workflow_dispatch:      # allow manual trigger
+    - cron: '0 2 * * *'  # every day at 2 AM UTC
+  workflow_dispatch:     # allow manual run
 
 jobs:
-  build:
+  update-nsfw:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Download NSFW adblock list
+      - name: Install tools
+        run: sudo apt-get install -y curl
+
+      - name: Download and convert nsfw list
         run: |
-          curl -sSL \
-            https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt \
-            -o adblock-nsfw.txt
+          curl -sSL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt -o nsfw-raw.txt
 
-      - name: Convert to hosts format with stats
-        run: |
-          # Extract raw domains count
-          DOMAIN_COUNT=$(grep -c '^||' adblock-nsfw.txt)
+          # Clean and convert to AdAway hosts format
+          grep '^||' nsfw-raw.txt | sed 's/^||\(.*\)\^/127.0.0.1 \1/' | sort -u > nsfw-hosts.txt
 
-          # Build output file
-          {
-            echo "# NSFW AdAway hosts list"
-            echo "# Updated: $(date -u +'%Y-%m-%d %H:%M:%SZ')"
-            echo "# Domains blocked: ${DOMAIN_COUNT}"
-            echo ""
-
-            # Convert each ||domain^ into two hosts entries
-            grep '^||' adblock-nsfw.txt \
-              | sed -E 's/^\|\|([^^]+)\^$/0.0.0.0 \1\n0.0.0.0 www.\1/'
-          } > nsfw-hosts.txt
+          total=$(wc -l < nsfw-hosts.txt)
+          echo "# Title: NSFW Blocklist (AdAway Format)" > tmp.txt
+          echo "# Description: Converted from Hagezi's Adblock NSFW list" >> tmp.txt
+          echo "# Source: https://github.com/hagezi/dns-blocklists" >> tmp.txt
+          echo "# Converted by: https://github.com/unlux/nsfw-block" >> tmp.txt
+          echo "# Total blocked domains: $total" >> tmp.txt
+          echo "# Last updated: $(date -u +"%Y-%m-%dT%H:%M:%SZ")" >> tmp.txt
+          echo "" >> tmp.txt
+          cat nsfw-hosts.txt >> tmp.txt
+          mv tmp.txt nsfw-hosts.txt
 
       - name: Commit & push if changed
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "unlux"
+          git config user.email "92749166+unlux@users.noreply.github.com"  
 
           git add nsfw-hosts.txt
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore: update NSFW hosts (${{ steps.build.outputs.DATE }})"
-            git push
+            git commit -m "chore: update NSFW hosts (auto)"
+            git push https://lux:${GH_PAT}@github.com/unlux/nsfw-block.git HEAD:main
           fi
