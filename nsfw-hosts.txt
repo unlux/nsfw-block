@@ -3,7 +3,7 @@
 # Source: https://github.com/hagezi/dns-blocklists
 # Converted by: https://github.com/unlux/nsfw-block
 # Total blocked domains: 103041
-# Last updated: 2025-05-20T03:07:05Z
+# Last updated: 2025-05-21T03:06:32Z
 
 127.0.0.1 0-0-xxx.com
 127.0.0.1 0-24sexcams.com
