@@ -2,8 +2,8 @@
 # Description: Converted from Hagezi's Adblock NSFW list
 # Source: https://github.com/hagezi/dns-blocklists
 # Converted by: https://github.com/unlux/nsfw-block
-# Total blocked domains: 81373
-# Last updated: 2026-04-10T04:38:38Z
+# Total blocked domains: 82029
+# Last updated: 2026-04-11T04:11:55Z
 
 127.0.0.1 0000180.fortunecity.ws
 127.0.0.1 001260.xyz
@@ -105,6 +105,7 @@
 127.0.0.1 101essexrd.com
 127.0.0.1 101hotguys.com
 127.0.0.1 101modeling.com
+127.0.0.1 101spanking.com
 127.0.0.1 101tubeporn.com
 127.0.0.1 101xturkpornocu.site
 127.0.0.1 1024bdsm.com
@@ -145,14 +146,13 @@
 127.0.0.1 1202.org.il
 127.0.0.1 1215group.com
 127.0.0.1 1218betsextou.com
+127.0.0.1 121channel.com
 127.0.0.1 1224.co.kr
 127.0.0.1 123123xxxxxx.com
 127.0.0.1 12345.xxx
 127.0.0.1 123adultvideos.com
 127.0.0.1 123any.com
 127.0.0.1 123av.app
-127.0.0.1 123av.best
-127.0.0.1 123av.blog
 127.0.0.1 123av.bz
 127.0.0.1 123av.com
 127.0.0.1 123av.fans
@@ -258,7 +258,6 @@
 127.0.0.1 17xxx000.one
 127.0.0.1 17xxx111.one
 127.0.0.1 17xxx222.one
-127.0.0.1 17xxx333.one
 127.0.0.1 17xxx444.one
 127.0.0.1 17xxx555.one
 127.0.0.1 17xxx666.one
@@ -396,7 +395,6 @@
 127.0.0.1 18teenboys.net
 127.0.0.1 18teenporno.tv
 127.0.0.1 18teensex.me
-127.0.0.1 18teensex.pro
 127.0.0.1 18teensex.tv
 127.0.0.1 18teensporn.pro
 127.0.0.1 18teentubeporn.com
@@ -417,6 +415,7 @@
 127.0.0.1 18xxx.online
 127.0.0.1 18xxx.pro
 127.0.0.1 18xxx.xyz
+127.0.0.1 18xxx3.club
 127.0.0.1 18xxxjapan.com
 127.0.0.1 18xxxvideos.com
 127.0.0.1 18xxxxx.com
@@ -504,6 +503,7 @@
 127.0.0.1 1porno.blog
 127.0.0.1 1porno.co
 127.0.0.1 1porno.media
+127.0.0.1 1porno365.net
 127.0.0.1 1pornodojki.com
 127.0.0.1 1pornxxx.com
 127.0.0.1 1publicagent.com
@@ -596,6 +596,7 @@
 127.0.0.1 22gvfdeo.shop
 127.0.0.1 22pixx.xyz
 127.0.0.1 231xxx.cc
+127.0.0.1 231xxx.com
 127.0.0.1 232.gay
 127.0.0.1 2345567.com
 127.0.0.1 234brsextou.com
@@ -625,7 +626,6 @@
 127.0.0.1 247pussy.com
 127.0.0.1 247sexvideo.net
 127.0.0.1 247sexvideos.com
-127.0.0.1 24av.fans
 127.0.0.1 24av.net
 127.0.0.1 24callgirl.com
 127.0.0.1 24camgirl.com
@@ -634,7 +634,6 @@
 127.0.0.1 24h-porn.com
 127.0.0.1 24h-porn.net
 127.0.0.1 24hjav.com
-127.0.0.1 24horasexpress.com
 127.0.0.1 24hourheaven.in
 127.0.0.1 24hsussexrecovery.com
 127.0.0.1 24jobsexam.in
@@ -927,7 +926,6 @@
 127.0.0.1 365pornophoto.com
 127.0.0.1 365sex.quest
 127.0.0.1 365virtualtour.com
-127.0.0.1 365xsex.top
 127.0.0.1 365xxx.pro
 127.0.0.1 365xxx.top
 127.0.0.1 365youporn.com
@@ -1108,7 +1106,6 @@
 127.0.0.1 4-hentai.com
 127.0.0.1 4-sex.ru
 127.0.0.1 405themovie.com
-127.0.0.1 40ad.com
 127.0.0.1 40kadult.com
 127.0.0.1 40somethingmag.com
 127.0.0.1 40winsextou.com
@@ -1155,6 +1152,7 @@
 127.0.0.1 4chan.com
 127.0.0.1 4chan.gay
 127.0.0.1 4chanaiporn.com
+127.0.0.1 4chanporn.ai
 127.0.0.1 4clf7-xz4x0-gayelr.work
 127.0.0.1 4club.forex
 127.0.0.1 4crot.com
@@ -1275,6 +1273,7 @@
 127.0.0.1 51tv7.lat
 127.0.0.1 51zy1.com
 127.0.0.1 520cc.cc
+127.0.0.1 520xxx.eu.cc
 127.0.0.1 522xxx.com
 127.0.0.1 5277.cc
 127.0.0.1 5278.cc
@@ -1574,7 +1573,6 @@
 127.0.0.1 718yule.com
 127.0.0.1 720pfilmizleme1.com
 127.0.0.1 720pflix.space
-127.0.0.1 720pflix.store
 127.0.0.1 720pflix.yachts
 127.0.0.1 720pizle.live
 127.0.0.1 720video.tv
@@ -1672,7 +1670,6 @@
 127.0.0.1 7dakporno16.shop
 127.0.0.1 7dakporno18.life
 127.0.0.1 7dakporno2.life
-127.0.0.1 7dakporno2.shop
 127.0.0.1 7dakporno25.life
 127.0.0.1 7dakporno26.shop
 127.0.0.1 7dakporno29.life
@@ -1690,6 +1687,7 @@
 127.0.0.1 7dakporno69.shop
 127.0.0.1 7dakporno77.life
 127.0.0.1 7dakporno8.shop
+127.0.0.1 7dakporno9.shop
 127.0.0.1 7dakpornos.shop
 127.0.0.1 7dakpornosx.shop
 127.0.0.1 7dakpornoyx.shop
@@ -1927,11 +1925,32 @@
 127.0.0.1 91porn07.cc
 127.0.0.1 91porn08.cc
 127.0.0.1 91porn09.cc
+127.0.0.1 91porn10.co
+127.0.0.1 91porn11.co
+127.0.0.1 91porn12.co
+127.0.0.1 91porn13.co
 127.0.0.1 91porn131.xyz
+127.0.0.1 91porn14.co
+127.0.0.1 91porn15.co
+127.0.0.1 91porn16.co
+127.0.0.1 91porn17.co
+127.0.0.1 91porn18.co
+127.0.0.1 91porn19.co
+127.0.0.1 91porn2.co
+127.0.0.1 91porn20.co
+127.0.0.1 91porn3.co
+127.0.0.1 91porn4.co
+127.0.0.1 91porn5.co
+127.0.0.1 91porn6.co
+127.0.0.1 91porn69.co
+127.0.0.1 91porn7.co
 127.0.0.1 91porn7.top
+127.0.0.1 91porn8.co
 127.0.0.1 91porn8.store
 127.0.0.1 91porn8.top
+127.0.0.1 91porn9.co
 127.0.0.1 91porn9.top
+127.0.0.1 91porn91.co
 127.0.0.1 91porna.com
 127.0.0.1 91porna.lol
 127.0.0.1 91porna.mom
@@ -2104,7 +2123,6 @@
 127.0.0.1 9icx1.top
 127.0.0.1 9k999sextou.com
 127.0.0.1 9kmovies.best
-127.0.0.1 9kmovies.com.cv
 127.0.0.1 9kmovies.family
 127.0.0.1 9kmovies.me.in
 127.0.0.1 9night.in
@@ -2248,6 +2266,7 @@
 127.0.0.1 ab884cc.com
 127.0.0.1 abalifecenteradultservices.com
 127.0.0.1 abargainescort.com
+127.0.0.1 abaxxx.bond
 127.0.0.1 abbdsm.com
 127.0.0.1 abbdsm.net
 127.0.0.1 abbeybrooks.com
@@ -2319,6 +2338,7 @@
 127.0.0.1 abogayapro.com
 127.0.0.1 aboking.de
 127.0.0.1 abonnement-iptv-adulte.online
+127.0.0.1 abort-v-klinike.ru
 127.0.0.1 aboutfoto.com
 127.0.0.1 aboutgaymovies.info
 127.0.0.1 aboutporno.net
@@ -2355,6 +2375,7 @@
 127.0.0.1 abusethisslut.com
 127.0.0.1 abusexuxurizi.web.id
 127.0.0.1 abutube.com
+127.0.0.1 abvgrp.ru
 127.0.0.1 abwaab.me
 127.0.0.1 abxxx.com
 127.0.0.1 abxxx.live
@@ -2383,7 +2404,6 @@
 127.0.0.1 accidentalscatporn.com
 127.0.0.1 acclaimtalent.com
 127.0.0.1 accmusex.com
-127.0.0.1 accordia.xyz
 127.0.0.1 accordingtothescriptures.org
 127.0.0.1 account-dorcel.com
 127.0.0.1 acctrusted.com
@@ -2405,6 +2425,7 @@
 127.0.0.1 acgn.zone
 127.0.0.1 acgotang.com
 127.0.0.1 achadinhosexpress.com
+127.0.0.1 achadosexclusivos.com
 127.0.0.1 achadosexpressbr.shop
 127.0.0.1 acicoligayeyi.web.id
 127.0.0.1 acidhousex.com
@@ -2521,6 +2542,7 @@
 127.0.0.1 adgofor.com
 127.0.0.1 adhdinadults.co.uk
 127.0.0.1 adhdinadults.uk
+127.0.0.1 adhdtestingforadults.com
 127.0.0.1 adhustler.com
 127.0.0.1 adictox.com
 127.0.0.1 adidasxramadan.se
@@ -2596,9 +2618,11 @@
 127.0.0.1 adstgp.com
 127.0.0.1 adult-69.net
 127.0.0.1 adult-accounts.online
+127.0.0.1 adult-admire.com
 127.0.0.1 adult-adult-search.com
 127.0.0.1 adult-affiliate.tv
 127.0.0.1 adult-ai.online
+127.0.0.1 adult-antenna.net
 127.0.0.1 adult-baby-shop.eu
 127.0.0.1 adult-bible.com
 127.0.0.1 adult-calmy-slojd.fun
@@ -2610,6 +2634,7 @@
 127.0.0.1 adult-content.org
 127.0.0.1 adult-coupon.com
 127.0.0.1 adult-creators.tv
+127.0.0.1 adult-database.net
 127.0.0.1 adult-dating-sites.ca
 127.0.0.1 adult-ed.net
 127.0.0.1 adult-education-hub.online
@@ -2641,6 +2666,7 @@
 127.0.0.1 adult-hub.net
 127.0.0.1 adult-hub.top
 127.0.0.1 adult-images.ru
+127.0.0.1 adult-index2.jp
 127.0.0.1 adult-literacy-programs.site
 127.0.0.1 adult-live.com
 127.0.0.1 adult-manga-dojin.com
@@ -2664,6 +2690,7 @@
 127.0.0.1 adult-quest.online
 127.0.0.1 adult-retro.com
 127.0.0.1 adult-review-lab.com
+127.0.0.1 adult-review-log.com
 127.0.0.1 adult-review.com
 127.0.0.1 adult-review.ru
 127.0.0.1 adult-selection1919.com
@@ -2683,11 +2710,11 @@
 127.0.0.1 adult-tube-videos.com
 127.0.0.1 adult-tv-channels.com
 127.0.0.1 adult-uh.info
+127.0.0.1 adult-video-chat.live
 127.0.0.1 adult-video-chat.net
 127.0.0.1 adult-videos.site
 127.0.0.1 adult-visual-novel.com
 127.0.0.1 adult-vr-game-room.itch.io
-127.0.0.1 adult-vr-guide.net
 127.0.0.1 adult-x.com
 127.0.0.1 adult-xxx-girls.com
 127.0.0.1 adult-yhu.info
@@ -2696,6 +2723,7 @@
 127.0.0.1 adult.com.br
 127.0.0.1 adult.finance
 127.0.0.1 adult.likevideo.jp
+127.0.0.1 adult.sk
 127.0.0.1 adult.technology
 127.0.0.1 adult11.com
 127.0.0.1 adult18catalog.com
@@ -2716,6 +2744,7 @@
 127.0.0.1 adultadhdcalifornia.com
 127.0.0.1 adultadhdchecker.com
 127.0.0.1 adultadhdguide.com
+127.0.0.1 adultadhdtests.com
 127.0.0.1 adultadlist.com
 127.0.0.1 adultadmin.com
 127.0.0.1 adultadspaceexpress.cloud
@@ -2737,6 +2766,7 @@
 127.0.0.1 adultallegedly.com
 127.0.0.1 adultaltrli.shop
 127.0.0.1 adultaltyazili.shop
+127.0.0.1 adultanonymous.com
 127.0.0.1 adultarcadia.com
 127.0.0.1 adultartambassador.com
 127.0.0.1 adultarticles.blog
@@ -2755,6 +2785,7 @@
 127.0.0.1 adultbead.com
 127.0.0.1 adultbeginnerpiano.com
 127.0.0.1 adultbestjoy.xyz
+127.0.0.1 adultbeveragenews.com
 127.0.0.1 adultbike.com
 127.0.0.1 adultbitcoin.xyz
 127.0.0.1 adultblisszone.com
@@ -2777,7 +2808,6 @@
 127.0.0.1 adultbunker.com
 127.0.0.1 adultcafe.de
 127.0.0.1 adultcalculator.com
-127.0.0.1 adultcam.xyz
 127.0.0.1 adultcam69.com
 127.0.0.1 adultcammoney.com
 127.0.0.1 adultcams.xyz
@@ -2926,6 +2956,7 @@
 127.0.0.1 adulterotic.net
 127.0.0.1 adultery.de
 127.0.0.1 adulteryexposed.com
+127.0.0.1 adulteryflowio.click
 127.0.0.1 adulterytime.com
 127.0.0.1 adultesconsentants.com
 127.0.0.1 adultessentialsdepot.com
@@ -2977,6 +3008,7 @@
 127.0.0.1 adultfuckhub.com
 127.0.0.1 adultfucks.com
 127.0.0.1 adultfuel.online
+127.0.0.1 adultfuel.store
 127.0.0.1 adultfull.movie
 127.0.0.1 adultfun.xyz
 127.0.0.1 adultfuns.club
@@ -3143,6 +3175,7 @@
 127.0.0.1 adultmodelindex.com
 127.0.0.1 adultmoney.org
 127.0.0.1 adultmoneyadultfun.com
+127.0.0.1 adultmoneyfinds.com
 127.0.0.1 adultmonopoly.com
 127.0.0.1 adultmovienavigation.com
 127.0.0.1 adultmovies7.com
@@ -3155,14 +3188,13 @@
 127.0.0.1 adultnode.com
 127.0.0.1 adultnostics.com
 127.0.0.1 adultnoveltieslovers.com
-127.0.0.1 adultnoveltymarket.com
+127.0.0.1 adultnsm.info
 127.0.0.1 adultnutritionlab.app
 127.0.0.1 adultnutritionlab.com
 127.0.0.1 adulto.grupos.top
 127.0.0.1 adulto.vip
+127.0.0.1 adultoasis.com
 127.0.0.1 adultocomdesign.com.br
-127.0.0.1 adultocontemporaneo.com
-127.0.0.1 adultocontemporaneo.net
 127.0.0.1 adultocontemporaneo.shop
 127.0.0.1 adultoffline.com
 127.0.0.1 adultojovenshop.cl
@@ -3186,7 +3218,6 @@
 127.0.0.1 adultoscontemporaneos.com
 127.0.0.1 adultoscontemporaneos.info
 127.0.0.1 adultoscontemporaneos.net
-127.0.0.1 adultoscontemporaneos.shop
 127.0.0.1 adultoscontemporaneos.store
 127.0.0.1 adultoscontemporaneos.xyz
 127.0.0.1 adultosenplenitud.com
@@ -3264,7 +3295,6 @@
 127.0.0.1 adultproductsindia.com
 127.0.0.1 adultproductsmall1.com
 127.0.0.1 adultproductssale.com
-127.0.0.1 adultproductssalescenter.com
 127.0.0.1 adultproductsshop.com
 127.0.0.1 adultproject.agency
 127.0.0.1 adultprovisionsho.shop
@@ -3291,9 +3321,9 @@
 127.0.0.1 adultrose.net
 127.0.0.1 adults-ai.online
 127.0.0.1 adults-search.com
+127.0.0.1 adults.one
 127.0.0.1 adults100.com
 127.0.0.1 adults4u.com
-127.0.0.1 adultsafeguardingtrainer.com
 127.0.0.1 adultsandalcohol.com
 127.0.0.1 adultsbacklink.com
 127.0.0.1 adultsboutiquenicosia.com.cy
@@ -3362,11 +3392,11 @@
 127.0.0.1 adultsonly.es
 127.0.0.1 adultsonly.ro
 127.0.0.1 adultsonlyescape.com
-127.0.0.1 adultsoul.site
 127.0.0.1 adultspace.co.nz
 127.0.0.1 adultspeeddates.com
 127.0.0.1 adultspeeddating.com
 127.0.0.1 adultsphere.online
+127.0.0.1 adultspicy.in
 127.0.0.1 adultspotter.com
 127.0.0.1 adultspringbreakhtx.com
 127.0.0.1 adultsproduct.com
@@ -3467,11 +3497,11 @@
 127.0.0.1 adulttubez.us
 127.0.0.1 adulttv.uk.com
 127.0.0.1 adulttvlive.net
-127.0.0.1 adultuitje.be
 127.0.0.1 adultutopia.shop
 127.0.0.1 adultuz.com
 127.0.0.1 adultvakti.shop
 127.0.0.1 adultvault.top
+127.0.0.1 adultvertex.com
 127.0.0.1 adultvibestore.com
 127.0.0.1 adultvideo.cc
 127.0.0.1 adultvideo.co
@@ -3501,6 +3531,7 @@
 127.0.0.1 adultwebcams.org
 127.0.0.1 adultwebcamsites.org
 127.0.0.1 adultwebmasters.co.uk
+127.0.0.1 adultwebpages.com
 127.0.0.1 adultwebsitedevelopment.company
 127.0.0.1 adultwebtoon.com
 127.0.0.1 adultweek.com
@@ -3557,6 +3588,7 @@
 127.0.0.1 aegisexecutivepartners.com
 127.0.0.1 aegisexercisephysiology.com
 127.0.0.1 aegisexpedition.com
+127.0.0.1 aelfricedenfrance.fr
 127.0.0.1 aelives.com
 127.0.0.1 aelyosexpertise.fr
 127.0.0.1 aeneasexportinglogistics.com
@@ -3574,6 +3606,7 @@
 127.0.0.1 aeroescorts.com
 127.0.0.1 aerokits.net
 127.0.0.1 aeropartsexchange.com
+127.0.0.1 aeroticstories.com
 127.0.0.1 aesexy.kim
 127.0.0.1 aesexy.pink
 127.0.0.1 aesexy555.site
@@ -3632,7 +3665,6 @@
 127.0.0.1 afsexologue.fr
 127.0.0.1 afspraakjes.com
 127.0.0.1 afteradult.com
-127.0.0.1 afterdarkplayadultstore.com
 127.0.0.1 afterrape.com
 127.0.0.1 afterrape.net
 127.0.0.1 aftersilence.org
@@ -3648,7 +3680,6 @@
 127.0.0.1 againgay.com
 127.0.0.1 agama-sex.cz
 127.0.0.1 agamirsomoy.com
-127.0.0.1 agapanthusexperience.com
 127.0.0.1 agapequalitylogisticsexports.com
 127.0.0.1 agavatube.mobi
 127.0.0.1 agay-24.net
@@ -3659,7 +3690,6 @@
 127.0.0.1 agayatarajoy.com
 127.0.0.1 agaychuk-n8n.ru
 127.0.0.1 agayduk.ru
-127.0.0.1 agayebsport.com
 127.0.0.1 agayindar.com.kz
 127.0.0.1 agaym.bid
 127.0.0.1 agaymergirl.com
@@ -3735,6 +3765,7 @@
 127.0.0.1 ah-me.com
 127.0.0.1 ahaaporn.com
 127.0.0.1 ahacdn.me
+127.0.0.1 ahahhtuubueessexsexx.sbs
 127.0.0.1 ahash.ru
 127.0.0.1 ahbul.com
 127.0.0.1 ahegao.online
@@ -3774,10 +3805,8 @@
 127.0.0.1 ahtops.com
 127.0.0.1 ahua.in
 127.0.0.1 ahvideoscdn.net
-127.0.0.1 ahxldgy.com
 127.0.0.1 ahxtube.com
 127.0.0.1 ahxxxtube.net
-127.0.0.1 ahycshja.com
 127.0.0.1 ai-deep-nude.com
 127.0.0.1 ai-dreamgirls.com
 127.0.0.1 ai-erotic.today
@@ -3887,7 +3916,6 @@
 127.0.0.1 aifacepornpro.com
 127.0.0.1 aifaceswapporn.com
 127.0.0.1 aifemboyporn.com
-127.0.0.1 aifetish.tools
 127.0.0.1 aiforporn.com
 127.0.0.1 aifuckporn.com
 127.0.0.1 aifurrypornpro.com
@@ -3992,7 +4020,6 @@
 127.0.0.1 aiporngalleriespro.com
 127.0.0.1 aiporngamepro.com
 127.0.0.1 aiporngamespro.com
-127.0.0.1 aiporngaming.com
 127.0.0.1 aiporngenerater.com
 127.0.0.1 aiporngenerationpro.com
 127.0.0.1 aiporngeneratirpro.com
@@ -4006,9 +4033,7 @@
 127.0.0.1 aipornguru.com
 127.0.0.1 aipornhub.net
 127.0.0.1 aipornhubpro.com
-127.0.0.1 aipornimage-generator.com
 127.0.0.1 aipornindian.com
-127.0.0.1 aipornking.com
 127.0.0.1 aipornlist.top
 127.0.0.1 aipornnsfw.com
 127.0.0.1 aiporno.info
@@ -4039,7 +4064,6 @@
 127.0.0.1 aiporntool.com
 127.0.0.1 aiporntubepro.com
 127.0.0.1 aipornundresser.com
-127.0.0.1 aipornvideo-generator.com
 127.0.0.1 aipornvideoreddit.com
 127.0.0.1 aipornvideoreviews.com
 127.0.0.1 aipornvideosgithubhostoncomputer.com
@@ -4068,7 +4092,6 @@
 127.0.0.1 airlesbianporn.com
 127.0.0.1 airobotsexdolls.com
 127.0.0.1 airoleplayers.com
-127.0.0.1 airopsexperiments.com
 127.0.0.1 airopsextra.com
 127.0.0.1 airpornsite.com
 127.0.0.1 airportmanchesterescorts.co.uk
@@ -4366,6 +4389,7 @@
 127.0.0.1 allaboutbooks.ru
 127.0.0.1 allaboutyouadultdaycenter.org
 127.0.0.1 alladultpass.com
+127.0.0.1 allamateurvideo.com
 127.0.0.1 allamericanwebcamgirls.com
 127.0.0.1 allanal.com
 127.0.0.1 allanimexxx.com
@@ -4395,6 +4419,7 @@
 127.0.0.1 alldumb.com
 127.0.0.1 allegragilfenbaum.com
 127.0.0.1 alleinerziehendemilf.xyz
+127.0.0.1 allen-iverson.org
 127.0.0.1 allero-erotheek.nl
 127.0.0.1 allescorts.com
 127.0.0.1 allescortservices.com
@@ -4428,10 +4453,10 @@
 127.0.0.1 allicincenter.com
 127.0.0.1 allieisgay.uk
 127.0.0.1 allin99xxx.world
+127.0.0.1 allinalltransit.com
 127.0.0.1 allindiachat.com
 127.0.0.1 allinka.ru
 127.0.0.1 allinoneescorts.com
-127.0.0.1 allinsex.com
 127.0.0.1 allinternal.com
 127.0.0.1 alljapanesepass.com
 127.0.0.1 alljb.eu
@@ -4522,6 +4547,7 @@
 127.0.0.1 alltheporno.com
 127.0.0.1 alltheskyholdings.com
 127.0.0.1 allthingscfnm.net
+127.0.0.1 allthingsdarkanddirty.blog
 127.0.0.1 allthingsworn.com
 127.0.0.1 alltorontoescorts.com
 127.0.0.1 alltrannypics.com
@@ -4556,6 +4582,7 @@
 127.0.0.1 alohatube.icu
 127.0.0.1 alohatube.video
 127.0.0.1 alohatubi.com
+127.0.0.1 alohaxxxsex.com
 127.0.0.1 alonaija.com
 127.0.0.1 alonsonunez.cl
 127.0.0.1 alorisexpeditions.com
@@ -4619,6 +4646,8 @@
 127.0.0.1 altscene.com
 127.0.0.1 altsex.de
 127.0.0.1 altsex.org
+127.0.0.1 altsxessexpornnrrn.sbs
+127.0.0.1 altsxessexpornrnrn.sbs
 127.0.0.1 altumyoungadults.com
 127.0.0.1 altumyoungadults.org
 127.0.0.1 altunaygayrimenkul.com
@@ -4733,7 +4762,6 @@
 127.0.0.1 alxxnxxxxxsex.wiki
 127.0.0.1 aly.gay
 127.0.0.1 alybosexyhuad.mobi
-127.0.0.1 alyssagaylard.com
 127.0.0.1 alyssatexteachessex.com
 127.0.0.1 alyvaa.com
 127.0.0.1 alyzoo.org
@@ -4884,10 +4912,10 @@
 127.0.0.1 amatoralbum.hu
 127.0.0.1 amatori.info
 127.0.0.1 amatorifsa.sbs
+127.0.0.1 amatorixxx.com
 127.0.0.1 amatorsex.sbs
 127.0.0.1 amatorsko.com
 127.0.0.1 amatporn.com
-127.0.0.1 amatrice-francaise.com
 127.0.0.1 amatrys.com
 127.0.0.1 amature.pro
 127.0.0.1 amaturecumshots.com
@@ -4962,6 +4990,9 @@
 127.0.0.1 amerturporn.com
 127.0.0.1 amesexi.com
 127.0.0.1 ametart.com
+127.0.0.1 amhastassissiiesessexx1.sbs
+127.0.0.1 amhastassissiiseessexx1.sbs
+127.0.0.1 amhastassissisieessexx1.sbs
 127.0.0.1 amhxxx.vip
 127.0.0.1 amiasexaddict.com
 127.0.0.1 amiaslutyet.com
@@ -5025,6 +5056,7 @@
 127.0.0.1 ampland.com
 127.0.0.1 amputeyigit.gay
 127.0.0.1 amritakapoor.com
+127.0.0.1 amritayogayayurveda.com
 127.0.0.1 amritsar-escort.com
 127.0.0.1 amritsar-escorts.com
 127.0.0.1 amritsarcallgirl.com
@@ -5053,10 +5085,10 @@
 127.0.0.1 amusun.com
 127.0.0.1 amviaadultday.com
 127.0.0.1 amviaadultday.net
-127.0.0.1 amviaadultday.org
 127.0.0.1 amxorion.com
 127.0.0.1 amxxxx.xyz
 127.0.0.1 amydsouza.in
+127.0.0.1 amyreidonline.com
 127.0.0.1 amytaylor.com
 127.0.0.1 amzadvisersexperts.info
 127.0.0.1 amzprime.maft.uk
@@ -5195,6 +5227,7 @@
 127.0.0.1 analpornvideos.xxx
 127.0.0.1 analpornvids.com
 127.0.0.1 analpornxl.com
+127.0.0.1 analporrnrnsexsxsx.sbs
 127.0.0.1 analquest.com
 127.0.0.1 analrough.com
 127.0.0.1 analry.com
@@ -5369,11 +5402,9 @@
 127.0.0.1 anhsex.asia
 127.0.0.1 anhsex.blog
 127.0.0.1 anhsex.club
-127.0.0.1 anhsex.top
 127.0.0.1 anhsex18vip.com
 127.0.0.1 anhsexjav.xyz
 127.0.0.1 anhsexkoche.com
-127.0.0.1 anhsexkoche.xyz
 127.0.0.1 anicosplaylove.com
 127.0.0.1 anifap.club
 127.0.0.1 anifap.com
@@ -5564,13 +5595,12 @@
 127.0.0.1 annayumlaw.com
 127.0.0.1 annchery.mx
 127.0.0.1 anneandcathy.com
-127.0.0.1 anneporno.pro
 127.0.0.1 annesextonpilates.com
 127.0.0.1 annettegaynor.com
 127.0.0.1 annettehavenporn.com
-127.0.0.1 anngay.com
 127.0.0.1 anngonmoingay.com
 127.0.0.1 anniebody.xxx
+127.0.0.1 annonce-gay.ch
 127.0.0.1 annonce-sex.be
 127.0.0.1 annonce-sex.fr
 127.0.0.1 annonce2cougar.com
@@ -5958,6 +5988,7 @@
 127.0.0.1 arabpornmovie.com
 127.0.0.1 arabporno.top
 127.0.0.1 arabporno.us
+127.0.0.1 arabpornohub.com
 127.0.0.1 arabpornsamples.com
 127.0.0.1 arabpornsites.com
 127.0.0.1 arabporntubes.com
@@ -6077,6 +6108,7 @@
 127.0.0.1 arctica-sk.ru
 127.0.0.1 ardarei.com
 127.0.0.1 ardart.com
+127.0.0.1 ardaso.com
 127.0.0.1 ardentcunt.com
 127.0.0.1 ardentmums.com
 127.0.0.1 ardienteplacer.com
@@ -6135,6 +6167,8 @@
 127.0.0.1 arizonaadultplacement.com
 127.0.0.1 arizonasportsmansexpo.com
 127.0.0.1 arjuna96xxx.lat
+127.0.0.1 arkadasajans.com
+127.0.0.1 arkadaslistesi.com
 127.0.0.1 arkansasexport.com
 127.0.0.1 arkansasheadline.com
 127.0.0.1 arkenol.com
@@ -6222,6 +6256,7 @@
 127.0.0.1 arthursexteriormaintenance.com
 127.0.0.1 articulosexpress.online
 127.0.0.1 artificialadulting.com
+127.0.0.1 artificialgrassexpert.sbs
 127.0.0.1 artificialgrassexport.com
 127.0.0.1 artificially.gay
 127.0.0.1 artificialnudes.com
@@ -6426,6 +6461,7 @@
 127.0.0.1 arxnxxxxxxxxxhd.mom
 127.0.0.1 arxnxxxxxxxxxhd.monster
 127.0.0.1 arxnxxxxxxxxxhd.motorcycles
+127.0.0.1 arxnxxxxxxxxxhd.onl
 127.0.0.1 arxnxxxxxxxxxhd.online
 127.0.0.1 arxnxxxxxxxxxhd.qpon
 127.0.0.1 arxnxxxxxxxxxhd.quest
@@ -6452,6 +6488,7 @@
 127.0.0.1 arzookanak.in
 127.0.0.1 arzy.in
 127.0.0.1 as-anothersexy.online
+127.0.0.1 as-anothersexy.ru
 127.0.0.1 as7ab.forumgabon.com
 127.0.0.1 asaakira.com
 127.0.0.1 asacp.org
@@ -6468,7 +6505,6 @@
 127.0.0.1 asephy.itch.io
 127.0.0.1 asex168.com
 127.0.0.1 asexbox.net
-127.0.0.1 asexc.com
 127.0.0.1 asexchange.live
 127.0.0.1 asexchange.vip
 127.0.0.1 asexclips.com
@@ -6477,6 +6513,7 @@
 127.0.0.1 asexon.com
 127.0.0.1 asexosz.com
 127.0.0.1 asexpertconstruction.com
+127.0.0.1 asexploit.life
 127.0.0.1 asexport.in
 127.0.0.1 asexstories.com
 127.0.0.1 asextv.xyz
@@ -6570,6 +6607,7 @@
 127.0.0.1 asian4kporn.com
 127.0.0.1 asian8porn.com
 127.0.0.1 asianaipornpro.com
+127.0.0.1 asianallure.com
 127.0.0.1 asianamateursex.pics
 127.0.0.1 asiananimaltube.org
 127.0.0.1 asiananimalxxx.top
@@ -6747,6 +6785,7 @@
 127.0.0.1 asiansluts.pics
 127.0.0.1 asianslutz.com
 127.0.0.1 asiansmovies.com
+127.0.0.1 asiansmut.xyz
 127.0.0.1 asiansporn.site
 127.0.0.1 asianssex.com
 127.0.0.1 asianssextube.com
@@ -6792,7 +6831,6 @@
 127.0.0.1 asianworldp.com
 127.0.0.1 asianx.top
 127.0.0.1 asianxhd.com
-127.0.0.1 asianxmovies.pro
 127.0.0.1 asianxmovs.com
 127.0.0.1 asianxn.icu
 127.0.0.1 asianxnxx.site
@@ -6953,7 +6991,6 @@
 127.0.0.1 assetgayrimenkul.com
 127.0.0.1 assetsexperience.com
 127.0.0.1 assexfinance.com
-127.0.0.1 assexmarketzbroker.com
 127.0.0.1 assexualidade.com.br
 127.0.0.1 assfocus.com
 127.0.0.1 assfocused.com
@@ -6992,7 +7029,6 @@
 127.0.0.1 astalavr.com
 127.0.0.1 astalivevr.com
 127.0.0.1 astec.cnt.br
-127.0.0.1 asteriajadexxx.com
 127.0.0.1 asteroidwhat.org
 127.0.0.1 asthub.com
 127.0.0.1 astockings.com
@@ -7027,7 +7063,6 @@
 127.0.0.1 atakoykbb.com
 127.0.0.1 atamanco.eu
 127.0.0.1 atanas-shterev.com
-127.0.0.1 ataporn.com
 127.0.0.1 atarimtr.co.il
 127.0.0.1 atasehirescorts6.xyz
 127.0.0.1 atasehirescortx.net
@@ -7082,7 +7117,6 @@
 127.0.0.1 atlasexpert.online
 127.0.0.1 atlasexploration.ai
 127.0.0.1 atlasexportsus.com
-127.0.0.1 atlasexpres.com
 127.0.0.1 atlasexpress-autosales.com
 127.0.0.1 atlasexpressautosales.com
 127.0.0.1 atlasexpresssolutions.com
@@ -7099,7 +7133,6 @@
 127.0.0.1 atouchofgay.com
 127.0.0.1 atozline.net
 127.0.0.1 atpictures.com
-127.0.0.1 atproto.gay
 127.0.0.1 atr.com.tn
 127.0.0.1 atrakcyjne-mamuski.pl
 127.0.0.1 atrigarg.in
@@ -7204,7 +7237,6 @@
 127.0.0.1 autocargaytransportes.mx
 127.0.0.1 autoglassexperts.co
 127.0.0.1 autoglassexpress.org
-127.0.0.1 autohausexperience.com
 127.0.0.1 autohausexpres.com
 127.0.0.1 autoheterosexual.com
 127.0.0.1 autolinkweb.com
@@ -7296,6 +7328,7 @@
 127.0.0.1 avdesu.cc
 127.0.0.1 avdesu.org
 127.0.0.1 avdg2.top
+127.0.0.1 avdigitalconsulting.com
 127.0.0.1 avdodee.com
 127.0.0.1 avdoofree.club
 127.0.0.1 avdoofree.com
@@ -7390,6 +7423,7 @@
 127.0.0.1 avpornxxx69.com
 127.0.0.1 avppomppu.com
 127.0.0.1 avrebo.com
+127.0.0.1 avreqd.gay
 127.0.0.1 avrevenue.com
 127.0.0.1 avsanpuru.com
 127.0.0.1 avsejie.cfd
@@ -7475,6 +7509,7 @@
 127.0.0.1 axisexperience.co.uk
 127.0.0.1 axisexuberant.shop
 127.0.0.1 axletime.com
+127.0.0.1 axosexe.sbs
 127.0.0.1 axsexyirani.com
 127.0.0.1 axxx.online
 127.0.0.1 axxx309.top
@@ -7502,6 +7537,7 @@
 127.0.0.1 aygq0gaypd.surf
 127.0.0.1 ayhanhepdikergayrimenkul.com
 127.0.0.1 ayhankaradas.com
+127.0.0.1 aylakhaber.com
 127.0.0.1 aymaduras.com
 127.0.0.1 aypoker.poker
 127.0.0.1 aypornom.com
@@ -7527,6 +7563,7 @@
 127.0.0.1 azgayla.org
 127.0.0.1 aziani.com
 127.0.0.1 azianvidz.com
+127.0.0.1 aziatki-porno.com
 127.0.0.1 azitek.com
 127.0.0.1 aziweb.com
 127.0.0.1 azmaxxx.com
@@ -7735,7 +7772,6 @@
 127.0.0.1 badgirlsclubgifs.com
 127.0.0.1 badgirlsusa.com
 127.0.0.1 badgirlwebcam.com
-127.0.0.1 badguyporn.shop
 127.0.0.1 badguys.cyou
 127.0.0.1 badhares.com
 127.0.0.1 badhotfuck.org
@@ -7776,6 +7812,7 @@
 127.0.0.1 baesex.com
 127.0.0.1 bafescorts.com
 127.0.0.1 bagayasportsnews.com
+127.0.0.1 bagayau4008.com
 127.0.0.1 bagayen.shop
 127.0.0.1 bagaylekol.com
 127.0.0.1 bagaynou.com
@@ -7791,7 +7828,6 @@
 127.0.0.1 bahcelievlerkadin.com
 127.0.0.1 bahiaescorts.com
 127.0.0.1 bahrainbusinessexpo.com
-127.0.0.1 baibo66.com
 127.0.0.1 baidra.com
 127.0.0.1 baidu-xiaoshuo.top
 127.0.0.1 baidugay.com
@@ -7863,6 +7899,7 @@
 127.0.0.1 bamis.gov.bd
 127.0.0.1 bamscams.club
 127.0.0.1 bamsexpress.com
+127.0.0.1 bamsexqcxs.shop
 127.0.0.1 bamvisions.com
 127.0.0.1 banal.cc
 127.0.0.1 banal.me
@@ -7988,6 +8025,7 @@
 127.0.0.1 banglasexvideo.com
 127.0.0.1 banglaxvideohd.com
 127.0.0.1 banglaxxx.org
+127.0.0.1 banglaxxxvid.com
 127.0.0.1 banglaxxxvideo.com
 127.0.0.1 banglaxxxvideos.com
 127.0.0.1 banglaxxxx.com
@@ -8018,7 +8056,6 @@
 127.0.0.1 bannedsextapes.co.com
 127.0.0.1 bannedsextapes.com
 127.0.0.1 bannedsextapes.site
-127.0.0.1 banporntexas.com
 127.0.0.1 banquetesextelarys.com.mx
 127.0.0.1 banrevengeporn.com
 127.0.0.1 bansdoc.gov.bd
@@ -8171,9 +8208,6 @@
 127.0.0.1 baubo5.com
 127.0.0.1 baurboysexpressplumbing.com
 127.0.0.1 bavarianfetish.de
-127.0.0.1 bawaslutangerang.com
-127.0.0.1 bawaslutangerangselatan.com
-127.0.0.1 bawaslutulungagung.com
 127.0.0.1 baxisex.shop
 127.0.0.1 bayanescortlar.info
 127.0.0.1 bayanescortsirinevler.com
@@ -8210,7 +8244,6 @@
 127.0.0.1 bbsex.org
 127.0.0.1 bbsexpress.co.uk
 127.0.0.1 bbsexpress.info
-127.0.0.1 bbsexpress.net
 127.0.0.1 bbsgayru.com
 127.0.0.1 bbsgayru23.com
 127.0.0.1 bbsgayru24.com
@@ -8311,7 +8344,6 @@
 127.0.0.1 bcspp.top
 127.0.0.1 bd2999bet.com
 127.0.0.1 bdccl.gov.bd
-127.0.0.1 bdeh9zogayrrw86.com
 127.0.0.1 bdihot.co.il
 127.0.0.1 bdmsexshop.com.br
 127.0.0.1 bdmusic23.digital
@@ -8367,6 +8399,7 @@
 127.0.0.1 bdsm365.biz
 127.0.0.1 bdsm52.com
 127.0.0.1 bdsm91.com
+127.0.0.1 bdsm92.com
 127.0.0.1 bdsmactually.com
 127.0.0.1 bdsmaps.com
 127.0.0.1 bdsmarchive.org
@@ -8379,7 +8412,10 @@
 127.0.0.1 bdsmasia-2.net
 127.0.0.1 bdsmasteries.com
 127.0.0.1 bdsmattien.xyz
+127.0.0.1 bdsmav.net
 127.0.0.1 bdsmav.sbs
+127.0.0.1 bdsmav1.net
+127.0.0.1 bdsmav2.net
 127.0.0.1 bdsmbachelor.com
 127.0.0.1 bdsmbarcelona.com
 127.0.0.1 bdsmbe.com
@@ -8407,7 +8443,6 @@
 127.0.0.1 bdsmdatingsites.co.uk
 127.0.0.1 bdsmdatingsites.net
 127.0.0.1 bdsmdeeds.com
-127.0.0.1 bdsmdevils.com
 127.0.0.1 bdsmdigest.com
 127.0.0.1 bdsmdoe.com
 127.0.0.1 bdsmdungeons.com
@@ -8456,7 +8491,6 @@
 127.0.0.1 bdsmmonstertube.com
 127.0.0.1 bdsmmpanel.com.bd
 127.0.0.1 bdsmmpanell.com
-127.0.0.1 bdsmmpro.site
 127.0.0.1 bdsmmservice.xyz
 127.0.0.1 bdsmnh.com
 127.0.0.1 bdsmnh.org
@@ -8467,7 +8501,6 @@
 127.0.0.1 bdsmpeople.live
 127.0.0.1 bdsmphotos.net
 127.0.0.1 bdsmplanet.org
-127.0.0.1 bdsmpointer.com
 127.0.0.1 bdsmporn.one
 127.0.0.1 bdsmpornbook.com
 127.0.0.1 bdsmpornc.com
@@ -8725,7 +8758,6 @@
 127.0.0.1 beegxxxx.com
 127.0.0.1 beehentai.com
 127.0.0.1 beeku.top
-127.0.0.1 beeldsex.com
 127.0.0.1 beemtube.com
 127.0.0.1 beemtube.org
 127.0.0.1 beepbeepcasino.ru
@@ -8780,6 +8812,7 @@
 127.0.0.1 bekepindo.com
 127.0.0.1 belagoria.com
 127.0.0.1 belamionline.com
+127.0.0.1 belanesexshop.com.br
 127.0.0.1 belanova.org
 127.0.0.1 belas61.com.br
 127.0.0.1 belasarius.com
@@ -8871,6 +8904,7 @@
 127.0.0.1 bepxinhmoingay.cfd
 127.0.0.1 bergamafurs.com
 127.0.0.1 bergayskn.eu.cc
+127.0.0.1 berhangayrimenkul.com
 127.0.0.1 berlin-heilpraktiker.eu
 127.0.0.1 berlin-sex.de
 127.0.0.1 berliner-entsorgung.com
@@ -9055,6 +9089,7 @@
 127.0.0.1 bestialzoo.net
 127.0.0.1 bestie.gay
 127.0.0.1 bestincestvideos.com
+127.0.0.1 bestindiansex.pro
 127.0.0.1 bestindiantube.com
 127.0.0.1 bestinsex.com
 127.0.0.1 bestip.icu
@@ -9235,6 +9270,7 @@
 127.0.0.1 bestxleg.com
 127.0.0.1 bestxlingerie.com
 127.0.0.1 bestxnxx.org
+127.0.0.1 bestxnxx.xyz
 127.0.0.1 bestxnxxx.xyz
 127.0.0.1 bestxpic.com
 127.0.0.1 bestxporn.com
@@ -9242,6 +9278,8 @@
 127.0.0.1 bestxporn.net
 127.0.0.1 bestxvideos.buzz
 127.0.0.1 bestxvideos.org
+127.0.0.1 bestxvideos.xyz
+127.0.0.1 bestxxx.club
 127.0.0.1 bestxxx.org
 127.0.0.1 bestxxx.rodeo
 127.0.0.1 bestxxx.tube
@@ -9265,10 +9303,8 @@
 127.0.0.1 bet90ball.com
 127.0.0.1 bet90win.app
 127.0.0.1 betabooru.donmai.us
-127.0.0.1 betadult.com
 127.0.0.1 betar.gov.bd
 127.0.0.1 betboro90.com
-127.0.0.1 betessex.com
 127.0.0.1 betfido90.com
 127.0.0.1 betflow.xxx
 127.0.0.1 betforward90.com
@@ -9727,6 +9763,8 @@
 127.0.0.1 binebi.ge
 127.0.0.1 bingato.com
 127.0.0.1 bingo37xxx.net
+127.0.0.1 bingo37xxx.online
+127.0.0.1 bingo37xxx.site
 127.0.0.1 bingolescorthot.com
 127.0.0.1 bingoporno.com
 127.0.0.1 binkdate.nl
@@ -9793,7 +9831,6 @@
 127.0.0.1 bisexulita.com
 127.0.0.1 bishejingxuan7109168.buzz
 127.0.0.1 bishuk.com
-127.0.0.1 bismilfurniture.com
 127.0.0.1 bisonporn.com
 127.0.0.1 bist.gay
 127.0.0.1 bistrotdeshalles-pornic.fr
@@ -10211,6 +10248,7 @@
 127.0.0.1 boarporn.com
 127.0.0.1 bobbiporno.com
 127.0.0.1 bobbydkidsexpress.com
+127.0.0.1 bobgaydosautobody.com
 127.0.0.1 bobjav.com
 127.0.0.1 bobjessop.org
 127.0.0.1 bobolike.com
@@ -10337,6 +10375,7 @@
 127.0.0.1 bokepindo68.cc
 127.0.0.1 bokepindo68.net
 127.0.0.1 bokepindo77.online
+127.0.0.1 bokepindoh.bar
 127.0.0.1 bokepindoh.care
 127.0.0.1 bokepindoh.com
 127.0.0.1 bokepindoh.cyou
@@ -10421,7 +10460,6 @@
 127.0.0.1 bokepvidz.com
 127.0.0.1 bokepviral.cc
 127.0.0.1 bokepviral.cfd
-127.0.0.1 bokepviral.in
 127.0.0.1 bokepviral.live
 127.0.0.1 bokepviralterbaru.com
 127.0.0.1 bokepviralterbaru.site
@@ -10496,6 +10534,7 @@
 127.0.0.1 bombporn.quest
 127.0.0.1 bombporn.video
 127.0.0.1 bombshellunisexsalon.in
+127.0.0.1 bombweb.net
 127.0.0.1 bomgacams.webcam
 127.0.0.1 bon-chat.com
 127.0.0.1 bonappt.co.uk
@@ -10653,6 +10692,7 @@
 127.0.0.1 bonusvid.com
 127.0.0.1 bonyporn.com
 127.0.0.1 bonz.net
+127.0.0.1 boob-blog.com
 127.0.0.1 booba.tv
 127.0.0.1 boobasia.com
 127.0.0.1 boobbot.us
@@ -10661,6 +10701,7 @@
 127.0.0.1 boobdex.com
 127.0.0.1 boobglam.com
 127.0.0.1 boobgoddess.com
+127.0.0.1 boobiebangers.com
 127.0.0.1 boobieblog.com
 127.0.0.1 booble.com
 127.0.0.1 boobpedia.com
@@ -10805,6 +10846,7 @@
 127.0.0.1 borntobebound.com
 127.0.0.1 borntobefuck.cam
 127.0.0.1 borntobefuck.com
+127.0.0.1 borntofetish.com
 127.0.0.1 borntosex.com
 127.0.0.1 borntoslut.com
 127.0.0.1 borntowhore.com
@@ -10825,6 +10867,7 @@
 127.0.0.1 bossajazzbrasil.com
 127.0.0.1 bossclub.pro
 127.0.0.1 bossescorts.com
+127.0.0.1 bossexcavatingandlandscaping.com
 127.0.0.1 bossexch365.com
 127.0.0.1 bossexchag.live
 127.0.0.1 bossexhibits.com
@@ -11157,6 +11200,7 @@
 127.0.0.1 breeding.zone
 127.0.0.1 breedme.com
 127.0.0.1 breeolson.com
+127.0.0.1 breexxx.com
 127.0.0.1 breisgau-baeren.de
 127.0.0.1 brenthartinger.com
 127.0.0.1 brentwoofessex.com
@@ -11194,6 +11238,7 @@
 127.0.0.1 brightcoolpussies.com
 127.0.0.1 brightcoolpussies.org
 127.0.0.1 brightdesire.com
+127.0.0.1 brightfuture.in.net
 127.0.0.1 brightgardensexpertise.sbs
 127.0.0.1 brightonsussexcarsales.com
 127.0.0.1 brightreelsexpress.com
@@ -11276,6 +11321,7 @@
 127.0.0.1 brownfootfetish.com
 127.0.0.1 brownie-designs.com
 127.0.0.1 brownplanet.com
+127.0.0.1 brownsexteriorservices.com
 127.0.0.1 browntubeporn.com
 127.0.0.1 browser.gay
 127.0.0.1 browsexji.com
@@ -11641,7 +11687,6 @@
 127.0.0.1 bustymara.com
 127.0.0.1 bustymaturetube.com
 127.0.0.1 bustymellie.com
-127.0.0.1 bustymets.com
 127.0.0.1 bustymilfporn.com
 127.0.0.1 bustymilftube.com
 127.0.0.1 bustymilkmaid.com
@@ -11662,6 +11707,7 @@
 127.0.0.1 bustyryn.com
 127.0.0.1 bustysage.com
 127.0.0.1 bustysexxvideos.com
+127.0.0.1 bustysexygirls.com
 127.0.0.1 bustysexyvideos.com
 127.0.0.1 bustysirens.com
 127.0.0.1 bustyteenboobs.net
@@ -11711,6 +11757,7 @@
 127.0.0.1 buysexdollscanada.ca
 127.0.0.1 buysexpayprices.com
 127.0.0.1 buysexpayprices.org
+127.0.0.1 buysextoyth.com
 127.0.0.1 buysilagra.life
 127.0.0.1 buythisifyourgay.com
 127.0.0.1 buyukcekmeceescortgo.xyz
@@ -11855,6 +11902,9 @@
 127.0.0.1 californiatv.com.br
 127.0.0.1 caligayanindsllc.com
 127.0.0.1 caligulasexshop.com.mx
+127.0.0.1 calikoglugayrimenkul.com
+127.0.0.1 calikoglugayrimenkul.info
+127.0.0.1 calikoglugayrimenkul.online
 127.0.0.1 calinemoi.com
 127.0.0.1 calisgay.com
 127.0.0.1 calisthenicsexperience.com
@@ -12296,7 +12346,6 @@
 127.0.0.1 camsex.nl
 127.0.0.1 camsex4all.com
 127.0.0.1 camsexcity.com
-127.0.0.1 camsexdates.com
 127.0.0.1 camsexgutschein.top
 127.0.0.1 camsexhero.com
 127.0.0.1 camsexlive.xyz
@@ -12367,6 +12416,7 @@
 127.0.0.1 camstube.org
 127.0.0.1 camsurf.com
 127.0.0.1 camsweb.net
+127.0.0.1 camsweet.com
 127.0.0.1 camsweets.com
 127.0.0.1 camswet.com
 127.0.0.1 camswild.to
@@ -12403,7 +12453,6 @@
 127.0.0.1 camwh.com
 127.0.0.1 camwhorelist.org
 127.0.0.1 camwhorenextdoor.com
-127.0.0.1 camwhorenextdoor.net
 127.0.0.1 camwhores.best
 127.0.0.1 camwhores.biz
 127.0.0.1 camwhores.camera
@@ -12573,6 +12622,7 @@
 127.0.0.1 capitalg.us
 127.0.0.1 capitalonebankgroup.com
 127.0.0.1 capitalporn.com
+127.0.0.1 capitalrevengegaykrisd88.net
 127.0.0.1 capitalsexy.com.br
 127.0.0.1 capitalsolutionsexperts.info
 127.0.0.1 capitalstocksexpert.help
@@ -12681,7 +12731,6 @@
 127.0.0.1 carpoweressex.com
 127.0.0.1 carrabbasgiveaway.com
 127.0.0.1 carreraporn.com
-127.0.0.1 carrierdirect.co
 127.0.0.1 carros.blog.br
 127.0.0.1 carrotscritters.itch.io
 127.0.0.1 carruthersexcavation.com
@@ -12752,6 +12801,7 @@
 127.0.0.1 cartoonpussy.com
 127.0.0.1 cartoonregistry.com
 127.0.0.1 cartoons-sex.com
+127.0.0.1 cartoons4fun.com
 127.0.0.1 cartoonscatporn.com
 127.0.0.1 cartoonsexx.net
 127.0.0.1 cartoonsworld.vip
@@ -12884,6 +12934,7 @@
 127.0.0.1 catcohen.substack.com
 127.0.0.1 catedracosgaya.com.ar
 127.0.0.1 categorieporno.com
+127.0.0.1 catequesisdeadultos.com
 127.0.0.1 catfight-connection.com
 127.0.0.1 catfightdvd.com
 127.0.0.1 catfightonline.com
@@ -13338,12 +13389,14 @@
 127.0.0.1 chat-avenue.com
 127.0.0.1 chat-fetish.com
 127.0.0.1 chat-fr.org
+127.0.0.1 chat-gay.ch
 127.0.0.1 chat-porno.it
 127.0.0.1 chat-rooms.webcam
 127.0.0.1 chat-rulet-18.com
 127.0.0.1 chat-rulet18.com
 127.0.0.1 chat-ruletka-18.com
 127.0.0.1 chat-s-devushkami.com
+127.0.0.1 chat-sex.ch
 127.0.0.1 chat-sexefr.fr
 127.0.0.1 chat-sexy.net
 127.0.0.1 chat-with-milf.top
@@ -13916,6 +13969,7 @@
 127.0.0.1 cimacity.xyz
 127.0.0.1 cimcikle.com
 127.0.0.1 cimcime48.com
+127.0.0.1 cimengayrimenkulmersin.com
 127.0.0.1 cin.ac
 127.0.0.1 cin.guru
 127.0.0.1 cin.mom
@@ -13967,9 +14021,11 @@
 127.0.0.1 circuitdb.com
 127.0.0.1 circuitqueen.gay
 127.0.0.1 circulogay.com
+127.0.0.1 circumsexuals.com
 127.0.0.1 circuserotic.com
 127.0.0.1 circusporn.com
 127.0.0.1 circustube.com
+127.0.0.1 ciruelasex.site
 127.0.0.1 cita-caliente.com
 127.0.0.1 citadel-france.com
 127.0.0.1 citapasion.com
@@ -14041,7 +14097,6 @@
 127.0.0.1 claimsexchangeweb.co
 127.0.0.1 claimsexperts.in
 127.0.0.1 claire-legrand.com
-127.0.0.1 clairesadultstore.com
 127.0.0.1 clairesadulttoys.com
 127.0.0.1 clairesadulttoystore.com
 127.0.0.1 clairesxxxtoystore.com
@@ -14150,7 +14205,6 @@
 127.0.0.1 cleopatraescorts.co.uk
 127.0.0.1 clg200.buzz
 127.0.0.1 click-chann.com
-127.0.0.1 click2paid.com
 127.0.0.1 clickfap.com
 127.0.0.1 clickfastforporn.shop
 127.0.0.1 clickfree.xyz
@@ -14177,6 +14231,7 @@
 127.0.0.1 clingfilmbondage.com
 127.0.0.1 clinicaomgayatri.com.br
 127.0.0.1 clinicapodologiagayarre.com
+127.0.0.1 clinicasexpress.com
 127.0.0.1 clinus.org
 127.0.0.1 clip-art-center.com
 127.0.0.1 clip-nolad.co.il
@@ -14214,11 +14269,13 @@
 127.0.0.1 clipsex.club
 127.0.0.1 clipsex.lat
 127.0.0.1 clipsex.lol
+127.0.0.1 clipsex.vip
 127.0.0.1 clipsex1.blog
 127.0.0.1 clipsex18.blog
 127.0.0.1 clipsex18.co.uk
 127.0.0.1 clipsex18x.blog
 127.0.0.1 clipsex3x.pro
+127.0.0.1 clipsexhot.com
 127.0.0.1 clipsexhot.vip
 127.0.0.1 clipsexhot1.blog
 127.0.0.1 clipsexhot3x.net
@@ -14233,6 +14290,7 @@
 127.0.0.1 clipsexviet.net
 127.0.0.1 clipsexviet.uk
 127.0.0.1 clipsexviet18.com
+127.0.0.1 clipsexvip.com
 127.0.0.1 clipsexvn.blog
 127.0.0.1 clipsexvn.in
 127.0.0.1 clipsexvn1.blog
@@ -14291,6 +14349,7 @@
 127.0.0.1 club-carmellabing.com
 127.0.0.1 club-cougars.com
 127.0.0.1 club-equinoxe.de
+127.0.0.1 club-escort.com
 127.0.0.1 club-hannahilton.com
 127.0.0.1 club-paradise.nl
 127.0.0.1 club-prive.pl
@@ -14514,6 +14573,7 @@
 127.0.0.1 cokucuzasite.com
 127.0.0.1 colchonesexpress.com
 127.0.0.1 coldmysex.com
+127.0.0.1 colebluexxx.com
 127.0.0.1 coleen.cam
 127.0.0.1 coleen13.lat
 127.0.0.1 colegialacasero.com
@@ -14608,6 +14668,7 @@
 127.0.0.1 comicporno.net
 127.0.0.1 comics-moon.com
 127.0.0.1 comics-pics.mobi
+127.0.0.1 comics-porn.club
 127.0.0.1 comics.guru
 127.0.0.1 comics18.org
 127.0.0.1 comicsarmy.com
@@ -14665,6 +14726,7 @@
 127.0.0.1 completelyfreedating.com
 127.0.0.1 completelynaked.co.uk
 127.0.0.1 completeporndatabase.com
+127.0.0.1 completeporndatabase.net
 127.0.0.1 complicationdirty.boutique
 127.0.0.1 compligayted.com
 127.0.0.1 complisex.com
@@ -14681,6 +14743,7 @@
 127.0.0.1 comptoir-thai-pornic.fr
 127.0.0.1 computerlook.com
 127.0.0.1 comra.ca
+127.0.0.1 comsysexeomiraitcorpgov.com
 127.0.0.1 comunicare-relatiipublice.ro
 127.0.0.1 comunidadedeusexiste.com.br
 127.0.0.1 comwwwsexx2019.com
@@ -14791,6 +14854,7 @@
 127.0.0.1 coolinet.net
 127.0.0.1 coolip.icu
 127.0.0.1 coollesbianporn.com
+127.0.0.1 coolmathporn.com
 127.0.0.1 coolmenu.ru
 127.0.0.1 coolmoviez.baby
 127.0.0.1 coolmoviez.net.tr
@@ -14858,7 +14922,6 @@
 127.0.0.1 coroasdoxvideos.com
 127.0.0.1 coroasgostosas.blog
 127.0.0.1 coroasmaduras.net
-127.0.0.1 coroastelegram.com
 127.0.0.1 coroastelegram.com.br
 127.0.0.1 coroastesudas.com
 127.0.0.1 coronaporno.sbs
@@ -14963,6 +15026,7 @@
 127.0.0.1 couplesex.info
 127.0.0.1 couplesex.online
 127.0.0.1 couplesex.pics
+127.0.0.1 couplesexperiences.com
 127.0.0.1 couplesseekingteens.com
 127.0.0.1 couponsgrid.com
 127.0.0.1 coursexed.online
@@ -14979,6 +15043,7 @@
 127.0.0.1 covesexteriorservices.com
 127.0.0.1 covevzn.sex
 127.0.0.1 covid19map.co.nz
+127.0.0.1 covoituragegay.com
 127.0.0.1 cowanimalsex.fun
 127.0.0.1 cowbestialitysex.com
 127.0.0.1 cowinya.gay
@@ -15064,6 +15129,7 @@
 127.0.0.1 crazyhotfuck.com
 127.0.0.1 crazyimg.com
 127.0.0.1 crazyjavporn.com
+127.0.0.1 crazyjavtube.com
 127.0.0.1 crazyoldmoms.com
 127.0.0.1 crazyporn.club
 127.0.0.1 crazyporn.net
@@ -15146,6 +15212,7 @@
 127.0.0.1 credentialsexpert.com
 127.0.0.1 credentialsofadulthood.ca
 127.0.0.1 credentialsofadulthood.com
+127.0.0.1 creditsagricole.fr
 127.0.0.1 creditssex.com
 127.0.0.1 creeperpic.com
 127.0.0.1 cremz.com
@@ -15156,9 +15223,11 @@
 127.0.0.1 crim3s.co.uk
 127.0.0.1 crimemagazine.com
 127.0.0.1 criminalwatch.com
+127.0.0.1 crimsonsemi.com
 127.0.0.1 cringemdb.com
 127.0.0.1 criollasx.com
 127.0.0.1 cripsexpress.com
+127.0.0.1 crisisexpert.ru
 127.0.0.1 crispermagnifier.com
 127.0.0.1 crispgaysex.com
 127.0.0.1 cristalgaylephotography.com
@@ -15228,6 +15297,7 @@
 127.0.0.1 cruisingporn.com
 127.0.0.1 crunchboy.com
 127.0.0.1 crunkmovies.mobi
+127.0.0.1 crush-fetish.store
 127.0.0.1 crush.to
 127.0.0.1 crushchat.ai
 127.0.0.1 crushchat.app
@@ -15481,6 +15551,7 @@
 127.0.0.1 cumxxxporn.com
 127.0.0.1 cunbetsextou.com
 127.0.0.1 cuntaddict.com
+127.0.0.1 cuntcollege.com
 127.0.0.1 cuntlick.net
 127.0.0.1 cuntmovies.pro
 127.0.0.1 cuntninja.com
@@ -15510,6 +15581,7 @@
 127.0.0.1 curioussex.com
 127.0.0.1 curiowhisper.com
 127.0.0.1 curitibaacompanhantes.com
+127.0.0.1 curlsandcocktailunisexsalon.in
 127.0.0.1 currycreampie.com
 127.0.0.1 cursoeducacaosexual.com
 127.0.0.1 cursosexcellence.com
@@ -15628,6 +15700,7 @@
 127.0.0.1 cyberteenporn.com
 127.0.0.1 cyclingisgay.com
 127.0.0.1 cylixxx.com
+127.0.0.1 cypgayblnpqcrje.com
 127.0.0.1 cypressexecutivelimo.com
 127.0.0.1 cyproterone.gay
 127.0.0.1 cyprusescortdirectory.com.cy
@@ -15763,6 +15836,7 @@
 127.0.0.1 dagfs.com
 127.0.0.1 dagobah.net
 127.0.0.1 dagoddessexperience.com
+127.0.0.1 dagosex.icu
 127.0.0.1 daidalosestate.com
 127.0.0.1 daihocsexhd.com
 127.0.0.1 daily-bbw-porn.com
@@ -15831,6 +15905,7 @@
 127.0.0.1 damaxxxlyantor.ru
 127.0.0.1 damduc.org
 127.0.0.1 damesmaturesproches.com
+127.0.0.1 dametube.com
 127.0.0.1 damgay.com
 127.0.0.1 daminisharma9717.mystrikingly.com
 127.0.0.1 damlagayrimenkul.com
@@ -15959,6 +16034,7 @@
 127.0.0.1 daryeladultdaycare.com
 127.0.0.1 dasdomizil.eu
 127.0.0.1 dasegay.one
+127.0.0.1 dasexidramivm.info
 127.0.0.1 dasexperten.biz
 127.0.0.1 dasexportindia.com
 127.0.0.1 dashboard.gay
@@ -16030,7 +16106,6 @@
 127.0.0.1 datingscout.com.au
 127.0.0.1 datingsearch.online
 127.0.0.1 datingsearchbox.com
-127.0.0.1 datingsexhookup.xyz
 127.0.0.1 datingsextapes.com
 127.0.0.1 datingsexyblacks.com
 127.0.0.1 datingsitesadult.com
@@ -16040,7 +16115,9 @@
 127.0.0.1 datoons.com
 127.0.0.1 datoporn.com
 127.0.0.1 datosextremadura.com
+127.0.0.1 datsanngay.online
 127.0.0.1 datsanngay.vn
+127.0.0.1 daughter-incest.com
 127.0.0.1 daughterdreams.com
 127.0.0.1 daughterswap.com
 127.0.0.1 daughtertraining.com
@@ -16142,6 +16219,7 @@
 127.0.0.1 deagapornis.com
 127.0.0.1 dealershipsexchange.com
 127.0.0.1 deallighthousex.com
+127.0.0.1 dealpulsex.com
 127.0.0.1 dealsbymark.com
 127.0.0.1 dealsexpert.ai
 127.0.0.1 dealsextraplace.shop
@@ -16155,6 +16233,7 @@
 127.0.0.1 deasians.com
 127.0.0.1 deathtubes.com
 127.0.0.1 debarrasexpres77idf.com
+127.0.0.1 debarrasexpressidf.com
 127.0.0.1 debatingay.info
 127.0.0.1 debbie.deboisson.free.fr
 127.0.0.1 debengelforessex.com
@@ -16281,6 +16360,7 @@
 127.0.0.1 dehradunescortsagency.in
 127.0.0.1 dehradunescortsclub.com
 127.0.0.1 dehradunescortservice.me
+127.0.0.1 dehradunescortsgirls.in
 127.0.0.1 dehradunescortsservice.in
 127.0.0.1 dehradunescortsservices.com
 127.0.0.1 dehradunescortstars.com
@@ -17047,6 +17127,7 @@
 127.0.0.1 digitaladsexpert.space
 127.0.0.1 digitaladsexperts.io
 127.0.0.1 digitalbee.al
+127.0.0.1 digitalbusinessexpert.sbs
 127.0.0.1 digitalden.co.za
 127.0.0.1 digitaldnaprosexperts.com
 127.0.0.1 digitaldoge.gay
@@ -17097,7 +17178,6 @@
 127.0.0.1 dinersexperience.com
 127.0.0.1 dinersroom.eu
 127.0.0.1 dinesex.icu
-127.0.0.1 dinhdaiphat.com
 127.0.0.1 dinkesgayolues.org
 127.0.0.1 dinnersperm.com
 127.0.0.1 dino-chrome.com
@@ -17159,6 +17239,8 @@
 127.0.0.1 dirtdiggersexcavationllc.com
 127.0.0.1 dirty-air.com
 127.0.0.1 dirty-anal.com
+127.0.0.1 dirty-apple.shop
+127.0.0.1 dirty-ass-dump.com
 127.0.0.1 dirty-base.space
 127.0.0.1 dirty-beauty.com
 127.0.0.1 dirty-bore.com
@@ -17175,11 +17257,10 @@
 127.0.0.1 dirty-popsodaco.com
 127.0.0.1 dirty-prints.com
 127.0.0.1 dirty-records.com
-127.0.0.1 dirty-sancho.com
 127.0.0.1 dirty-scat.com
 127.0.0.1 dirty-sex-chat.co.uk
 127.0.0.1 dirty-shit.shop
-127.0.0.1 dirty-sneakers.nl
+127.0.0.1 dirty-solutions.work
 127.0.0.1 dirty-thirty.de
 127.0.0.1 dirty-tina.de
 127.0.0.1 dirty-tracks.com
@@ -17211,6 +17292,7 @@
 127.0.0.1 dirtyacresho.shop
 127.0.0.1 dirtyaichat.com
 127.0.0.1 dirtyairsports.com
+127.0.0.1 dirtyalgo.live
 127.0.0.1 dirtyangels.co.uk
 127.0.0.1 dirtyartdepartment.com
 127.0.0.1 dirtyasana.com
@@ -17299,6 +17381,7 @@
 127.0.0.1 dirtycarbon.boutique
 127.0.0.1 dirtycarrotrecords.com
 127.0.0.1 dirtycarspaythebills.com
+127.0.0.1 dirtycat-studios.com
 127.0.0.1 dirtycatstudios.com
 127.0.0.1 dirtychat.app
 127.0.0.1 dirtychat.chat
@@ -17316,6 +17399,7 @@
 127.0.0.1 dirtycoastho.shop
 127.0.0.1 dirtycoffee.co
 127.0.0.1 dirtycomics.com
+127.0.0.1 dirtycommieartstudio.com
 127.0.0.1 dirtycones.com
 127.0.0.1 dirtyconnect.xyz
 127.0.0.1 dirtycowboydirtysoda.com
@@ -17352,6 +17436,7 @@
 127.0.0.1 dirtydeedscarpetcleaning.net
 127.0.0.1 dirtydeedshandyman.com
 127.0.0.1 dirtydeedsjunkva.com
+127.0.0.1 dirtydeedsoap.com
 127.0.0.1 dirtydeedspodcast.com
 127.0.0.1 dirtydeedspooperscooper.ca
 127.0.0.1 dirtydeedspropertymaintenance.com
@@ -17451,6 +17536,7 @@
 127.0.0.1 dirtyflix.com
 127.0.0.1 dirtyfootballboss.com
 127.0.0.1 dirtyfowl.com
+127.0.0.1 dirtyfreedom.online
 127.0.0.1 dirtyfreek.com
 127.0.0.1 dirtyfroot.com
 127.0.0.1 dirtyfruit.net
@@ -17494,6 +17580,7 @@
 127.0.0.1 dirtygreenmonster.com
 127.0.0.1 dirtygull.shop
 127.0.0.1 dirtygullz.com
+127.0.0.1 dirtygummy.com
 127.0.0.1 dirtygunner.tv
 127.0.0.1 dirtygutdan.com
 127.0.0.1 dirtygymshoes.store
@@ -17607,6 +17694,7 @@
 127.0.0.1 dirtylittleshifts.com
 127.0.0.1 dirtylittlesoap.com
 127.0.0.1 dirtylittlesoda.com
+127.0.0.1 dirtylooks.be
 127.0.0.1 dirtylyontees.com
 127.0.0.1 dirtymabel.com
 127.0.0.1 dirtymable.com
@@ -17708,6 +17796,7 @@
 127.0.0.1 dirtysanchez.fun
 127.0.0.1 dirtysanchezgolf.com
 127.0.0.1 dirtysancheztube.com
+127.0.0.1 dirtyscout.us
 127.0.0.1 dirtyscrubscollection.com
 127.0.0.1 dirtysecrets.ru
 127.0.0.1 dirtyseedcompany.com
@@ -17754,7 +17843,6 @@
 127.0.0.1 dirtysoulmuzic.com
 127.0.0.1 dirtysoundboys.com
 127.0.0.1 dirtysouth.online
-127.0.0.1 dirtysouthauthentics.com
 127.0.0.1 dirtysouthcreations.store
 127.0.0.1 dirtysouthdecals.store
 127.0.0.1 dirtysouthdiscs.com
@@ -17764,6 +17852,8 @@
 127.0.0.1 dirtysouthprowash.net
 127.0.0.1 dirtysouthshemales.com
 127.0.0.1 dirtysouthsludgesouth.com
+127.0.0.1 dirtysox.store
+127.0.0.1 dirtysoxstore.com
 127.0.0.1 dirtysprite.win
 127.0.0.1 dirtysqueeze.life
 127.0.0.1 dirtystories.fun
@@ -17786,12 +17876,14 @@
 127.0.0.1 dirtytalkroleplay.com
 127.0.0.1 dirtytapes.com
 127.0.0.1 dirtytasking.com
+127.0.0.1 dirtytgerty.co.uk
 127.0.0.1 dirtytgerty.com
 127.0.0.1 dirtythirty.fun
 127.0.0.1 dirtythirty.in
 127.0.0.1 dirtythor.com
 127.0.0.1 dirtythread.com
 127.0.0.1 dirtythreadsco.com
+127.0.0.1 dirtytina.fans
 127.0.0.1 dirtytitlecamp.com
 127.0.0.1 dirtytoebeans.com
 127.0.0.1 dirtytoutdoors.com
@@ -17832,6 +17924,7 @@
 127.0.0.1 dirtywordywolf.com
 127.0.0.1 dirtywork.work
 127.0.0.1 dirtyworkclean.com
+127.0.0.1 dirtyworkcny.site
 127.0.0.1 dirtyworkgroup.com
 127.0.0.1 dirtyworkshop.net
 127.0.0.1 dirtyworksjazz.com
@@ -17884,7 +17977,6 @@
 127.0.0.1 disk4all.com
 127.0.0.1 diskacompanhantes.com.br
 127.0.0.1 diskgasexpress.shop
-127.0.0.1 disknxt.com
 127.0.0.1 diskobox.org
 127.0.0.1 diskretamatchningar.com
 127.0.0.1 diskretsexkontakt.com
@@ -17971,6 +18063,7 @@
 127.0.0.1 dizipall42.com
 127.0.0.1 dizipall44.com
 127.0.0.1 dizipalyabancidiziizle.cfd
+127.0.0.1 dizzybigtits.com
 127.0.0.1 dj-quik.com
 127.0.0.1 dj6sextou.com
 127.0.0.1 dja.com
@@ -18075,7 +18168,6 @@
 127.0.0.1 doeda.video
 127.0.0.1 doeda11.icu
 127.0.0.1 doeda4.top
-127.0.0.1 doeda89.cfd
 127.0.0.1 doeda8cb.shop
 127.0.0.1 doeda8cc.shop
 127.0.0.1 doeda90.cfd
@@ -18130,6 +18222,7 @@
 127.0.0.1 dogsexporn.net
 127.0.0.1 dogsexzoo.fun
 127.0.0.1 dogzoofiliatube.fun
+127.0.0.1 dohomemadeporn.com
 127.0.0.1 doingsex.com
 127.0.0.1 doithuong.app
 127.0.0.1 dojinwatch.com
@@ -18241,6 +18334,7 @@
 127.0.0.1 done999app.org
 127.0.0.1 donewporn.com
 127.0.0.1 donfeder.com
+127.0.0.1 donfrancks.com
 127.0.0.1 dongamold.com
 127.0.0.1 dongdam.pro
 127.0.0.1 dongerbrothers.com
@@ -18404,6 +18498,7 @@
 127.0.0.1 douxporno.com
 127.0.0.1 douzin-q.com
 127.0.0.1 down.net
+127.0.0.1 down.software
 127.0.0.1 downanddirty.xyz
 127.0.0.1 downanddirtypoolsvc.com
 127.0.0.1 downandirty.org
@@ -18478,6 +18573,7 @@
 127.0.0.1 drawn-sex.com
 127.0.0.1 drawn-sex.info
 127.0.0.1 drawnpornblog.com
+127.0.0.1 draxxx.in
 127.0.0.1 drblackporn.com
 127.0.0.1 drbokep.asia
 127.0.0.1 drbokep.bond
@@ -18576,6 +18672,7 @@
 127.0.0.1 dritikaur.com
 127.0.0.1 dritikaur.in
 127.0.0.1 drive-movie.com
+127.0.0.1 drivebosexpress.com
 127.0.0.1 drivecoreframeplusexcel.xyz
 127.0.0.1 driveescorts.com
 127.0.0.1 drivehotporn.com
@@ -18774,8 +18871,10 @@
 127.0.0.1 dutasex.cv
 127.0.0.1 dutasex.fit
 127.0.0.1 dutasex.makeup
+127.0.0.1 dutasex.rest
 127.0.0.1 dutasexx.com
 127.0.0.1 dutasexx.site
+127.0.0.1 dutasexx.space
 127.0.0.1 dutasexx.top
 127.0.0.1 dutchhonourscommunity.nl
 127.0.0.1 dutchporntube.nl
@@ -18802,6 +18901,7 @@
 127.0.0.1 dvnc.us
 127.0.0.1 dvporno.shop
 127.0.0.1 dvsex.com
+127.0.0.1 dw365.cn
 127.0.0.1 dwarfdating.co.uk
 127.0.0.1 dwarkacallgirlnumber.com
 127.0.0.1 dwarkacallgirls.in
@@ -18824,6 +18924,7 @@
 127.0.0.1 dyketees.com
 127.0.0.1 dylanlucas.com
 127.0.0.1 dylanryder.com
+127.0.0.1 dynacord.us
 127.0.0.1 dynacraftyacht.com
 127.0.0.1 dynamiccardsexpress.com
 127.0.0.1 dynamicsexpertise.com
@@ -18872,7 +18973,6 @@
 127.0.0.1 e6t7fnz.com
 127.0.0.1 e894.cc
 127.0.0.1 e926.net
-127.0.0.1 e982.cc
 127.0.0.1 ea-tube.com
 127.0.0.1 eachporn.com
 127.0.0.1 eacrh.net
@@ -18885,6 +18985,7 @@
 127.0.0.1 earlmiller.com
 127.0.0.1 eartchen.cn
 127.0.0.1 earthescorts.com
+127.0.0.1 earthteens.com
 127.0.0.1 easex.co
 127.0.0.1 easexpensehq.com
 127.0.0.1 easexpensesaas.com
@@ -19045,7 +19146,6 @@
 127.0.0.1 ebonyo.com
 127.0.0.1 ebonyplayz.com
 127.0.0.1 ebonyporn.best
-127.0.0.1 ebonypornhub.xyz
 127.0.0.1 ebonypulse.tv
 127.0.0.1 ebonypussyphotos.com
 127.0.0.1 ebonypussypics.com
@@ -19059,6 +19159,7 @@
 127.0.0.1 ebonyshemale.com
 127.0.0.1 ebonyshemalevideos.com
 127.0.0.1 ebonyslickporn.xyz
+127.0.0.1 ebonysub.com
 127.0.0.1 ebonytgirlmodels.com
 127.0.0.1 ebonytitspics.com
 127.0.0.1 ebonytube.tv
@@ -19098,8 +19199,10 @@
 127.0.0.1 ecchi.xxx
 127.0.0.1 eccie.net
 127.0.0.1 echichimato.com
+127.0.0.1 echoclassroom.com
 127.0.0.1 echolsexposed.com
 127.0.0.1 echosbonesexhibition.com
+127.0.0.1 echterporno.com
 127.0.0.1 echthuren.de
 127.0.0.1 echtsexgeschichten.com
 127.0.0.1 echtsexgeschichten.net
@@ -19119,6 +19222,7 @@
 127.0.0.1 econou.com
 127.0.0.1 ecopressexpress.com
 127.0.0.1 ecosmithware.com
+127.0.0.1 ecosro.com
 127.0.0.1 ecotechxxx.com
 127.0.0.1 ecotoneessex.com
 127.0.0.1 ecourt.gov.bd
@@ -19159,6 +19263,7 @@
 127.0.0.1 edpharmacie.pro
 127.0.0.1 edpowers.com
 127.0.0.1 edshop.us
+127.0.0.1 edspics.com
 127.0.0.1 edtxgt.gay
 127.0.0.1 educacaosexual.com.br
 127.0.0.1 educationalshowsadults.com
@@ -19170,8 +19275,10 @@
 127.0.0.1 edwardsexoticgarden.com
 127.0.0.1 edwardsexteriorsolutions.com
 127.0.0.1 edwardsextonho.shop
+127.0.0.1 edwardugel.com
 127.0.0.1 ee-login-account.com
 127.0.0.1 ee11sextou.com
+127.0.0.1 eeatgoodx.com
 127.0.0.1 eebell.net
 127.0.0.1 eehealth.org
 127.0.0.1 eelkat.com
@@ -19180,6 +19287,7 @@
 127.0.0.1 eepap.org
 127.0.0.1 eepizda.com
 127.0.0.1 eerna.com.bd
+127.0.0.1 eeteen.com
 127.0.0.1 eetu.gay
 127.0.0.1 efappy.com
 127.0.0.1 efbetfarsi.com
@@ -19192,6 +19300,7 @@
 127.0.0.1 efndex.ru
 127.0.0.1 efotolab.net
 127.0.0.1 efukt.com
+127.0.0.1 eg-a.com
 127.0.0.1 egafd.co.uk
 127.0.0.1 egay.us
 127.0.0.1 egay2ebpi0.beer
@@ -19232,6 +19341,7 @@
 127.0.0.1 eientei.org
 127.0.0.1 eigology.com
 127.0.0.1 eimkaan.com
+127.0.0.1 eindeutscherporno.com
 127.0.0.1 einfachtitten.com
 127.0.0.1 einsames-vergnuegen.at
 127.0.0.1 einterac.com
@@ -19251,6 +19361,7 @@
 127.0.0.1 ekegusii.org
 127.0.0.1 ekg2.org
 127.0.0.1 ekolojik.org
+127.0.0.1 ekramuzzaman.com
 127.0.0.1 ekremsengayrimenkul.com
 127.0.0.1 eksvideos.com
 127.0.0.1 ektachopra.com
@@ -19483,6 +19594,7 @@
 127.0.0.1 emilfriedman.com.ve
 127.0.0.1 emilfunk.me
 127.0.0.1 emilfura.pl
+127.0.0.1 emilianoestilistaunisex.com
 127.0.0.1 emiliejouvet.com
 127.0.0.1 emilielegay.com
 127.0.0.1 emilykingsextherapist.org
@@ -19515,6 +19627,7 @@
 127.0.0.1 emonl.com
 127.0.0.1 emosexposed.com
 127.0.0.1 emotionalaffair.org
+127.0.0.1 empflix-pornoflme.com
 127.0.0.1 empflix.com
 127.0.0.1 empflix.top
 127.0.0.1 empireamateurs.com
@@ -19613,6 +19726,7 @@
 127.0.0.1 energyicedenadultleague.com
 127.0.0.1 energyinasiablog.com
 127.0.0.1 energyprime.com.br
+127.0.0.1 enethost.com
 127.0.0.1 enfejar.dev
 127.0.0.1 enfejar2.com
 127.0.0.1 enfimcasei.com
@@ -19633,6 +19747,7 @@
 127.0.0.1 enguzelpornovideo.cc
 127.0.0.1 enhancedconcepts.com
 127.0.0.1 enhdsex.com
+127.0.0.1 enin.us
 127.0.0.1 eniyierotikfilmler5.cc
 127.0.0.1 eniyimama.com
 127.0.0.1 enjoyangels.com
@@ -19679,6 +19794,7 @@
 127.0.0.1 entreblogs.com.br
 127.0.0.1 entrecolunaspermutas.com.br
 127.0.0.1 entrecoquins.com
+127.0.0.1 entregapendente.site
 127.0.0.1 entreporneur.net
 127.0.0.1 entreriosexporta.com
 127.0.0.1 envasesexclusivos.cr
@@ -19735,6 +19851,7 @@
 127.0.0.1 eporner149.top
 127.0.0.1 epornerapp.com
 127.0.0.1 epornerd.com
+127.0.0.1 epornerhot.com
 127.0.0.1 epornerpics.com
 127.0.0.1 epornerporn.com
 127.0.0.1 eporners.top
@@ -19766,6 +19883,7 @@
 127.0.0.1 equalstrategy-page.com
 127.0.0.1 equationsexplorer.com
 127.0.0.1 equatorialguineaonline.com
+127.0.0.1 equifestivalpornichet.fr
 127.0.0.1 equityanalysisexpert.help
 127.0.0.1 equityassetsexpert.help
 127.0.0.1 equityfundsexpert.help
@@ -19777,6 +19895,7 @@
 127.0.0.1 eraygayrimenkul.com
 127.0.0.1 erdemkeskingayrimenkul.com
 127.0.0.1 erdhr.xyz
+127.0.0.1 erdogangayrimenkul.com
 127.0.0.1 ereaderotica.com
 127.0.0.1 erectix.com
 127.0.0.1 erett.szex.hu
@@ -19855,6 +19974,7 @@
 127.0.0.1 ero-sceny.ru
 127.0.0.1 ero-sceny.site
 127.0.0.1 ero-sex-shop.ru
+127.0.0.1 ero-sexxy-eva.click
 127.0.0.1 ero-storitop.com
 127.0.0.1 ero-times.ru
 127.0.0.1 ero-tits.com
@@ -20030,6 +20150,7 @@
 127.0.0.1 erosai.ai
 127.0.0.1 erosamka.com
 127.0.0.1 erosberry.com
+127.0.0.1 eroscambio.com
 127.0.0.1 eroscena.com
 127.0.0.1 eroscripts.com
 127.0.0.1 eroserotico.com
@@ -20202,6 +20323,7 @@
 127.0.0.1 eroticfilms.com
 127.0.0.1 eroticfloors.com
 127.0.0.1 eroticfreelivesex.com
+127.0.0.1 eroticfriends.com
 127.0.0.1 eroticfrolic.com
 127.0.0.1 eroticgateway.co.uk
 127.0.0.1 eroticgf4you.one
@@ -20294,6 +20416,7 @@
 127.0.0.1 eroticmusclevideos.com
 127.0.0.1 eroticmv.com
 127.0.0.1 eroticnervoussystem.com
+127.0.0.1 eroticnetwork.com
 127.0.0.1 eroticnice.xyz
 127.0.0.1 eroticnotes.com
 127.0.0.1 eroticnudefantasy.com
@@ -20341,6 +20464,7 @@
 127.0.0.1 eroticroulette.gr.com
 127.0.0.1 eroticroulette.jp
 127.0.0.1 eroticroulette.nl
+127.0.0.1 eroticroulette.org
 127.0.0.1 eroticroulette.pl
 127.0.0.1 eroticroulette.pt
 127.0.0.1 eroticroulette.uk
@@ -20351,6 +20475,7 @@
 127.0.0.1 eroticsexytv.com
 127.0.0.1 eroticshophun.com
 127.0.0.1 eroticshow.info
+127.0.0.1 eroticside.pt
 127.0.0.1 eroticsignal.com
 127.0.0.1 eroticsmalltits.com
 127.0.0.1 eroticsnovels.com
@@ -20366,6 +20491,8 @@
 127.0.0.1 eroticteensphotos.com
 127.0.0.1 erotictek.com
 127.0.0.1 eroticthriller.us
+127.0.0.1 erotictickle.com
+127.0.0.1 erotictits.com
 127.0.0.1 erotictoygasms.com
 127.0.0.1 erotictoysexpress.com
 127.0.0.1 erotictrance.com
@@ -20512,6 +20639,7 @@
 127.0.0.1 erotiktempel.de
 127.0.0.1 erotiktoybox.com
 127.0.0.1 erotikturkporno.com
+127.0.0.1 erotikusoldalak.hu
 127.0.0.1 erotikustortenetek.club
 127.0.0.1 erotikvibes.com
 127.0.0.1 erotikvideoizle.com
@@ -20529,7 +20657,6 @@
 127.0.0.1 erotismosexual.com
 127.0.0.1 erotitainment.com
 127.0.0.1 erotixhub.com
-127.0.0.1 erotizimfilmizle.cc
 127.0.0.1 erotizmvadisi.com
 127.0.0.1 erotographe.fr
 127.0.0.1 erotom.com
@@ -20577,6 +20704,7 @@
 127.0.0.1 es.artthong.com
 127.0.0.1 es606.com
 127.0.0.1 esa.co.za
+127.0.0.1 esagayrimenkulinsaat.com.tr
 127.0.0.1 esarabe.com
 127.0.0.1 escalasportsexperience.com
 127.0.0.1 escandala.com
@@ -20607,6 +20735,7 @@
 127.0.0.1 escort-lon.com
 127.0.0.1 escort-me.com
 127.0.0.1 escort-member.com
+127.0.0.1 escort-middleeast.com
 127.0.0.1 escort-moskva.com
 127.0.0.1 escort-orientale.com
 127.0.0.1 escort-pornosu31.site
@@ -20732,6 +20861,7 @@
 127.0.0.1 escortjobsindelhi.in
 127.0.0.1 escortkadinlar.com
 127.0.0.1 escortkiz.com
+127.0.0.1 escortklgirl.com
 127.0.0.1 escortklgirl2u.com
 127.0.0.1 escortkolkata.com
 127.0.0.1 escortlabel.com
@@ -20861,12 +20991,14 @@
 127.0.0.1 escortservicesindelhi247.com
 127.0.0.1 escortservicesmumbai.in
 127.0.0.1 escortserviceudaipur.in
+127.0.0.1 escortsexdates.com
 127.0.0.1 escortsexe.net
 127.0.0.1 escortsexpert.com
 127.0.0.1 escortsfair.in
 127.0.0.1 escortsghaziabad.org
 127.0.0.1 escortsgirl.in
 127.0.0.1 escortsgirlbangalore.com
+127.0.0.1 escortsgirls.com
 127.0.0.1 escortsgirlskolkata.co.in
 127.0.0.1 escortsgirlslahore.com
 127.0.0.1 escortsgle.com
@@ -20966,6 +21098,8 @@
 127.0.0.1 eservicesexpert.info
 127.0.0.1 eservicesexpert.online
 127.0.0.1 esex-hottest.click
+127.0.0.1 esex.now
+127.0.0.1 esex.quest
 127.0.0.1 esex.rest
 127.0.0.1 esexa.com
 127.0.0.1 esexclusivehomes.com
@@ -21116,6 +21250,7 @@
 127.0.0.1 essexhvacgroup.co.uk
 127.0.0.1 essexhvacgroup.com
 127.0.0.1 essexid.co.uk
+127.0.0.1 essexinternet.com
 127.0.0.1 essexiox.info
 127.0.0.1 essexjetwash.com
 127.0.0.1 essexjewelryantiquesho.shop
@@ -21216,6 +21351,7 @@
 127.0.0.1 estesexpressblows.com
 127.0.0.1 estessexpres.com
 127.0.0.1 esteticaunisexzelene.shop
+127.0.0.1 estevan-gay.fr
 127.0.0.1 estheticsexpress.com
 127.0.0.1 eswynn.com
 127.0.0.1 esxxxx.com
@@ -21235,6 +21371,7 @@
 127.0.0.1 ethical.sex
 127.0.0.1 ethicalporn.io
 127.0.0.1 ethicalporn.org
+127.0.0.1 ethicalpornhub.com
 127.0.0.1 ethnic-hotel.com
 127.0.0.1 ethnicandhairy.com
 127.0.0.1 ethnoentomology.cz
@@ -21342,6 +21479,7 @@
 127.0.0.1 evateens.com
 127.0.0.1 evbakemlakgayrimenkul.com
 127.0.0.1 evdokimov.biz
+127.0.0.1 eve-inspiracy.com
 127.0.0.1 eve-live.com
 127.0.0.1 eve-mae.com
 127.0.0.1 eveangelofficial.com
@@ -21478,6 +21616,7 @@
 127.0.0.1 exdokan.lol
 127.0.0.1 exdokan.online
 127.0.0.1 exdokan.xyz
+127.0.0.1 executiveseychellesexperience.com
 127.0.0.1 exek.pw
 127.0.0.1 exeporn.com
 127.0.0.1 exeporn.net
@@ -21501,6 +21640,7 @@
 127.0.0.1 exocams.com
 127.0.0.1 exocticeroticacoffee.com
 127.0.0.1 exodusex.com
+127.0.0.1 exodusex.top
 127.0.0.1 exodusexecutivetransport.com
 127.0.0.1 exodvsexodvs.info
 127.0.0.1 exodvsexodvs.net
@@ -21552,7 +21692,6 @@
 127.0.0.1 explayboybunnies.com
 127.0.0.1 explicite-art.com
 127.0.0.1 explicithd.com
-127.0.0.1 explicithumanporn.com
 127.0.0.1 explicyt.com
 127.0.0.1 exploitedcollegegirls.com
 127.0.0.1 exploitedteens.com
@@ -21635,6 +21774,7 @@
 127.0.0.1 extremewhores.com
 127.0.0.1 extremporn.com
 127.0.0.1 extubechat.com
+127.0.0.1 exulte.com
 127.0.0.1 exxx.eu.cc
 127.0.0.1 exxx.pl
 127.0.0.1 exxx309.top
@@ -21655,6 +21795,7 @@
 127.0.0.1 exxxposeme.com
 127.0.0.1 exxxstacy.com
 127.0.0.1 exxxstacyrx.com
+127.0.0.1 exxxtasytoys.com
 127.0.0.1 exxxtra.net
 127.0.0.1 exxxtrasmaill.com
 127.0.0.1 exxxtrasmall.com
@@ -21663,6 +21804,7 @@
 127.0.0.1 exxxxvideos.life
 127.0.0.1 eye.porn
 127.0.0.1 eyecandy.net
+127.0.0.1 eyefeast.com
 127.0.0.1 eyes-out.com
 127.0.0.1 eylaunisex.com
 127.0.0.1 eyupkadin.com
@@ -21685,7 +21827,6 @@
 127.0.0.1 f75sextou.com
 127.0.0.1 f8movie.com
 127.0.0.1 f95zone.to
-127.0.0.1 f990.cc
 127.0.0.1 fa-ba.de
 127.0.0.1 fa.gratisnederlandseporno.com
 127.0.0.1 faak.en.alibaba.com
@@ -21727,12 +21868,14 @@
 127.0.0.1 facesittube.com
 127.0.0.1 faceslappingclips.com
 127.0.0.1 faceslappingfemdom.com
+127.0.0.1 facesofdesign.com
 127.0.0.1 faceswapaiporn.com
 127.0.0.1 faceswapporn.org
 127.0.0.1 facetofacenyc.com
 127.0.0.1 facetporn.com
 127.0.0.1 facial-bukkake.com
 127.0.0.1 facialabuse.com
+127.0.0.1 facialphotos.com
 127.0.0.1 facials.pics
 127.0.0.1 facials4k.com
 127.0.0.1 facileporno.com
@@ -21765,6 +21908,7 @@
 127.0.0.1 fake.sex
 127.0.0.1 fakeagent.com
 127.0.0.1 fakeand.gay
+127.0.0.1 fakeandfamous.com
 127.0.0.1 fakeandgayclothing.com
 127.0.0.1 fakebokep.today
 127.0.0.1 fakedriver.net
@@ -21803,6 +21947,7 @@
 127.0.0.1 famegoto.com
 127.0.0.1 fameregistry.com
 127.0.0.1 famewatcher.com
+127.0.0.1 familforbi.center
 127.0.0.1 familiesagainstsextrafficking.com
 127.0.0.1 familioni.gay
 127.0.0.1 family-nudism.org
@@ -21850,6 +21995,7 @@
 127.0.0.1 familytaboo.pro
 127.0.0.1 familytaboodating.club
 127.0.0.1 familytherapyxxx.com
+127.0.0.1 familyviolation.com
 127.0.0.1 familyxxx.com
 127.0.0.1 familyxxxcom.com
 127.0.0.1 famosas.vip
@@ -21883,6 +22029,7 @@
 127.0.0.1 fancyescort.at
 127.0.0.1 fancyfeetfetish.com
 127.0.0.1 fancyflirtingnow.com
+127.0.0.1 fancylinks.com
 127.0.0.1 fancymousegaming.gay
 127.0.0.1 fandincwessex.co.uk
 127.0.0.1 fandincwessex.com
@@ -22084,6 +22231,7 @@
 127.0.0.1 fapgator.com
 127.0.0.1 fapgaypornx.com
 127.0.0.1 fapgon.com
+127.0.0.1 fapgon.net
 127.0.0.1 fapguru.com
 127.0.0.1 faphaven.com
 127.0.0.1 faphdporn.com
@@ -22140,7 +22288,6 @@
 127.0.0.1 fappeningsauce.com
 127.0.0.1 fappenist.com
 127.0.0.1 fappic.com
-127.0.0.1 fapping.channel
 127.0.0.1 fappis.com
 127.0.0.1 fapplay.com
 127.0.0.1 fapplepie.com
@@ -22151,7 +22298,6 @@
 127.0.0.1 fapptime.com
 127.0.0.1 fapreactor.com
 127.0.0.1 faproulette.co
-127.0.0.1 faprush.com
 127.0.0.1 faps.club
 127.0.0.1 fapservice.com
 127.0.0.1 fapset.com
@@ -22178,10 +22324,12 @@
 127.0.0.1 faptrain.com
 127.0.0.1 faptube.com
 127.0.0.1 fapullo.com
+127.0.0.1 fapux.com
 127.0.0.1 fapvagina.info
 127.0.0.1 fapverse.net
 127.0.0.1 fapvid.com
 127.0.0.1 fapvid.hu
+127.0.0.1 fapvid.icu
 127.0.0.1 fapvid.me
 127.0.0.1 fapvid.mobi
 127.0.0.1 fapvid.net
@@ -22206,6 +22354,7 @@
 127.0.0.1 fareen.in
 127.0.0.1 farfara.net
 127.0.0.1 fargate.ru
+127.0.0.1 fargo-global.com
 127.0.0.1 fariasexpress.com.br
 127.0.0.1 farisexpoprox.com
 127.0.0.1 farm.porn
@@ -22276,6 +22425,7 @@
 127.0.0.1 fatihescortbul.com
 127.0.0.1 fatihkurye.com
 127.0.0.1 fatmomtube.com
+127.0.0.1 fatmovies.org
 127.0.0.1 fatpcollection.com
 127.0.0.1 fatpornpics.com
 127.0.0.1 fatporntube.com
@@ -22326,6 +22476,7 @@
 127.0.0.1 fb69.net
 127.0.0.1 fb88gay.cx
 127.0.0.1 fbadsexpert.com
+127.0.0.1 fbccom.com
 127.0.0.1 fbdown2.net
 127.0.0.1 fbmbetsextou.com
 127.0.0.1 fbsscan.com
@@ -22344,6 +22495,7 @@
 127.0.0.1 fc2ppv.top
 127.0.0.1 fcccccccn.cc
 127.0.0.1 fcconsluting.com
+127.0.0.1 fcdynamo-kassa.ru
 127.0.0.1 fchat.net
 127.0.0.1 fcjav.com
 127.0.0.1 fck5.com
@@ -22377,6 +22529,7 @@
 127.0.0.1 feelxvideos.com
 127.0.0.1 feemeet.com
 127.0.0.1 feemjesus.com.br
+127.0.0.1 feestpagina.com
 127.0.0.1 feet-fucking.com
 127.0.0.1 feet9.com
 127.0.0.1 feetabc.com
@@ -22392,7 +22545,6 @@
 127.0.0.1 feettolick.com
 127.0.0.1 feetweek.com
 127.0.0.1 feetwonder.com
-127.0.0.1 feganisexongroup88.digital
 127.0.0.1 fegayazilim.com
 127.0.0.1 feifancurtain.com
 127.0.0.1 feihongchina.com
@@ -22434,6 +22586,7 @@
 127.0.0.1 femaleorgasmsecrets.com
 127.0.0.1 females.ca
 127.0.0.1 femalescatporn.com
+127.0.0.1 femalesexdolls.online
 127.0.0.1 femalesexdolls.site
 127.0.0.1 femalesexdolls.store
 127.0.0.1 femaleshaved.com
@@ -22550,6 +22703,7 @@
 127.0.0.1 ferro-video.com
 127.0.0.1 ferronetwork.com
 127.0.0.1 fesexclusive.com
+127.0.0.1 fespermanagency.com
 127.0.0.1 fessebook.webnode.fr
 127.0.0.1 fessestivites.com
 127.0.0.1 festaprive.com
@@ -22579,6 +22733,7 @@
 127.0.0.1 fetish-dream.net
 127.0.0.1 fetish-fantazy.com
 127.0.0.1 fetish-fashions.com
+127.0.0.1 fetish-hard.net
 127.0.0.1 fetish-hotwife.com
 127.0.0.1 fetish-island.com
 127.0.0.1 fetish-kingdom.net
@@ -22703,9 +22858,11 @@
 127.0.0.1 fetishsites.net
 127.0.0.1 fetishspace.com
 127.0.0.1 fetishstyle-smolyan.com
+127.0.0.1 fetishtaboo.com
 127.0.0.1 fetishtalk.space
 127.0.0.1 fetishtokens.com
 127.0.0.1 fetishtoyshop.com
+127.0.0.1 fetishtvnetwork.com
 127.0.0.1 fetishunderwearsales.com
 127.0.0.1 fetishupdates.com
 127.0.0.1 fetishurine.com
@@ -22736,10 +22893,12 @@
 127.0.0.1 ff555sextou.com
 127.0.0.1 ff77sextou.com
 127.0.0.1 ff999sextou.com
+127.0.0.1 ffaah.com
 127.0.0.1 ffadultsonly.com
 127.0.0.1 ffbsstats.org
 127.0.0.1 ffetish.photos
 127.0.0.1 ffetish.video
+127.0.0.1 fff-ttt.com
 127.0.0.1 fffaaxxxc.com
 127.0.0.1 fffaaxxxyyy.com
 127.0.0.1 ffilmywap.xyz
@@ -22783,8 +22942,10 @@
 127.0.0.1 ficklokal.com
 127.0.0.1 fickpartys.net
 127.0.0.1 fickpension.com
+127.0.0.1 ficksuche.com
 127.0.0.1 fickverein.com
 127.0.0.1 fickzeit.com
+127.0.0.1 ficoinvest.com
 127.0.0.1 ficoje.gay
 127.0.0.1 ficool.com
 127.0.0.1 fictionmania.tv
@@ -22802,6 +22963,7 @@
 127.0.0.1 fighting-dolls.com
 127.0.0.1 fightplace.com
 127.0.0.1 fightpulse.com
+127.0.0.1 figma.lat
 127.0.0.1 figueres-unfccc.net
 127.0.0.1 fikante.com
 127.0.0.1 fikfap.com
@@ -22868,6 +23030,7 @@
 127.0.0.1 filmepornobrasil.com
 127.0.0.1 filmepornoerotico.com
 127.0.0.1 filmepornogratis.live
+127.0.0.1 filmepornohd.com
 127.0.0.1 filmepornohd.site
 127.0.0.1 filmepornohd.xxx
 127.0.0.1 filmepornonline.org
@@ -23033,6 +23196,7 @@
 127.0.0.1 financial-bnk.com
 127.0.0.1 financiallysexy.com
 127.0.0.1 financialslaves.com
+127.0.0.1 financieredumarche-saint-honore.com
 127.0.0.1 finansgayrimenkul.com.tr
 127.0.0.1 finanzasexpat.com
 127.0.0.1 finapattar.eu
@@ -23129,6 +23293,7 @@
 127.0.0.1 firsat.sex
 127.0.0.1 first-sex-video.com
 127.0.0.1 first-time-anal.com
+127.0.0.1 firstamateurporn.com
 127.0.0.1 firstanal.one
 127.0.0.1 firstanalquest.com
 127.0.0.1 firstanalsex.org
@@ -23153,6 +23318,7 @@
 127.0.0.1 firstsexonline.com
 127.0.0.1 firstsexx.com
 127.0.0.1 firstteenporn.cc
+127.0.0.1 firstteensex.com
 127.0.0.1 firsttimeporn.website
 127.0.0.1 firsttimesecondtime.com
 127.0.0.1 firstxnxx.com
@@ -23204,6 +23370,7 @@
 127.0.0.1 fitnessexpertisenet.digital
 127.0.0.1 fitnessexpertisepath.digital
 127.0.0.1 fitnessexpertpromise.xyz
+127.0.0.1 fitnessexpertpros.digital
 127.0.0.1 fitnessexpertway.shop
 127.0.0.1 fitnessexpertzone.xyz
 127.0.0.1 fitnessexpertzusa.blog
@@ -23218,8 +23385,10 @@
 127.0.0.1 fittandsexy.com
 127.0.0.1 fitteenbabes.com
 127.0.0.1 fitting-room.com
+127.0.0.1 five-hot-stories-for-her.com
 127.0.0.1 fivedirtykids.com
 127.0.0.1 fiveelementsexperiences.com
+127.0.0.1 fiveelementsexperiences.org
 127.0.0.1 fivestarpornsites.com
 127.0.0.1 fiwigusexsystems.click
 127.0.0.1 fixeastsussex.uk
@@ -23229,6 +23398,7 @@
 127.0.0.1 fixxxed.net
 127.0.0.1 fizzixdirtysoda.com
 127.0.0.1 fjcdn.com
+127.0.0.1 fjcxs.com
 127.0.0.1 fjn.edu.br
 127.0.0.1 fkatwigsofficial.com
 127.0.0.1 fkbae.to
@@ -23316,6 +23486,7 @@
 127.0.0.1 fliporn.biz
 127.0.0.1 fliporno.net
 127.0.0.1 flippinghousesapp.com
+127.0.0.1 flipxxx.com
 127.0.0.1 flirt-spiel.de
 127.0.0.1 flirt.landwirt.com
 127.0.0.1 flirt2bang.com
@@ -23404,6 +23575,7 @@
 127.0.0.1 flyaerotica.com
 127.0.0.1 flyff-sperm.click
 127.0.0.1 flyflv.com
+127.0.0.1 flyforeducation.com
 127.0.0.1 flyfuk.com
 127.0.0.1 flyingjizz.com
 127.0.0.1 flykisses.com
@@ -23459,6 +23631,7 @@
 127.0.0.1 foodporn.club
 127.0.0.1 foodporn.social
 127.0.0.1 foods4adult.com
+127.0.0.1 foodsexmoney.com
 127.0.0.1 foodsexpert.com
 127.0.0.1 fookkat.com
 127.0.0.1 fookkat.net
@@ -23493,8 +23666,11 @@
 127.0.0.1 footpunkz.com
 127.0.0.1 footsiebabes.com
 127.0.0.1 footsiebabeshd.com
+127.0.0.1 footsniffer.com
 127.0.0.1 footstockings.com
+127.0.0.1 footville.com
 127.0.0.1 fooxybabes.com
+127.0.0.1 for-xxx.com
 127.0.0.1 for18xxx.com
 127.0.0.1 foradultsonly.nl
 127.0.0.1 forbidden.xxx
@@ -23508,6 +23684,7 @@
 127.0.0.1 forcedcum.net
 127.0.0.1 forcedfucksite.com
 127.0.0.1 forcedgayporn.net
+127.0.0.1 forcedincest.net
 127.0.0.1 forcedporn.me
 127.0.0.1 forcedporn.tv
 127.0.0.1 forcedsex.org
@@ -23525,10 +23702,12 @@
 127.0.0.1 foreignescort.com
 127.0.0.1 foreignescortsdelhi.com
 127.0.0.1 forensicpsychologyunbound.ws
+127.0.0.1 forensicsexology.org
 127.0.0.1 foreskinstretching.com
 127.0.0.1 forestofshadowsexperience.com
 127.0.0.1 foreveralinkspermanentjewelry.com
 127.0.0.1 forevergeek.com
+127.0.0.1 foreverlust.com
 127.0.0.1 foreverphoenixxxhtv.com
 127.0.0.1 forex-indextop20.ru
 127.0.0.1 forfoundersexit.com
@@ -23557,9 +23736,11 @@
 127.0.0.1 forthemforus.com
 127.0.0.1 fortiusexpertwitnessservices.co.uk
 127.0.0.1 fortnite-porn.com
+127.0.0.1 fortnite.porn
 127.0.0.1 fortniteporn.xyz
 127.0.0.1 fortressexpeditionsystem.work
 127.0.0.1 fortressexpresscourier.com
+127.0.0.1 fortressexteriorsco.com
 127.0.0.1 fortresslexxxxx.com.de
 127.0.0.1 forttroff.com
 127.0.0.1 fortunedigitals.com
@@ -23600,6 +23781,7 @@
 127.0.0.1 fotobab.ru
 127.0.0.1 fotodemulhernua.com
 127.0.0.1 fotodepenis.com
+127.0.0.1 fotofoxxx.com
 127.0.0.1 fotografiaerotica.com.mx
 127.0.0.1 fotografiaeroticasevilla.com
 127.0.0.1 fotomilf.com
@@ -23629,7 +23811,6 @@
 127.0.0.1 fotzenfritz.de
 127.0.0.1 fotzenfritz.xyz
 127.0.0.1 fotzenlo.ch
-127.0.0.1 foundationrepairhoustontx.net
 127.0.0.1 foundersexperiences.com
 127.0.0.1 foundfootagefest.com
 127.0.0.1 foundingbloggers.com
@@ -23753,6 +23934,7 @@
 127.0.0.1 freakyza.co.za
 127.0.0.1 freaxxx.com
 127.0.0.1 frechzusammen.com
+127.0.0.1 frecklehomosexual.team
 127.0.0.1 fredsexpress.com
 127.0.0.1 free-abbywinters.com
 127.0.0.1 free-adult-web-cam-girls.com
@@ -23829,6 +24011,7 @@
 127.0.0.1 freeadultcam.top
 127.0.0.1 freeadultcam69.com
 127.0.0.1 freeadultcams.name
+127.0.0.1 freeadultcamsites.com
 127.0.0.1 freeadultcamsonline.com
 127.0.0.1 freeadultcamtocam.com
 127.0.0.1 freeadultchat.xyz
@@ -23886,6 +24069,7 @@
 127.0.0.1 freebigtitsporn.com
 127.0.0.1 freeblackgaychat.net
 127.0.0.1 freeblognetwork.com
+127.0.0.1 freeblowjobporn.online
 127.0.0.1 freeblowjobspics.com
 127.0.0.1 freecam.ro
 127.0.0.1 freecam8.com
@@ -23912,6 +24096,7 @@
 127.0.0.1 freedatingcanada.com
 127.0.0.1 freedesiporn.click
 127.0.0.1 freedom-sex.com
+127.0.0.1 freedomadultfamilyhome.com
 127.0.0.1 freedomdoesexist.shop
 127.0.0.1 freedomtowardsexcellence.com
 127.0.0.1 freedownloadporn.com
@@ -23940,6 +24125,7 @@
 127.0.0.1 freegaypornhd.com
 127.0.0.1 freegaypornhd.online
 127.0.0.1 freegaypornphotos.com
+127.0.0.1 freegaypornpics.net
 127.0.0.1 freegaypornwebcam.com
 127.0.0.1 freegaysex.ru
 127.0.0.1 freegaysexmovies.click
@@ -24150,6 +24336,7 @@
 127.0.0.1 freepornster.com
 127.0.0.1 freeporntgp.org
 127.0.0.1 freeporntix.info
+127.0.0.1 freeporntube.online
 127.0.0.1 freeporntube.su
 127.0.0.1 freeporntube.tv
 127.0.0.1 freepornvideo.biz
@@ -24234,6 +24421,7 @@
 127.0.0.1 freesexkahani.in
 127.0.0.1 freesexkahani.net
 127.0.0.1 freesexkorea.com
+127.0.0.1 freesexmovies.pro
 127.0.0.1 freesexpics.pro
 127.0.0.1 freesexporn.net
 127.0.0.1 freesexpornwebcam.com
@@ -24244,6 +24432,8 @@
 127.0.0.1 freesextown.com
 127.0.0.1 freesextube.pro
 127.0.0.1 freesextube2k.com
+127.0.0.1 freesextuber.com
+127.0.0.1 freesexvideo.net
 127.0.0.1 freesexvideo.one
 127.0.0.1 freesexvideo.pro
 127.0.0.1 freesexvideocam.com
@@ -24267,10 +24457,12 @@
 127.0.0.1 freesiterips.com
 127.0.0.1 freesmutporno.com
 127.0.0.1 freesnapmilf.com
+127.0.0.1 freespanked.com
 127.0.0.1 freespermdonor.org
 127.0.0.1 freespermdonors.org
 127.0.0.1 freesplanet.com
 127.0.0.1 freesroom.com
+127.0.0.1 freestreamingxxx.com
 127.0.0.1 freestreamtv.com
 127.0.0.1 freestrip.chat
 127.0.0.1 freestripper.net
@@ -24281,6 +24473,8 @@
 127.0.0.1 freeteen.sex
 127.0.0.1 freeteenporn.fun
 127.0.0.1 freeteenpornvideo.net
+127.0.0.1 freeteenpussypic.com
+127.0.0.1 freeteenspanking.com
 127.0.0.1 freeteenspussy.com
 127.0.0.1 freetelegramgroups.xyz
 127.0.0.1 freetheboobies.fr
@@ -24336,7 +24530,9 @@
 127.0.0.1 freexxx.bid
 127.0.0.1 freexxx.cfd
 127.0.0.1 freexxx.click
+127.0.0.1 freexxx.lol
 127.0.0.1 freexxx.love
+127.0.0.1 freexxx.one
 127.0.0.1 freexxx.party
 127.0.0.1 freexxx.photos
 127.0.0.1 freexxx.pw
@@ -24492,6 +24688,9 @@
 127.0.0.1 friskysocial.com
 127.0.0.1 fritchy.com
 127.0.0.1 frivol.com
+127.0.0.1 frklisexsxesxponrrorn.sbs
+127.0.0.1 frklisexxsesxponrrorn.sbs
+127.0.0.1 frklisexxsesxporrrorn.sbs
 127.0.0.1 frl.idv.tw
 127.0.0.1 frodoporn.com
 127.0.0.1 frolicme.com
@@ -24508,6 +24707,7 @@
 127.0.0.1 froshtechcollisionglassexpert.net
 127.0.0.1 frostgibbons.xxx
 127.0.0.1 frostgibbonslaw.xxx
+127.0.0.1 frporno.shop
 127.0.0.1 frpornvideos.com
 127.0.0.1 frprn.com
 127.0.0.1 fruitcams.com
@@ -24551,7 +24751,6 @@
 127.0.0.1 fstream.net
 127.0.0.1 fsvenus.com
 127.0.0.1 fsxxx.com
-127.0.0.1 fszdik.gay
 127.0.0.1 ftaak.com
 127.0.0.1 ftf.live
 127.0.0.1 ftkltickling.com
@@ -24610,6 +24809,7 @@
 127.0.0.1 fuckandcdn.com
 127.0.0.1 fuckass.net
 127.0.0.1 fuckatube.com
+127.0.0.1 fuckblogging.com
 127.0.0.1 fuckblue.com
 127.0.0.1 fuckbook.ca
 127.0.0.1 fuckbook.com
@@ -24759,6 +24959,7 @@
 127.0.0.1 fuckundies.com
 127.0.0.1 fuckunter.com
 127.0.0.1 fuckveteran.com
+127.0.0.1 fuckvideos.online
 127.0.0.1 fuckvideos.pro
 127.0.0.1 fuckvideos.xxx
 127.0.0.1 fuckvidstube.com
@@ -24787,6 +24988,7 @@
 127.0.0.1 fukab.com
 127.0.0.1 fukingmachines.com
 127.0.0.1 fuktx.net
+127.0.0.1 fukuhara-f.com
 127.0.0.1 fukxl.com
 127.0.0.1 fulfilledcouples.com
 127.0.0.1 fulfillmentemporiumllcxxx.com
@@ -24838,6 +25040,7 @@
 127.0.0.1 fullofwarez.biz
 127.0.0.1 fullonfetish.com
 127.0.0.1 fullporn.blog
+127.0.0.1 fullporn.net
 127.0.0.1 fullporn.xxx
 127.0.0.1 fullporndvds.com
 127.0.0.1 fullporner.blog
@@ -24869,6 +25072,7 @@
 127.0.0.1 fulltranny.com
 127.0.0.1 fulltrannyporn.com
 127.0.0.1 fulltrannytube.com
+127.0.0.1 fulltruyen.net
 127.0.0.1 fulltube.xxx
 127.0.0.1 fulltwinkpornvideos.click
 127.0.0.1 fullvideos.xxx
@@ -24927,6 +25131,7 @@
 127.0.0.1 fungirl.in
 127.0.0.1 fungirls.in
 127.0.0.1 funhausexperience.com
+127.0.0.1 funhot.net
 127.0.0.1 funinxxoo.com
 127.0.0.1 funker530.com
 127.0.0.1 funkidsexpo.com
@@ -25057,6 +25262,7 @@
 127.0.0.1 fuzzfind.com
 127.0.0.1 fvporno.shop
 127.0.0.1 fw-fetishescort.de
+127.0.0.1 fwwfvnnvmeemdqdyiwgb.com
 127.0.0.1 fx5fx5fx5.cc
 127.0.0.1 fxcldonlinexxx.com
 127.0.0.1 fxfxsextou.com
@@ -25088,6 +25294,7 @@
 127.0.0.1 g-xxxhub.com
 127.0.0.1 g2blazing.com
 127.0.0.1 g2fame.com
+127.0.0.1 g2g1maxxx.org
 127.0.0.1 g2gbetxxx.net
 127.0.0.1 g3549p.com
 127.0.0.1 g3nesisexcavation.com
@@ -25102,6 +25309,7 @@
 127.0.0.1 gachaporn.com
 127.0.0.1 gachi.gay
 127.0.0.1 gadasel.com
+127.0.0.1 gadgetedges.com
 127.0.0.1 gadgetsexcitement.shop
 127.0.0.1 gadgetsexclusiveaccessories.shop
 127.0.0.1 gafiles.com
@@ -25109,6 +25317,7 @@
 127.0.0.1 gagattack.nl
 127.0.0.1 gagaying.com
 127.0.0.1 gagaymd.com
+127.0.0.1 gagged-bondage.com
 127.0.0.1 gaggedgirls.tv
 127.0.0.1 gaggedlist.com
 127.0.0.1 gagler.com
@@ -25134,6 +25343,7 @@
 127.0.0.1 galan.gay
 127.0.0.1 galasti.com
 127.0.0.1 galatea.cat
+127.0.0.1 galaxiatube.com
 127.0.0.1 galaxxx.com
 127.0.0.1 galaxxx.pw
 127.0.0.1 galaxyporn.net
@@ -25277,6 +25487,7 @@
 127.0.0.1 garotosafado.net
 127.0.0.1 garrettgreggor.gay
 127.0.0.1 garynock.com
+127.0.0.1 gasexperto.com
 127.0.0.1 gasexpress-sm.com
 127.0.0.1 gasexpress24.shop
 127.0.0.1 gasexpress25.com.br
@@ -25375,6 +25586,7 @@
 127.0.0.1 gay-sugardaddymeet.com
 127.0.0.1 gay-teen-porn.pro
 127.0.0.1 gay-termine.de
+127.0.0.1 gay-torrent.com
 127.0.0.1 gay-torrents.net
 127.0.0.1 gay-treffit.fi
 127.0.0.1 gay-tube.pro
@@ -25382,6 +25594,7 @@
 127.0.0.1 gay-vibe-coding.site
 127.0.0.1 gay-video-chat.com
 127.0.0.1 gay-videochat.com
+127.0.0.1 gay-xnxx.asia
 127.0.0.1 gay-xnxx.rest
 127.0.0.1 gay-xtapes.com
 127.0.0.1 gay-xtapes.tw
@@ -25414,6 +25627,7 @@
 127.0.0.1 gay1024.top
 127.0.0.1 gay112.com
 127.0.0.1 gay122.com
+127.0.0.1 gay1234.wtf
 127.0.0.1 gay2019.com
 127.0.0.1 gay24chat.com
 127.0.0.1 gay28.top
@@ -25581,6 +25795,7 @@
 127.0.0.1 gayastore.ru
 127.0.0.1 gayasylum.com
 127.0.0.1 gayathri89.info
+127.0.0.1 gayathrichellappan.com
 127.0.0.1 gayathrideviastrologycenter.com
 127.0.0.1 gayathrifashions.com
 127.0.0.1 gayathrigara.online
@@ -25695,6 +25910,7 @@
 127.0.0.1 gaybarebackclub.com
 127.0.0.1 gaybarebackporn.net
 127.0.0.1 gaybarnaul.me
+127.0.0.1 gaybarshirts.com
 127.0.0.1 gaybaza0.top
 127.0.0.1 gaybaza01.top
 127.0.0.1 gaybaza02.top
@@ -25725,6 +25941,7 @@
 127.0.0.1 gayblock.com
 127.0.0.1 gaybloom.men
 127.0.0.1 gayblowjob.tv
+127.0.0.1 gayblowjobauditions.com
 127.0.0.1 gaybodyblog.com
 127.0.0.1 gayboi.club
 127.0.0.1 gaybomba.top
@@ -25785,6 +26002,7 @@
 127.0.0.1 gaybutler.com
 127.0.0.1 gaybuttp.com
 127.0.0.1 gayc8.top
+127.0.0.1 gaycafe.org
 127.0.0.1 gaycamboy.com
 127.0.0.1 gaycamel.com
 127.0.0.1 gaycammodels.net
@@ -25806,6 +26024,7 @@
 127.0.0.1 gayceleb.com
 127.0.0.1 gaycelona.club
 127.0.0.1 gaych.at
+127.0.0.1 gaycha.com
 127.0.0.1 gaycharm.com
 127.0.0.1 gaychat.es
 127.0.0.1 gaychat.today
@@ -25867,6 +26086,7 @@
 127.0.0.1 gaydar.us
 127.0.0.1 gaydarts.com
 127.0.0.1 gaydarts.org
+127.0.0.1 gaydate.info
 127.0.0.1 gaydatelist.com
 127.0.0.1 gaydating.es
 127.0.0.1 gaydaysgetaway.com
@@ -25922,11 +26142,13 @@
 127.0.0.1 gayescortservice.com
 127.0.0.1 gayeshouse.com
 127.0.0.1 gayesoft.com
+127.0.0.1 gayespanol.net
 127.0.0.1 gayespornedreviewed.com
 127.0.0.1 gayethereum.xyz
 127.0.0.1 gayety.co
 127.0.0.1 gayety.com
 127.0.0.1 gayew.cc
+127.0.0.1 gayexpatspanama.com
 127.0.0.1 gayextrim.com
 127.0.0.1 gayeyalcinkaya.com
 127.0.0.1 gayfa.com
@@ -25947,10 +26169,14 @@
 127.0.0.1 gayfits.com
 127.0.0.1 gayfl.com.au
 127.0.0.1 gayflor.com
+127.0.0.1 gayfloridarealtor.info
 127.0.0.1 gayflower.com
 127.0.0.1 gayflowers.ca
 127.0.0.1 gayfm.com.br
+127.0.0.1 gayfollados.com
 127.0.0.1 gayfor.cam
+127.0.0.1 gayforcash.net
+127.0.0.1 gayforfans.vip
 127.0.0.1 gayforit.eu
 127.0.0.1 gayforit.site
 127.0.0.1 gayforpay.live
@@ -25982,6 +26208,7 @@
 127.0.0.1 gayfucks.net
 127.0.0.1 gayfucktube.xxx
 127.0.0.1 gayfucktubexxxindia.pro
+127.0.0.1 gayfuckvideo.com
 127.0.0.1 gayfulkersonmd.com.de
 127.0.0.1 gayfur.com
 127.0.0.1 gayfuror.com
@@ -25991,6 +26218,7 @@
 127.0.0.1 gayfus.com
 127.0.0.1 gayfute.com
 127.0.0.1 gayfuturepodcast.com
+127.0.0.1 gaygarden.net
 127.0.0.1 gaygardening.com
 127.0.0.1 gaygardens.shop
 127.0.0.1 gaygary.com
@@ -26015,6 +26243,7 @@
 127.0.0.1 gaygo.cam
 127.0.0.1 gaygo.top
 127.0.0.1 gaygo.tv
+127.0.0.1 gaygoal.com
 127.0.0.1 gaygoogog.cfd
 127.0.0.1 gaygotickets.com
 127.0.0.1 gaygratis.com
@@ -26046,6 +26275,7 @@
 127.0.0.1 gayhistory.info
 127.0.0.1 gayholiday.uk
 127.0.0.1 gayhomemade.org
+127.0.0.1 gayhomemadetube.com
 127.0.0.1 gayhomepictures.com
 127.0.0.1 gayhomeporn.com
 127.0.0.1 gayhomesabroad.com
@@ -26162,6 +26392,7 @@
 127.0.0.1 gayledumbrellcounselling.online
 127.0.0.1 gayleeasondesign.com
 127.0.0.1 gaylefederico.com
+127.0.0.1 gayleforces.com
 127.0.0.1 gaylegphug.bt
 127.0.0.1 gayleholderer.com
 127.0.0.1 gaylekellytravel.com
@@ -26266,6 +26497,7 @@
 127.0.0.1 gaymastermind.com
 127.0.0.1 gaymatch.jp
 127.0.0.1 gaymatchmaker.com.au
+127.0.0.1 gaymatchmakingclub.com
 127.0.0.1 gaymates.online
 127.0.0.1 gaymatrix.cc
 127.0.0.1 gaymaxxing.com
@@ -26274,6 +26506,7 @@
 127.0.0.1 gaymeboy.com
 127.0.0.1 gaymec.club
 127.0.0.1 gaymedia.top
+127.0.0.1 gaymeettoronto.ca
 127.0.0.1 gaymegastore.us
 127.0.0.1 gaymeister.com
 127.0.0.1 gaymember.net
@@ -26294,6 +26527,7 @@
 127.0.0.1 gaymentubexxx.com
 127.0.0.1 gaymenwank.cam
 127.0.0.1 gaymenwebcams.net
+127.0.0.1 gaymenxxx.com
 127.0.0.1 gaymenzel.com
 127.0.0.1 gaymer.party
 127.0.0.1 gaymer.tech
@@ -26351,6 +26585,7 @@
 127.0.0.1 gaynor.studio
 127.0.0.1 gaynorautomotive.com
 127.0.0.1 gaynorcompanyllc.com
+127.0.0.1 gaynorjoadvisory.com
 127.0.0.1 gaynormeilke.com
 127.0.0.1 gaynornet.us
 127.0.0.1 gaynorph.com
@@ -26408,6 +26643,7 @@
 127.0.0.1 gaypage.online
 127.0.0.1 gaypak.com
 127.0.0.1 gaypaletteknife.com
+127.0.0.1 gaypan.com
 127.0.0.1 gaypartner.be
 127.0.0.1 gayparty.eu.cc
 127.0.0.1 gaypartyhamburg.de
@@ -26428,6 +26664,8 @@
 127.0.0.1 gayplaces.co
 127.0.0.1 gayplanners.com
 127.0.0.1 gayplay.co.uk
+127.0.0.1 gaypleasure.nl
+127.0.0.1 gayplusplus.shop
 127.0.0.1 gaypoemaday.com
 127.0.0.1 gaypoolayer.digital
 127.0.0.1 gaypop.xyz
@@ -26801,6 +27039,7 @@
 127.0.0.1 gayrox.life
 127.0.0.1 gayroyal.com
 127.0.0.1 gayrush.lat
+127.0.0.1 gayrussia.ru
 127.0.0.1 gayry.com
 127.0.0.1 gays-cruising.com
 127.0.0.1 gays-cruising.es
@@ -26829,6 +27068,7 @@
 127.0.0.1 gaysaunasintl.com
 127.0.0.1 gaysaunasintl365.com
 127.0.0.1 gaysax.com
+127.0.0.1 gaysb.you
 127.0.0.1 gaysbook.ru
 127.0.0.1 gaysbus.com
 127.0.0.1 gayscam.com
@@ -26836,6 +27076,7 @@
 127.0.0.1 gayscene.info
 127.0.0.1 gayschinese.com
 127.0.0.1 gayschitt.com
+127.0.0.1 gaysdi.cfd
 127.0.0.1 gaysdream.com
 127.0.0.1 gaysearch.com
 127.0.0.1 gaysearch.de
@@ -26884,7 +27125,9 @@
 127.0.0.1 gaysforsean.com
 127.0.0.1 gaysfuckguys.com
 127.0.0.1 gaysg.vip
+127.0.0.1 gayshack.com
 127.0.0.1 gayshawn.com
+127.0.0.1 gayshop.online
 127.0.0.1 gayshop.ru
 127.0.0.1 gayshop.us
 127.0.0.1 gayside1.com
@@ -26913,8 +27156,10 @@
 127.0.0.1 gaysoaps.com
 127.0.0.1 gaysocial.fr
 127.0.0.1 gaysofhormuz.com
+127.0.0.1 gaysofhormuz.lol
 127.0.0.1 gaysohbet.name.tr
 127.0.0.1 gaysokuhou.com
+127.0.0.1 gaysomalia.com
 127.0.0.1 gaysonly.stream
 127.0.0.1 gaysonporn.xyz
 127.0.0.1 gaysoundboys.com
@@ -26928,7 +27173,6 @@
 127.0.0.1 gayspornomovies.com
 127.0.0.1 gaysportugal.com
 127.0.0.1 gaysqa.com
-127.0.0.1 gaysroom.online
 127.0.0.1 gayssexvideos.quest
 127.0.0.1 gaystap.asia
 127.0.0.1 gaystardo.com
@@ -27127,6 +27371,8 @@
 127.0.0.1 gayxxxvideo.icu
 127.0.0.1 gayxxxvideos.xyz
 127.0.0.1 gayxxxworld.com
+127.0.0.1 gayy.cc
+127.0.0.1 gayyanibabu.com
 127.0.0.1 gayyard.com
 127.0.0.1 gayyb.org
 127.0.0.1 gayyhbk.xyz
@@ -27140,6 +27386,7 @@
 127.0.0.1 gayzone.org
 127.0.0.1 gayzone.us
 127.0.0.1 gayzoomrooms.com
+127.0.0.1 gaze.xxx
 127.0.0.1 gazeandfuck.com
 127.0.0.1 gaziantepescort.net
 127.0.0.1 gaziantepescortgo.com
@@ -27157,6 +27404,7 @@
 127.0.0.1 gbgbetsextou.com
 127.0.0.1 gbmse61.ru
 127.0.0.1 gboysiam.com
+127.0.0.1 gbruzz.gay
 127.0.0.1 gbsqok.gay
 127.0.0.1 gcaqhk.gay
 127.0.0.1 gcbt.net
@@ -27194,6 +27442,7 @@
 127.0.0.1 geg777sextou.com
 127.0.0.1 gegegavsexcoach.com
 127.0.0.1 gegesex.com
+127.0.0.1 gegtop.ru
 127.0.0.1 geile-muschi.com
 127.0.0.1 geile-oma.net
 127.0.0.1 geile-sexcams.net
@@ -27383,6 +27632,7 @@
 127.0.0.1 geteasexpenseai.com
 127.0.0.1 geteasexpenses.com
 127.0.0.1 geteasexpensesai.com
+127.0.0.1 getfitat50.com
 127.0.0.1 getfitwithgaya.xyz
 127.0.0.1 getfleshy.com
 127.0.0.1 getflixxx.com
@@ -27438,6 +27688,7 @@
 127.0.0.1 gettingit.com
 127.0.0.1 gettranny.com
 127.0.0.1 gettube.co
+127.0.0.1 getumdirty.com
 127.0.0.1 getunbound.xxx
 127.0.0.1 getupclose.com
 127.0.0.1 getvr.us
@@ -27547,6 +27798,7 @@
 127.0.0.1 giamgiamoingay.site
 127.0.0.1 giamgiamoingay.website
 127.0.0.1 giammohangngay.sbs
+127.0.0.1 giantcrack.com
 127.0.0.1 giantess-macro-fetish.com
 127.0.0.1 giantess.porn
 127.0.0.1 giantessa.net
@@ -27569,6 +27821,7 @@
 127.0.0.1 gidsexykonakovo.ru
 127.0.0.1 gidsexzarinsk.ru
 127.0.0.1 gif-porn.net
+127.0.0.1 gif-porno.fr
 127.0.0.1 gif-sexe.com
 127.0.0.1 gif-weenus.com
 127.0.0.1 gifbin.com
@@ -27636,6 +27889,7 @@
 127.0.0.1 gigporno.com
 127.0.0.1 gigporno.com.ru
 127.0.0.1 gigporno.fun
+127.0.0.1 gigporno.icu
 127.0.0.1 gigporno.mobi
 127.0.0.1 gigporno.online
 127.0.0.1 gigporno.pro
@@ -27657,9 +27911,12 @@
 127.0.0.1 gilfafcom.com
 127.0.0.1 gilfam.ru
 127.0.0.1 gilfamilyassurance.com
+127.0.0.1 gilfatech.com
 127.0.0.1 gilfcamz.com
+127.0.0.1 gilfdatingservice.com
 127.0.0.1 gilffans.com
 127.0.0.1 gilfieldmissionarybaptistchurch.org
+127.0.0.1 gilfinance.co
 127.0.0.1 gilfmagnet.com
 127.0.0.1 gilfok.com
 127.0.0.1 gilfonsecaterapias.com
@@ -27714,6 +27971,7 @@
 127.0.0.1 girlandthegay.com
 127.0.0.1 girlawy.com
 127.0.0.1 girlcaddieporn.com
+127.0.0.1 girlcam.ch
 127.0.0.1 girlcams.club
 127.0.0.1 girlcandyfilms.com
 127.0.0.1 girlcartoon.net
@@ -27732,6 +27990,7 @@
 127.0.0.1 girlfriendpornpics.com
 127.0.0.1 girlfriendpussy.com
 127.0.0.1 girlfriends.me
+127.0.0.1 girlfriendsexworld.com
 127.0.0.1 girlfriendsfilms.com
 127.0.0.1 girlfriendsfilms.net
 127.0.0.1 girlfriendsfilmsnews.com
@@ -27915,11 +28174,12 @@
 127.0.0.1 glamoureyes.co.uk
 127.0.0.1 glamourfree.com
 127.0.0.1 glamourhound.com
+127.0.0.1 glamourmodelsplus.com
 127.0.0.1 glamourphotographeradelaide.com.au
 127.0.0.1 glamsquadmagazine.com
 127.0.0.1 glancematures.com
-127.0.0.1 glasgow-dominatrix.com
 127.0.0.1 glasove.com
+127.0.0.1 glassexperts.us
 127.0.0.1 glassextension.com
 127.0.0.1 glassporntube.com
 127.0.0.1 glavmatures.com
@@ -27976,6 +28236,7 @@
 127.0.0.1 globalxs.nl
 127.0.0.1 globtube.com
 127.0.0.1 gloje.com
+127.0.0.1 gloogle.site
 127.0.0.1 gloriagroove.com.br
 127.0.0.1 gloriousexperts.com
 127.0.0.1 glory-holes.net
@@ -28002,6 +28263,7 @@
 127.0.0.1 gnoccaforum.biz
 127.0.0.1 gnoccaforum.com
 127.0.0.1 gnoccatravels.com
+127.0.0.1 gnsexports.com
 127.0.0.1 gnshpt.gay
 127.0.0.1 gntai.net
 127.0.0.1 gnula.nu
@@ -28067,6 +28329,7 @@
 127.0.0.1 godfatherxxx.com
 127.0.0.1 godfreytoursexpedition.com
 127.0.0.1 godissex.com
+127.0.0.1 godjapan.com
 127.0.0.1 godlikeproductions.com
 127.0.0.1 godlovesgays.xyz
 127.0.0.1 godlyporn.com
@@ -28288,6 +28551,7 @@
 127.0.0.1 goporn.top
 127.0.0.1 goporn.xyz
 127.0.0.1 goporns.com
+127.0.0.1 goportail.fr
 127.0.0.1 goracelaski.pl
 127.0.0.1 goratings.org
 127.0.0.1 gorditasxxx.site
@@ -28308,6 +28572,7 @@
 127.0.0.1 gorod-individualokx.life
 127.0.0.1 gorokhovsky.gay
 127.0.0.1 goroporn.com
+127.0.0.1 goruntulu.sex
 127.0.0.1 goruntulusex.cfd
 127.0.0.1 gorznak.org
 127.0.0.1 gosaasexperts.com
@@ -28332,6 +28597,8 @@
 127.0.0.1 gostosashd.blog.br
 127.0.0.1 gostosaspelada.com
 127.0.0.1 gostosavip.com
+127.0.0.1 gostrichis.gay
+127.0.0.1 got.sex
 127.0.0.1 got2pee.com
 127.0.0.1 gotanynudes.com
 127.0.0.1 gotanynudes.net
@@ -28352,6 +28619,7 @@
 127.0.0.1 gotherotica.life
 127.0.0.1 gothic-classifieds.com
 127.0.0.1 gothicgirls.xyz
+127.0.0.1 gothsexlog.com
 127.0.0.1 gotinder.com
 127.0.0.1 gotoboy.com
 127.0.0.1 gotofap.org
@@ -28371,7 +28639,6 @@
 127.0.0.1 gottateens.com
 127.0.0.1 gotubexxx.com
 127.0.0.1 gotxxx.com
-127.0.0.1 gounu.lat
 127.0.0.1 gourmandix.com
 127.0.0.1 gousexpand.info
 127.0.0.1 gousexpansion.info
@@ -28456,6 +28723,7 @@
 127.0.0.1 grannybigboobs.com
 127.0.0.1 grannybigtits.net
 127.0.0.1 grannycinema.com
+127.0.0.1 grannydoesporn.com
 127.0.0.1 grannydump.com
 127.0.0.1 grannyfishhd.com
 127.0.0.1 grannyflash.com
@@ -28523,6 +28791,7 @@
 127.0.0.1 graphis.ne.jp
 127.0.0.1 graphnow.com
 127.0.0.1 grasp.monster
+127.0.0.1 grassemenwji.shop
 127.0.0.1 gratis-porno-pics.com
 127.0.0.1 gratis-sex-videos.net
 127.0.0.1 gratis-sexafspraak.nl
@@ -28554,6 +28823,7 @@
 127.0.0.1 gravitasexcelsa.com
 127.0.0.1 gravitygoat.com
 127.0.0.1 gravityporn.com
+127.0.0.1 gravitysexualhealth.com
 127.0.0.1 gravure-idol-douga.com
 127.0.0.1 gravurekenkyujo.com
 127.0.0.1 gravysex.com
@@ -28564,6 +28834,7 @@
 127.0.0.1 greaternoidaescorts.in
 127.0.0.1 greaterotic.com
 127.0.0.1 greatestbear.com
+127.0.0.1 greatewallfirewall.xyz
 127.0.0.1 greatgaybakeoff.com
 127.0.0.1 greatgaypornmovies.click
 127.0.0.1 greatgaysex.click
@@ -28571,8 +28842,10 @@
 127.0.0.1 greatgayxxxvideos.click
 127.0.0.1 greatlakesashtangayoga.com
 127.0.0.1 greatlakesexteriorsllc.com
+127.0.0.1 greatlakesextract.com
 127.0.0.1 greatlesbiansites.com
 127.0.0.1 greatphit.com
+127.0.0.1 greatreleasexm.com
 127.0.0.1 greatsexguidance.com
 127.0.0.1 greatsexy.info
 127.0.0.1 greatsmut.com
@@ -28656,6 +28929,7 @@
 127.0.0.1 groundrats.org
 127.0.0.1 groupbasisexpandidealdirectweb.top
 127.0.0.1 groupda.link
+127.0.0.1 grouperoche.fr
 127.0.0.1 grouporgyfrenzy.xyz
 127.0.0.1 groupsex.pics
 127.0.0.1 groupsexxx.com
@@ -28686,6 +28960,7 @@
 127.0.0.1 grupodeputaria.com
 127.0.0.1 grupodeputaria.net
 127.0.0.1 grupodesexta.com
+127.0.0.1 grupodotelegram.com
 127.0.0.1 grupodotelegram.com.br
 127.0.0.1 grupoet.com
 127.0.0.1 grupogayo.com.br
@@ -28716,6 +28991,7 @@
 127.0.0.1 gslutheran.com
 127.0.0.1 gspiceyl.com
 127.0.0.1 gsporn.com
+127.0.0.1 gspostur.com
 127.0.0.1 gspot.com
 127.0.0.1 gspotgirl.com
 127.0.0.1 gstory.ai
@@ -28725,6 +29001,7 @@
 127.0.0.1 gtk-apps.org
 127.0.0.1 gtoxxxx.win
 127.0.0.1 gtp.fyi
+127.0.0.1 gtporn.com
 127.0.0.1 gtsex.com
 127.0.0.1 gtsq.de
 127.0.0.1 gtube.xxx
@@ -28736,6 +29013,7 @@
 127.0.0.1 guariscospurghi.com
 127.0.0.1 guayu.com
 127.0.0.1 guestpornmovies.com
+127.0.0.1 guetsex.sbs
 127.0.0.1 guia777sextou.com
 127.0.0.1 guiagaysitges.com
 127.0.0.1 guialuxacompanhantes.com.br
@@ -28774,6 +29052,7 @@
 127.0.0.1 gunpool.gay
 127.0.0.1 gunporn.com
 127.0.0.1 gunshop.vn
+127.0.0.1 guntsex.sbs
 127.0.0.1 gunzblazing.com
 127.0.0.1 guo-qq.sbs
 127.0.0.1 guoc202503.cfd
@@ -28944,11 +29223,11 @@
 127.0.0.1 h2porn.com
 127.0.0.1 h3dte.gay
 127.0.0.1 h4610.com
-127.0.0.1 h497.cc
 127.0.0.1 h4g3z1-nsfw.web.app
 127.0.0.1 h5gxa-admxxx-sng9o.com
 127.0.0.1 habanero88xxx.com
 127.0.0.1 haberortakoy.com
+127.0.0.1 habibhunisexsalon.in
 127.0.0.1 habibisex.com
 127.0.0.1 habibsunisexsalon.com
 127.0.0.1 hablandodesexo.com
@@ -29056,6 +29335,7 @@
 127.0.0.1 halloporno.net
 127.0.0.1 halloweeninessex.com
 127.0.0.1 halouwode.net
+127.0.0.1 halu.us
 127.0.0.1 ham3x.com
 127.0.0.1 hamajim.com
 127.0.0.1 hamakko.net
@@ -29164,6 +29444,7 @@
 127.0.0.1 happy-granny.com
 127.0.0.1 happy-porn.com
 127.0.0.1 happy2hub.eu
+127.0.0.1 happyadultproductsstore.com
 127.0.0.1 happybed.com
 127.0.0.1 happybooty.com
 127.0.0.1 happyescortgirl.com
@@ -29172,6 +29453,7 @@
 127.0.0.1 happyfappy.org
 127.0.0.1 happyholidayspermanentlighting.com
 127.0.0.1 happyhorsecartoons.com
+127.0.0.1 happyhorsex.com
 127.0.0.1 happyhotandhorny.com
 127.0.0.1 happyhouradultfamilyhome.com
 127.0.0.1 happymassage.hu
@@ -29359,6 +29641,7 @@
 127.0.0.1 hatgiongngaymoi.com
 127.0.0.1 hath.network
 127.0.0.1 hatterz.sex
+127.0.0.1 hatti.sex
 127.0.0.1 hattrixxx.com
 127.0.0.1 haulingserviceslutz.com
 127.0.0.1 hauptstadt-puff.de
@@ -29371,6 +29654,7 @@
 127.0.0.1 hauteecole.ru
 127.0.0.1 hauteng.de
 127.0.0.1 hautengshop.de
+127.0.0.1 havaianasfrance.fr
 127.0.0.1 havanesegallery.hu
 127.0.0.1 havazona.info
 127.0.0.1 have.fun
@@ -29495,6 +29779,7 @@
 127.0.0.1 hddesisex.com
 127.0.0.1 hddojki.com
 127.0.0.1 hddporn.com
+127.0.0.1 hddpporornnssexsxsxs.sbs
 127.0.0.1 hddsex.com
 127.0.0.1 hddxxx.com
 127.0.0.1 hdefporn.com
@@ -29522,6 +29807,7 @@
 127.0.0.1 hdgaysexvideos.click
 127.0.0.1 hdgaytube.xxx
 127.0.0.1 hdgayvideo.com
+127.0.0.1 hdgirlssex.com
 127.0.0.1 hdgoldporn.com
 127.0.0.1 hdgrandmaxnxx.com
 127.0.0.1 hdgrannytube.com
@@ -29573,6 +29859,7 @@
 127.0.0.1 hdouga.com
 127.0.0.1 hdoujin.org
 127.0.0.1 hdpicsx.com
+127.0.0.1 hdporn.best
 127.0.0.1 hdporn.com
 127.0.0.1 hdporn.cyou
 127.0.0.1 hdporn.gg
@@ -29785,6 +30072,7 @@
 127.0.0.1 hdtamilsex.com
 127.0.0.1 hdteen.porn
 127.0.0.1 hdteenporn8.com
+127.0.0.1 hdtele.com
 127.0.0.1 hdtelugusex.com
 127.0.0.1 hdthaisex.site
 127.0.0.1 hdthot.com
@@ -29879,6 +30167,7 @@
 127.0.0.1 healthy-you.gay
 127.0.0.1 healthyandactive.com
 127.0.0.1 healthygaycornwall.org.uk
+127.0.0.1 healthygayhampshire.com
 127.0.0.1 healthyhumans.life
 127.0.0.1 healthypawsexchange.com
 127.0.0.1 healthypawsexecutive.com
@@ -30010,6 +30299,7 @@
 127.0.0.1 hellporno.net
 127.0.0.1 hellscams.com
 127.0.0.1 hellsdungeon.com
+127.0.0.1 helmeringhausen.com
 127.0.0.1 helpadultservices.org
 127.0.0.1 helpagay.com
 127.0.0.1 helpinghomesexteriors.com
@@ -30109,7 +30399,6 @@
 127.0.0.1 hentai20.io
 127.0.0.1 hentai20.lol
 127.0.0.1 hentai20.org
-127.0.0.1 hentai2026.space
 127.0.0.1 hentai222.com
 127.0.0.1 hentai247.com
 127.0.0.1 hentai247.net
@@ -30129,6 +30418,7 @@
 127.0.0.1 hentai4free.net
 127.0.0.1 hentai4k.com
 127.0.0.1 hentai4porn.com
+127.0.0.1 hentai666.com
 127.0.0.1 hentaiaction.net
 127.0.0.1 hentaiadam.com
 127.0.0.1 hentaiadultgames.com
@@ -30375,6 +30665,7 @@
 127.0.0.1 hentaismile.com
 127.0.0.1 hentaistream.com
 127.0.0.1 hentaistream.io
+127.0.0.1 hentaistream.org
 127.0.0.1 hentaistream.tv
 127.0.0.1 hentaistream.us
 127.0.0.1 hentaistream.xxx
@@ -30572,6 +30863,7 @@
 127.0.0.1 heydouga.org
 127.0.0.1 heyeditor.net
 127.0.0.1 heyepiphora.com
+127.0.0.1 heyhorny.com
 127.0.0.1 heymilf.com
 127.0.0.1 heyscoops.com
 127.0.0.1 heysexi.com
@@ -30634,6 +30926,8 @@
 127.0.0.1 hifigirls.net
 127.0.0.1 hifimodelescortsgurgaon.com
 127.0.0.1 hifiporn.fun
+127.0.0.1 hifiporn.pw
+127.0.0.1 hifiporn.top
 127.0.0.1 hifistreetgirl.com
 127.0.0.1 hifixxx.co
 127.0.0.1 hifixxx.top
@@ -30667,6 +30961,7 @@
 127.0.0.1 highwebmedia.com
 127.0.0.1 hihisex.app
 127.0.0.1 hihisex.co
+127.0.0.1 hihisex.show
 127.0.0.1 hihispermrace.nz
 127.0.0.1 hihitube.com
 127.0.0.1 hijabaiporn.com
@@ -30701,6 +30996,7 @@
 127.0.0.1 hindi2tech.in
 127.0.0.1 hindi3x.net
 127.0.0.1 hindiaiporn.com
+127.0.0.1 hindibfsex.xyz
 127.0.0.1 hindibfvideo.com
 127.0.0.1 hindibluefilm.net
 127.0.0.1 hindiclips.click
@@ -30851,6 +31147,7 @@
 127.0.0.1 hindisexxxxxvideos.hair
 127.0.0.1 hindisexxxxxvideos.space
 127.0.0.1 hindisexxxxxvideos.website
+127.0.0.1 hindisexxxxxxvideos.auction
 127.0.0.1 hindisexxxxxxvideos.autos
 127.0.0.1 hindisexxxxxxvideos.bar
 127.0.0.1 hindisexxxxxxvideos.beauty
@@ -30980,6 +31277,7 @@
 127.0.0.1 hitclit.xyz
 127.0.0.1 hitclub.adult
 127.0.0.1 hitclub.porn
+127.0.0.1 hitdspot.com
 127.0.0.1 hitfilmy.com
 127.0.0.1 hitimakszeretet.network.hu
 127.0.0.1 hitodumaerocollection.com
@@ -31034,6 +31332,7 @@
 127.0.0.1 hndjyqmilfxjcxz.com
 127.0.0.1 hnext.jp
 127.0.0.1 hnfrdkj.com
+127.0.0.1 hngayjy.com
 127.0.0.1 hnlyxxxkj.com
 127.0.0.1 hnntube.com
 127.0.0.1 hnxxxf.cn
@@ -31048,6 +31347,7 @@
 127.0.0.1 hobby.porn
 127.0.0.1 hobbyladies.net
 127.0.0.1 hobbyporno.net
+127.0.0.1 hobigym.com
 127.0.0.1 hobonichielog.com
 127.0.0.1 hobybuchanon.com
 127.0.0.1 hochu-sex-poltava.online
@@ -31077,6 +31377,7 @@
 127.0.0.1 hog-ties.com
 127.0.0.1 hog.mobi
 127.0.0.1 hog.tv
+127.0.0.1 hoganoutlet.fr
 127.0.0.1 hogaye.xyz
 127.0.0.1 hogsandheifers.com
 127.0.0.1 hogsandheiferslasvegas.com
@@ -31223,6 +31524,7 @@
 127.0.0.1 homeorgy.homes
 127.0.0.1 homeorgy.party
 127.0.0.1 homeorgy.sbs
+127.0.0.1 homeoutdoorscams.com
 127.0.0.1 homepornbay.com
 127.0.0.1 homepornfilms.com
 127.0.0.1 homepornframes.com
@@ -31238,6 +31540,7 @@
 127.0.0.1 homeroomssluttier.pro
 127.0.0.1 homesex.bid
 127.0.0.1 homesex.us
+127.0.0.1 homesexact.com
 127.0.0.1 homesexplanet.com
 127.0.0.1 homesexporn.com
 127.0.0.1 homesexporn.online
@@ -31303,6 +31606,7 @@
 127.0.0.1 hookers.nl
 127.0.0.1 hookersnearme.net
 127.0.0.1 hookup-insider.com
+127.0.0.1 hookup-local.com
 127.0.0.1 hookup-society.com
 127.0.0.1 hookup.co.jp
 127.0.0.1 hookup.com
@@ -31354,12 +31658,14 @@
 127.0.0.1 hoopsexposure.com
 127.0.0.1 hoostory.ru
 127.0.0.1 hooxs.com
+127.0.0.1 hopehealthadultdaycare.com
 127.0.0.1 hopemedicaregayaza.com
 127.0.0.1 hopiaks.com
 127.0.0.1 hopingforsex.com
 127.0.0.1 hopperexclusive5000bonusextended.com
 127.0.0.1 hoptacqtnhantaikyluc.com
 127.0.0.1 horasexata.com
+127.0.0.1 horizon-eligibilite.com
 127.0.0.1 hormonesexpertsclinic.com
 127.0.0.1 hornbill.gay
 127.0.0.1 hornblower-businessexits.co.uk
@@ -31394,6 +31700,7 @@
 127.0.0.1 hornybank.com
 127.0.0.1 hornybattery.xyz
 127.0.0.1 hornybhabhiporn.com
+127.0.0.1 hornybook.org
 127.0.0.1 hornyboy.gay
 127.0.0.1 hornybutlonely.com
 127.0.0.1 hornycase.com
@@ -31442,6 +31749,7 @@
 127.0.0.1 hornygoatentertainment.com
 127.0.0.1 hornygoatpub.com
 127.0.0.1 hornygoats.net
+127.0.0.1 hornygorilla.com
 127.0.0.1 hornygrail.com
 127.0.0.1 hornyhill.com
 127.0.0.1 hornyhoes.net
@@ -31472,13 +31780,13 @@
 127.0.0.1 hornymatches.com
 127.0.0.1 hornymaturez.com
 127.0.0.1 hornymeetup.com
+127.0.0.1 hornymeme.fun
 127.0.0.1 hornymen.top
 127.0.0.1 hornymilfpics.com
 127.0.0.1 hornymms.fun
 127.0.0.1 hornymother.com
 127.0.0.1 hornymystepson.com
 127.0.0.1 hornynation.life
-127.0.0.1 hornynation.lol
 127.0.0.1 hornynudemom.com
 127.0.0.1 hornyoc.org
 127.0.0.1 hornypeter.com
@@ -31523,6 +31831,7 @@
 127.0.0.1 hornywombat.com
 127.0.0.1 hornywombat.pro
 127.0.0.1 hornyxxx.win
+127.0.0.1 hornyzen.com
 127.0.0.1 horriblevideos.com
 127.0.0.1 horror.it
 127.0.0.1 horroranthologymovies.com
@@ -31553,6 +31862,7 @@
 127.0.0.1 horsexch.com
 127.0.0.1 horsezoofiliatube.space
 127.0.0.1 horuseye.hu
+127.0.0.1 hospitaleco.com
 127.0.0.1 host4fap.com
 127.0.0.1 hoster-test.ru
 127.0.0.1 hostessen-meile.com
@@ -31630,6 +31940,7 @@
 127.0.0.1 hotanddirty.ch
 127.0.0.1 hotanddirty.co
 127.0.0.1 hotandgirls.site
+127.0.0.1 hotandhard.com
 127.0.0.1 hotandsexy.club
 127.0.0.1 hotandsexysongsforus.com
 127.0.0.1 hotasianporn.homes
@@ -31690,6 +32001,7 @@
 127.0.0.1 hotdesifuck.pro
 127.0.0.1 hotdesigirlsfuck.com
 127.0.0.1 hotdesileaks.com
+127.0.0.1 hotdesisex.pro
 127.0.0.1 hotdesisexstories.net
 127.0.0.1 hotdomai.com
 127.0.0.1 hotdreams.com.br
@@ -31807,8 +32119,10 @@
 127.0.0.1 hotlatingirls.com
 127.0.0.1 hotleak.vip
 127.0.0.1 hotleaks.tv
+127.0.0.1 hotlegsandfeet.com
 127.0.0.1 hotlegsinlove.com
 127.0.0.1 hotlesbianp.com
+127.0.0.1 hotlineporn.com
 127.0.0.1 hotlinkfiles.com
 127.0.0.1 hotlinks.nl
 127.0.0.1 hotlinkx.de
@@ -31829,6 +32143,7 @@
 127.0.0.1 hotmaturewomensexcams.com
 127.0.0.1 hotmenuniverse.com
 127.0.0.1 hotmilf.fans
+127.0.0.1 hotmilf.us
 127.0.0.1 hotmilfdate.com
 127.0.0.1 hotmilfnude.com
 127.0.0.1 hotmilfphotos.com
@@ -31938,7 +32253,6 @@
 127.0.0.1 hotpornslut.com
 127.0.0.1 hotporntube.biz
 127.0.0.1 hotporntube.co
-127.0.0.1 hotporntube.xyz
 127.0.0.1 hotporntubes.com
 127.0.0.1 hotpornvideos.click
 127.0.0.1 hotpornvideos.tv
@@ -31967,6 +32281,7 @@
 127.0.0.1 hotsexaday.com
 127.0.0.1 hotsexebony.net
 127.0.0.1 hotsexgaytube.click
+127.0.0.1 hotsexmodeltv.net
 127.0.0.1 hotsexporntubex.com
 127.0.0.1 hotsexsea.xyz
 127.0.0.1 hotsexstoriespictures.com
@@ -31983,6 +32298,7 @@
 127.0.0.1 hotsexycool.com
 127.0.0.1 hotsexyday.com
 127.0.0.1 hotsexygirls.xyz
+127.0.0.1 hotsexyshop.com
 127.0.0.1 hotsexyteen.com
 127.0.0.1 hotsexytimes.com
 127.0.0.1 hotsexyverkhnyaya-pyshma.ru
@@ -31999,6 +32315,7 @@
 127.0.0.1 hotspotreviews.net
 127.0.0.1 hotstash.net
 127.0.0.1 hotsurf.de
+127.0.0.1 hotsweetshe.com
 127.0.0.1 hott.es
 127.0.0.1 hotteenerotica.com
 127.0.0.1 hotteenfreecam.com
@@ -32084,6 +32401,7 @@
 127.0.0.1 hotxxxmovies.net
 127.0.0.1 hotxxxmvs.com
 127.0.0.1 hotxxxpornolarx.com
+127.0.0.1 hotxxxpussy.com
 127.0.0.1 hotxxxstory.ru
 127.0.0.1 hotxxxstory.store
 127.0.0.1 hotxxxteens.net
@@ -32115,7 +32433,6 @@
 127.0.0.1 housexentials.store
 127.0.0.1 housexistudio.com
 127.0.0.1 housexiv.studio
-127.0.0.1 housexpert.co.in
 127.0.0.1 houstonperfectescorts.net
 127.0.0.1 hovixlogisticsexp.com
 127.0.0.1 how-to-kill-yourself.com
@@ -32206,6 +32523,7 @@
 127.0.0.1 hqporner.bond
 127.0.0.1 hqporner.com
 127.0.0.1 hqporner.gg
+127.0.0.1 hqporner.pro
 127.0.0.1 hqporner.rocks
 127.0.0.1 hqporneranal.online
 127.0.0.1 hqpornero.com
@@ -32291,9 +32609,11 @@
 127.0.0.1 htmwrestling.com
 127.0.0.1 htsp2.yachts
 127.0.0.1 http-xxx.sa.com
+127.0.0.1 httpsexpressionshairstudiobymindy.com
 127.0.0.1 htube.com
 127.0.0.1 htube.net
 127.0.0.1 htzxxx.com
+127.0.0.1 huabeitour.com
 127.0.0.1 huajiao.com
 127.0.0.1 huangse.love
 127.0.0.1 huangsexiaos.cc
@@ -32368,6 +32688,8 @@
 127.0.0.1 humanescorts.com
 127.0.0.1 humaniplex.com
 127.0.0.1 humanoid.adult
+127.0.0.1 humanoide.xxx
+127.0.0.1 humanoids.xxx
 127.0.0.1 humanoidsexbot.com
 127.0.0.1 humanoidsexdoll.com
 127.0.0.1 humanoidsexdolls.com
@@ -32449,6 +32771,7 @@
 127.0.0.1 hussiemodels.com
 127.0.0.1 hussiepass.com
 127.0.0.1 hussy.io
+127.0.0.1 hussypornstars.com
 127.0.0.1 hustler.com
 127.0.0.1 hustler.de
 127.0.0.1 hustlercash.com
@@ -32472,6 +32795,7 @@
 127.0.0.1 huyamba.info
 127.0.0.1 huyamba.mobi
 127.0.0.1 huyamba.org
+127.0.0.1 huyushop.com
 127.0.0.1 huzursehrikonya.com
 127.0.0.1 hvaccontractormilfordct.com
 127.0.0.1 hvadult.com
@@ -32480,6 +32804,7 @@
 127.0.0.1 hvgay.com
 127.0.0.1 hvideos.net
 127.0.0.1 hvoya52.ru
+127.0.0.1 hvporn.com
 127.0.0.1 hvporno.shop
 127.0.0.1 hvsex.com
 127.0.0.1 hvxxx.com
@@ -32497,6 +32822,7 @@
 127.0.0.1 hxxx85.com
 127.0.0.1 hxxx86.com
 127.0.0.1 hxxxsp.com
+127.0.0.1 hxxxxx.com
 127.0.0.1 hxxxy.xyz
 127.0.0.1 hy-s-oigilfb.cc
 127.0.0.1 hybing.com
@@ -32587,16 +32913,14 @@
 127.0.0.1 i-xxxvideos.xyz
 127.0.0.1 i.ucrazy.ru
 127.0.0.1 i026.cc
-127.0.0.1 i060.cc
 127.0.0.1 i0s1xgay.com
 127.0.0.1 i2px.com
 127.0.0.1 i34hd.com
 127.0.0.1 i520.gay
-127.0.0.1 i564.cc
-127.0.0.1 i572.cc
 127.0.0.1 i69xx.me
 127.0.0.1 i69xx2.me
 127.0.0.1 i940.vip
+127.0.0.1 ia-patrimoine.com
 127.0.0.1 iadulte.fr
 127.0.0.1 iaescorts.com
 127.0.0.1 iafd.com
@@ -32609,6 +32933,7 @@
 127.0.0.1 iamrobosexual.org
 127.0.0.1 iamsexyasa.com
 127.0.0.1 iamsissy.com
+127.0.0.1 iamsuperkol.com
 127.0.0.1 iamvery.gay
 127.0.0.1 iamxxx.com
 127.0.0.1 iamzinon.com
@@ -32628,6 +32953,7 @@
 127.0.0.1 ibizababes.com
 127.0.0.1 ibizatops.com
 127.0.0.1 ibradome.com
+127.0.0.1 ibsexpert.com.br
 127.0.0.1 icamzlive.net
 127.0.0.1 icanbe.gay
 127.0.0.1 icantfuckingdecide.com
@@ -32668,6 +32994,7 @@
 127.0.0.1 icolimp.com
 127.0.0.1 iconicluxeunisexsalon.com
 127.0.0.1 iconmale.com
+127.0.0.1 iconsussex.com
 127.0.0.1 icoomovies.com
 127.0.0.1 icpep.org
 127.0.0.1 ict.gay
@@ -32684,6 +33011,7 @@
 127.0.0.1 idealmilf.live
 127.0.0.1 idealnude.com
 127.0.0.1 idealnudes.com
+127.0.0.1 idealsex.net
 127.0.0.1 idealwifes.com
 127.0.0.1 ideasexpress.com.ar
 127.0.0.1 ideawidgets.ru
@@ -32779,6 +33107,7 @@
 127.0.0.1 igfculturewatch.com
 127.0.0.1 igirl.in
 127.0.0.1 igniteyoungadults.com
+127.0.0.1 ignoracndwko.shop
 127.0.0.1 ignoranceisexpensive.co.uk
 127.0.0.1 ignore4k.com
 127.0.0.1 ignoredhandjobs.com
@@ -32821,6 +33150,7 @@
 127.0.0.1 ihotv.com
 127.0.0.1 ii-porno0.top
 127.0.0.1 ii.gay
+127.0.0.1 iie8.com
 127.0.0.1 iigay.com
 127.0.0.1 iijima-town-kagayaku.jp
 127.0.0.1 iim.gay
@@ -32859,7 +33189,9 @@
 127.0.0.1 illegalpornography.com
 127.0.0.1 illicitsex.com
 127.0.0.1 illicoporno.com
+127.0.0.1 illinoisadultcareplan.com
 127.0.0.1 illinoisexcavatorrentals.com
+127.0.0.1 illod.com
 127.0.0.1 illusionsart.com
 127.0.0.1 illuzi.ru
 127.0.0.1 ilmaistaporno.org
@@ -32890,6 +33222,7 @@
 127.0.0.1 iloveweho.gay
 127.0.0.1 iloveyourwork.net
 127.0.0.1 iloveyousexy.com
+127.0.0.1 ilpgay.cn
 127.0.0.1 ils-essex.com
 127.0.0.1 iluvashliefan.com
 127.0.0.1 iluvtoons.com
@@ -32930,6 +33263,7 @@
 127.0.0.1 imgay.us
 127.0.0.1 imgay.wiki
 127.0.0.1 imgaydonttellmywife.com
+127.0.0.1 imgayford.com
 127.0.0.1 imgayletsfuck.com
 127.0.0.1 imgcup.com
 127.0.0.1 imgdawgknuttz.com
@@ -32953,6 +33287,9 @@
 127.0.0.1 imilfs.com
 127.0.0.1 imlive.com
 127.0.0.1 immanuelstegerstpaulslutheranchicagoheightsil.org
+127.0.0.1 immediate-connect.com
+127.0.0.1 immediate-peak.com
+127.0.0.1 immediateconnect.com
 127.0.0.1 immediateproair.com
 127.0.0.1 immersed.xxx
 127.0.0.1 immersiatv.eu
@@ -32968,6 +33305,7 @@
 127.0.0.1 imperialescorts.co.uk
 127.0.0.1 imperiodefamosas.com
 127.0.0.1 imperiohentai.com
+127.0.0.1 impersonate.xyz
 127.0.0.1 impervert.com
 127.0.0.1 imperviousexteriors.com
 127.0.0.1 implantesdentalesexperto.com
@@ -32987,7 +33325,6 @@
 127.0.0.1 imsexyandiknowit.xyz
 127.0.0.1 imsohorny.com
 127.0.0.1 imsuper.gay
-127.0.0.1 imtken.com
 127.0.0.1 imzog.com
 127.0.0.1 in-charge.net
 127.0.0.1 in-den-schattenwelten.de
@@ -33073,6 +33410,7 @@
 127.0.0.1 incestsex.vip
 127.0.0.1 incestsexpornxxx.com
 127.0.0.1 inceststoriesvideos.com
+127.0.0.1 incesttube.pro
 127.0.0.1 incestuosas.com
 127.0.0.1 incestvid.site
 127.0.0.1 incestvideo.pro
@@ -33082,6 +33420,9 @@
 127.0.0.1 incestzone.com
 127.0.0.1 incezt.net
 127.0.0.1 incgrepacks.com
+127.0.0.1 incisexsxxessseex1.sbs
+127.0.0.1 incisexsxxsesesex1.sbs
+127.0.0.1 incisexsxxsesseex1.sbs
 127.0.0.1 inco.hu
 127.0.0.1 incognitomode.app
 127.0.0.1 incognitymous.com
@@ -33092,6 +33433,7 @@
 127.0.0.1 incontriamoci.xxx
 127.0.0.1 incontrifetish.it
 127.0.0.1 incontriticino.com
+127.0.0.1 incontroler.com
 127.0.0.1 incracks.com
 127.0.0.1 increasesexdrive.online
 127.0.0.1 incset-sexstories.com
@@ -33143,6 +33485,7 @@
 127.0.0.1 indian-sex-hoes.com
 127.0.0.1 indian-sex-tube.com
 127.0.0.1 indian-sex0.com
+127.0.0.1 indian-sextube.com
 127.0.0.1 indian-teen-porn.com
 127.0.0.1 indian-tube.org
 127.0.0.1 indian-xnxx.pro
@@ -33155,6 +33498,7 @@
 127.0.0.1 indianal.com
 127.0.0.1 indianallsexvideos.com
 127.0.0.1 indiananalxxx.com
+127.0.0.1 indianasmallbusinessexpo.com
 127.0.0.1 indianauntyporn.net
 127.0.0.1 indianauntypornvideos.com
 127.0.0.1 indianbad.com
@@ -33216,6 +33560,7 @@
 127.0.0.1 indianlovexxx.com
 127.0.0.1 indianlust.mobi
 127.0.0.1 indianmahi.com
+127.0.0.1 indianmatrix.com
 127.0.0.1 indianmilf.me
 127.0.0.1 indianmms.net
 127.0.0.1 indianmmssex.com
@@ -33256,12 +33601,15 @@
 127.0.0.1 indianporngirl.cam
 127.0.0.1 indianporngirl.net
 127.0.0.1 indianporngirl3.com
+127.0.0.1 indianporngirl4.com
+127.0.0.1 indianporngirls.net
 127.0.0.1 indianporngram.com
 127.0.0.1 indianpornhd.su
 127.0.0.1 indianpornhindi.com
 127.0.0.1 indianpornin.com
 127.0.0.1 indianpornio.com
 127.0.0.1 indianpornlist.com
+127.0.0.1 indianpornmax.com
 127.0.0.1 indianpornmms.net
 127.0.0.1 indianpornmovies.info
 127.0.0.1 indianpornmovies.org
@@ -33430,7 +33778,6 @@
 127.0.0.1 indo20.com
 127.0.0.1 indoabgg.baby
 127.0.0.1 indoav.com
-127.0.0.1 indobhabhi.vip
 127.0.0.1 indobokep.com.co
 127.0.0.1 indobokepin.com
 127.0.0.1 indocewekcantik.wiki
@@ -33449,6 +33796,7 @@
 127.0.0.1 indonesiaporn.monster
 127.0.0.1 indoporn.jejaring.fun
 127.0.0.1 indoporn.mobi
+127.0.0.1 indoporn.online
 127.0.0.1 indoporn.pro
 127.0.0.1 indoporn21.com
 127.0.0.1 indoporn21.org
@@ -33494,6 +33842,7 @@
 127.0.0.1 infinitetube.com
 127.0.0.1 infinitxxx.com
 127.0.0.1 infinityleggsexpress.com
+127.0.0.1 infinitysportsexperience.com
 127.0.0.1 inflaterotica.co
 127.0.0.1 inflaterotica.info
 127.0.0.1 inflaterotica.net
@@ -33516,6 +33865,7 @@
 127.0.0.1 infofruitslinksexpress.com
 127.0.0.1 infomatch.com
 127.0.0.1 infomaxxx.ing
+127.0.0.1 infonetgayrimenkul.com
 127.0.0.1 infopulsexz.xyz
 127.0.0.1 inforcode.com
 127.0.0.1 informacionsexual.com
@@ -33623,6 +33973,7 @@
 127.0.0.1 instanthookups.org
 127.0.0.1 instantjmm.com
 127.0.0.1 instantplaymate.com
+127.0.0.1 instantsexchat.com
 127.0.0.1 instasluts.com
 127.0.0.1 instavixens.com
 127.0.0.1 instavyapar.co.in
@@ -33646,6 +33997,7 @@
 127.0.0.1 intensegangbangs.com
 127.0.0.1 intensesexshop.com.br
 127.0.0.1 intensexxx.com
+127.0.0.1 interac-etransfer.net
 127.0.0.1 interactive-erotica.com
 127.0.0.1 interactive-pov.com
 127.0.0.1 interactiveporn.top
@@ -33655,6 +34007,7 @@
 127.0.0.1 interbus.cz
 127.0.0.1 intercidadesexpress.com.br
 127.0.0.1 interesnoe-porno.com
+127.0.0.1 interfiora.fr
 127.0.0.1 interfisio.com.br
 127.0.0.1 interiorfantasy.com
 127.0.0.1 interludeeurope.com
@@ -33754,6 +34107,7 @@
 127.0.0.1 invertedcastle.com
 127.0.0.1 investflowpulsex.top
 127.0.0.1 investigaya.com
+127.0.0.1 investimentosexplicados.com.br
 127.0.0.1 invictusexecutivetransport.com
 127.0.0.1 invincia.xxx
 127.0.0.1 invisaligndentistsessex.uk
@@ -33829,8 +34183,8 @@
 127.0.0.1 ipostnaked.com
 127.0.0.1 ipreferporn.live
 127.0.0.1 iptv-adult.live
-127.0.0.1 iptv-adulte.tech
 127.0.0.1 iptv-adulte.vip
+127.0.0.1 iptvadulte.space
 127.0.0.1 iptvadultsevers.store
 127.0.0.1 iptvchaineadulte.shop
 127.0.0.1 iptvporn.fr
@@ -34075,6 +34429,7 @@
 127.0.0.1 it-dating-reviews.com
 127.0.0.1 it.artthong.com
 127.0.0.1 itadultmake.life
+127.0.0.1 itahomesale.com
 127.0.0.1 itai.gay
 127.0.0.1 itaincontri.com
 127.0.0.1 itaintmeatbabe.com
@@ -34101,6 +34456,7 @@
 127.0.0.1 ithake.fr
 127.0.0.1 ithinkyouare.gay
 127.0.0.1 itinyteens.com
+127.0.0.1 itisxxx.com
 127.0.0.1 itmgayx.cn
 127.0.0.1 itmrs.com
 127.0.0.1 itnaked.com
@@ -34293,9 +34649,6 @@
 127.0.0.1 j-live.tv
 127.0.0.1 j-pussy.com
 127.0.0.1 j-times.ru
-127.0.0.1 j534.cc
-127.0.0.1 j589.cc
-127.0.0.1 j750.cc
 127.0.0.1 j88sextou.com
 127.0.0.1 j91.asia
 127.0.0.1 j91aixxx.com
@@ -34305,7 +34658,6 @@
 127.0.0.1 jaarlijksexamentrainingamsterdam.com
 127.0.0.1 jabberwocky.com
 127.0.0.1 jabcomix.com
-127.0.0.1 jable.fans
 127.0.0.1 jable.one
 127.0.0.1 jable.pics
 127.0.0.1 jable.tv
@@ -34316,6 +34668,7 @@
 127.0.0.1 jackaction.com
 127.0.0.1 jackandjilladult.com
 127.0.0.1 jackdapp.com
+127.0.0.1 jackofallgays.com
 127.0.0.1 jackoffit.com
 127.0.0.1 jackofftome.com
 127.0.0.1 jacksblowjoblessons.com
@@ -34545,6 +34898,7 @@
 127.0.0.1 japantwinkxxxmovies.click
 127.0.0.1 japanvsex.com
 127.0.0.1 japanwaki.com
+127.0.0.1 japanwifeporn.com
 127.0.0.1 japanworldp.com
 127.0.0.1 japanworldporn.com
 127.0.0.1 japanx.info
@@ -34872,6 +35226,7 @@
 127.0.0.1 javidol.gallery
 127.0.0.1 javidol.org
 127.0.0.1 javindo.bar
+127.0.0.1 javinstructor.com
 127.0.0.1 javip.net
 127.0.0.1 javitd.com
 127.0.0.1 javix.pro
@@ -34939,6 +35294,7 @@
 127.0.0.1 javpark.net
 127.0.0.1 javpics.com
 127.0.0.1 javpics.one
+127.0.0.1 javpinkporn.com
 127.0.0.1 javplatform.com
 127.0.0.1 javplay.pro
 127.0.0.1 javplay.top
@@ -34965,6 +35321,7 @@
 127.0.0.1 javpornpics.com
 127.0.0.1 javpornstreaming.com
 127.0.0.1 javpornsub.net
+127.0.0.1 javpornuncensored.com
 127.0.0.1 javpornvideo.xyz
 127.0.0.1 javpshow.com
 127.0.0.1 javpussy.link
@@ -35069,6 +35426,7 @@
 127.0.0.1 javvhub.com
 127.0.0.1 javvideoporn.com
 127.0.0.1 javvids.net
+127.0.0.1 javvietsub.blog
 127.0.0.1 javvoyeur.top
 127.0.0.1 javvr.net
 127.0.0.1 javvx.com
@@ -35148,6 +35506,7 @@
 127.0.0.1 jeffessex.com
 127.0.0.1 jeffpalmer.com
 127.0.0.1 jeffrey-dean-morgan.net
+127.0.0.1 jeffreygayton.com
 127.0.0.1 jeffreyqiu.sex
 127.0.0.1 jeffslutsky.net
 127.0.0.1 jeffsmodels.com
@@ -35351,6 +35710,7 @@
 127.0.0.1 jinricp.net
 127.0.0.1 jinshenadultdolls.com
 127.0.0.1 jinxgirlsaiporn.com
+127.0.0.1 jinxxxgallery.com
 127.0.0.1 jinyurl.com
 127.0.0.1 jiomaal.com
 127.0.0.1 jioporn.com
@@ -35364,7 +35724,6 @@
 127.0.0.1 jirapornn.online
 127.0.0.1 jirmann.net
 127.0.0.1 jisexpats.com
-127.0.0.1 jiudiangq.xyz
 127.0.0.1 jiudu27.shop
 127.0.0.1 jiudu28.shop
 127.0.0.1 jiujitsu.gay
@@ -35428,6 +35787,9 @@
 127.0.0.1 jjporno.com
 127.0.0.1 jjsexclusives.com
 127.0.0.1 jjsexperience.ca
+127.0.0.1 jjuhiikppprornsssexx.sbs
+127.0.0.1 jjuhiikppprornsxsexx.sbs
+127.0.0.1 jjuhikippprornsxsexx.sbs
 127.0.0.1 jjupdates.com
 127.0.0.1 jjvids.com
 127.0.0.1 jjxxxf.com
@@ -35438,6 +35800,7 @@
 127.0.0.1 jkxj18.top
 127.0.0.1 jkyowl.gay
 127.0.0.1 jlist.com
+127.0.0.1 jlzzxxx.net
 127.0.0.1 jmaagames.itch.io
 127.0.0.1 jmac.co.jp
 127.0.0.1 jmadultere.fr
@@ -35665,6 +36028,7 @@
 127.0.0.1 jpavxxx.com
 127.0.0.1 jpescorts.com
 127.0.0.1 jpfreeporn.com
+127.0.0.1 jphotobook.com
 127.0.0.1 jpinkpussy.com
 127.0.0.1 jpmn4.beer
 127.0.0.1 jpn-sex.com
@@ -36045,6 +36409,7 @@
 127.0.0.1 kagayakiexpress.com
 127.0.0.1 kagayakiliving.com
 127.0.0.1 kagayakimax.com
+127.0.0.1 kagayakistudio.com
 127.0.0.1 kagayakitech.com
 127.0.0.1 kagayakitech.org
 127.0.0.1 kagayaku-mirai.com
@@ -36365,12 +36730,14 @@
 127.0.0.1 kazino.nl
 127.0.0.1 kazokumartialartsessex.com
 127.0.0.1 kazona.com
+127.0.0.1 kazsex.sbs
 127.0.0.1 kbautmr03a.top
 127.0.0.1 kbhmat.dk
 127.0.0.1 kbj.so
 127.0.0.1 kbjfan.com
 127.0.0.1 kbjfree.com
 127.0.0.1 kbsp7.top
+127.0.0.1 kbxxxp.cn
 127.0.0.1 kcadultsoccer.com
 127.0.0.1 kcbetsextou.com
 127.0.0.1 kcctl.gov.bd
@@ -36456,6 +36823,7 @@
 127.0.0.1 kennedynet.com
 127.0.0.1 kennel.gay
 127.0.0.1 kentandeastsussexratpack.co.uk
+127.0.0.1 kentandeastsussexrodentcontrol.co.uk
 127.0.0.1 kentandsussexpressurewash.co.uk
 127.0.0.1 kentandsussexracketstringing.co.uk
 127.0.0.1 kentaweb.com
@@ -36562,11 +36930,13 @@
 127.0.0.1 khatrimazahd.com
 127.0.0.1 kheflaxxxyvorgir.world
 127.0.0.1 khoaito.net
+127.0.0.1 khoedepmoingay.net
 127.0.0.1 khoedepmoingay.shop
 127.0.0.1 khoemanhmoingay.asia
 127.0.0.1 khophimsex.xyz
 127.0.0.1 khophimsex18.com
 127.0.0.1 khopxuongmanhkhoemoingayy.site
+127.0.0.1 khosex.sbs
 127.0.0.1 khosex.xyz
 127.0.0.1 khosexhay.pro
 127.0.0.1 khosexvip.com
@@ -36896,6 +37266,7 @@
 127.0.0.1 kk345sextou.com
 127.0.0.1 kk44sextou.com
 127.0.0.1 kk45sextou.com
+127.0.0.1 kkadulttoys.com
 127.0.0.1 kkc3.com
 127.0.0.1 kkchar.itch.io
 127.0.0.1 kkfinishesexperts.com
@@ -36960,6 +37331,7 @@
 127.0.0.1 knocktube.mobi
 127.0.0.1 knottybondage.com
 127.0.0.1 knottysilkscarf.com
+127.0.0.1 knowhen.ru
 127.0.0.1 knowledgeverse-quantumpulsex.sbs
 127.0.0.1 knowmysexyside.pro
 127.0.0.1 knoxvilledirtysoda.com
@@ -36985,11 +37357,13 @@
 127.0.0.1 kochlik.pl
 127.0.0.1 kodama.fubuki.info
 127.0.0.1 kodebokep.com
+127.0.0.1 kodxxx.com
 127.0.0.1 koenigslutter-stadtmarketing.de
 127.0.0.1 kogaylass.store
 127.0.0.1 kogayon-os.com
 127.0.0.1 kohinoorerotica.com
 127.0.0.1 kohinoorhyderabadescorts.com
+127.0.0.1 koinvegasexplorezona.sbs
 127.0.0.1 koisasdadultos.pt
 127.0.0.1 koiwasexangel.com
 127.0.0.1 koiwasexyangel.com
@@ -36999,6 +37373,7 @@
 127.0.0.1 kokoaunisex.shop
 127.0.0.1 kokobumer.com
 127.0.0.1 kokorocounselingandsextherapy.org
+127.0.0.1 kokose.fans
 127.0.0.1 kokose.one
 127.0.0.1 kokoses.one
 127.0.0.1 kokteli.eu
@@ -37102,13 +37477,10 @@
 127.0.0.1 kooora-livex.online
 127.0.0.1 kooorah.net
 127.0.0.1 koooralive-tv.top
-127.0.0.1 koooralivees.online
 127.0.0.1 koooralives.live
 127.0.0.1 koora-live-top.online
 127.0.0.1 kooraa-live.cc
 127.0.0.1 kooraa-live.site
-127.0.0.1 kooraliivee.space
-127.0.0.1 kooralivex.site
 127.0.0.1 kooralivve.one
 127.0.0.1 kopeda.com
 127.0.0.1 kopedafotor75.shop
@@ -37131,6 +37503,7 @@
 127.0.0.1 korean-sex.com
 127.0.0.1 korean604.com
 127.0.0.1 koreanadult.xyz
+127.0.0.1 koreanadultlinks.com
 127.0.0.1 koreanbj.club
 127.0.0.1 koreanbj1.com
 127.0.0.1 koreanfakes.com
@@ -37397,6 +37770,7 @@
 127.0.0.1 kyz2dar-cia.net
 127.0.0.1 kz999sextou.com
 127.0.0.1 kzporno.online
+127.0.0.1 kzsexo.sbs
 127.0.0.1 l2insomnia.ru
 127.0.0.1 l2saw.ru
 127.0.0.1 l3g50-lag0g-nasexw.work
@@ -37404,7 +37778,9 @@
 127.0.0.1 l7qsex.icu
 127.0.0.1 la-figuiere.fr
 127.0.0.1 la-mine.com
+127.0.0.1 la-piazza-highheels.com
 127.0.0.1 la-va.ru
+127.0.0.1 la4.com.ar
 127.0.0.1 laatjeaftrekken.nl
 127.0.0.1 labbangs.com
 127.0.0.1 labiblioteta.com
@@ -37528,6 +37904,7 @@
 127.0.0.1 laidaihanjustice.org
 127.0.0.1 laidhub.com
 127.0.0.1 laidmovies.pro
+127.0.0.1 lailaongayeportfolio.fr
 127.0.0.1 laindonmot.co.uk
 127.0.0.1 laiporn.com
 127.0.0.1 laiyifa.mom
@@ -37602,7 +37979,6 @@
 127.0.0.1 lapride.gay
 127.0.0.1 laptopspecialistsussex.co.uk
 127.0.0.1 lapulka.net
-127.0.0.1 laquintadasmilflores.com
 127.0.0.1 laracumkitten.com
 127.0.0.1 laraisa.com
 127.0.0.1 larasescorts.com
@@ -37775,6 +38151,7 @@
 127.0.0.1 lbhardcore.com
 127.0.0.1 lbkpkrt.info
 127.0.0.1 lbtube.com
+127.0.0.1 lcmlld.gay
 127.0.0.1 lcs.xxx
 127.0.0.1 lcsexpress.hu
 127.0.0.1 ldbh8.casa
@@ -37822,6 +38199,7 @@
 127.0.0.1 leakhub.vip
 127.0.0.1 leakimedia.com
 127.0.0.1 leaknudes.net
+127.0.0.1 leakpicturesxxx.com
 127.0.0.1 leakporner.com
 127.0.0.1 leakporner.net
 127.0.0.1 leakporntubi.net
@@ -37873,6 +38251,8 @@
 127.0.0.1 lectorhentai.com
 127.0.0.1 ledgrowlightsexplained.com
 127.0.0.1 ledilana.ru
+127.0.0.1 ledomadults.com
+127.0.0.1 ledomadults.studio
 127.0.0.1 ledortoir.com
 127.0.0.1 leech.sex
 127.0.0.1 leeds-escort.co.uk
@@ -37918,6 +38298,7 @@
 127.0.0.1 legjobbporno.com
 127.0.0.1 legoadult.com
 127.0.0.1 legrancoach.com
+127.0.0.1 legrandwolfxxx.com
 127.0.0.1 legraybeiruthotel.com
 127.0.0.1 legs.cool
 127.0.0.1 legsemporium.com
@@ -38301,6 +38682,7 @@
 127.0.0.1 libraryofmoria.com
 127.0.0.1 libraryofthumbs.com
 127.0.0.1 libresanspermis.fr
+127.0.0.1 librus.porn
 127.0.0.1 libs.casinonet.de
 127.0.0.1 libxxx.com
 127.0.0.1 lic.me
@@ -38395,6 +38777,7 @@
 127.0.0.1 liminalerotic.com
 127.0.0.1 limitedbeliefsexplored.nl
 127.0.0.1 limitlessexosomes.com
+127.0.0.1 limitlessexpectations.com
 127.0.0.1 limitlessexpo.ai
 127.0.0.1 limitlessexpo.co
 127.0.0.1 limitlessexpo.info
@@ -38507,6 +38890,7 @@
 127.0.0.1 liquidfetish.com
 127.0.0.1 liquidpussy.com
 127.0.0.1 liruch.com
+127.0.0.1 lis-utdanning.info
 127.0.0.1 lisabetsarai.com
 127.0.0.1 lisaforadults.com
 127.0.0.1 lisariveraxxx.com
@@ -38691,6 +39075,7 @@
 127.0.0.1 liveop.io
 127.0.0.1 livepeep.de
 127.0.0.1 livepimp.com
+127.0.0.1 livepinddaangaya.com
 127.0.0.1 liveporn.art.br
 127.0.0.1 liveporn.chat
 127.0.0.1 liveporn.digital
@@ -38786,6 +39171,7 @@
 127.0.0.1 livexxxweb.com
 127.0.0.1 livezcam.com
 127.0.0.1 livezhat.com
+127.0.0.1 livgay.com
 127.0.0.1 livinggreenandsavingenergy.com
 127.0.0.1 livingpussy.com
 127.0.0.1 livingrichardson.org
@@ -38922,9 +39308,11 @@
 127.0.0.1 logans-amateurs.com
 127.0.0.1 logay.com.br
 127.0.0.1 logically.gay
+127.0.0.1 logilf.lat
 127.0.0.1 logisticsexpertingreenvillesc.org
 127.0.0.1 logisticsexperts.info
 127.0.0.1 logisticsexperts.org
+127.0.0.1 logistiksexpressdelivery.online
 127.0.0.1 logo427.ca
 127.0.0.1 lohmillerletsgetdirty.com
 127.0.0.1 loichucngaymoi.com
@@ -39106,6 +39494,7 @@
 127.0.0.1 lotusexch365.online
 127.0.0.1 lotusexch365.site
 127.0.0.1 lotusexchange.bet
+127.0.0.1 lotusexotica.com
 127.0.0.1 louisexanaelle.com
 127.0.0.1 louisvillemunch.com
 127.0.0.1 loulou.de
@@ -39116,6 +39505,7 @@
 127.0.0.1 lovadda.com
 127.0.0.1 lovanyamalhotra.in
 127.0.0.1 lovapink.com
+127.0.0.1 love-4you.ru
 127.0.0.1 love-boat.ru
 127.0.0.1 love-boots.com
 127.0.0.1 love-in-chat.com
@@ -39135,6 +39525,7 @@
 127.0.0.1 loveaiporn.com
 127.0.0.1 loveanal.org
 127.0.0.1 loveandsexcam.com
+127.0.0.1 loveandsexpert.com
 127.0.0.1 loveandvibes.fr
 127.0.0.1 loveandwildhoney.com
 127.0.0.1 lovecast.ru
@@ -39234,6 +39625,7 @@
 127.0.0.1 lovesexdrugs.store
 127.0.0.1 lovesexe.top
 127.0.0.1 lovesexshop.com.br
+127.0.0.1 lovesexwe.net
 127.0.0.1 lovesexy.club
 127.0.0.1 loveshop.pt
 127.0.0.1 loveskitty.com
@@ -39271,6 +39663,7 @@
 127.0.0.1 loyalmd.com
 127.0.0.1 loyaltimgayrimenkul.com
 127.0.0.1 loyaltyspudbrosexpress.com
+127.0.0.1 lozhongzhuaiwanjincagaya.sbs
 127.0.0.1 lp.anzi.kr
 127.0.0.1 lpgayards.com
 127.0.0.1 lpsg.com
@@ -39361,7 +39754,6 @@
 127.0.0.1 luckystardvd.com
 127.0.0.1 lucycat.com
 127.0.0.1 lucylipps.com
-127.0.0.1 lucymeow.gay
 127.0.0.1 lucyreesart.com
 127.0.0.1 lucysweetkill.com
 127.0.0.1 ludates.com
@@ -39389,6 +39781,7 @@
 127.0.0.1 luiza.one
 127.0.0.1 lukeandjack.co.uk
 127.0.0.1 lukeford.com
+127.0.0.1 lukespov.net
 127.0.0.1 lulaporn.com
 127.0.0.1 lulubokep.fun
 127.0.0.1 lululu.one
@@ -39400,6 +39793,7 @@
 127.0.0.1 lumisexplorer.info
 127.0.0.1 lunarcardsexpress.com
 127.0.0.1 lunarosasexshop.com
+127.0.0.1 lunarprismcreations.gay
 127.0.0.1 lunarreelsexpress.com
 127.0.0.1 lunarscan.org
 127.0.0.1 lunasexotic.com
@@ -39480,6 +39874,7 @@
 127.0.0.1 lustundverlangen.com
 127.0.0.1 lustworld.xxx
 127.0.0.1 lusty-gurls.com
+127.0.0.1 lusty-office.com
 127.0.0.1 lustyboobs.com
 127.0.0.1 lustyebony.com
 127.0.0.1 lustyheroes.com
@@ -39634,6 +40029,7 @@
 127.0.0.1 maagaytritraders.space
 127.0.0.1 maahiarora.in
 127.0.0.1 maahikapoor.com
+127.0.0.1 maaisex.com
 127.0.0.1 maal69.click
 127.0.0.1 maal69.com
 127.0.0.1 maal69.in
@@ -39714,7 +40110,6 @@
 127.0.0.1 madnessporn.com
 127.0.0.1 madnsfw.com
 127.0.0.1 madonna-badgirl.ru
-127.0.0.1 madou.best
 127.0.0.1 madou.pw
 127.0.0.1 madou.win
 127.0.0.1 madoub.com
@@ -39865,6 +40260,8 @@
 127.0.0.1 make-porn.net
 127.0.0.1 make-porn.online
 127.0.0.1 make-porn.org
+127.0.0.1 makeamericagayagain.shop
+127.0.0.1 makeamericagayagain.studio
 127.0.0.1 makeamericasexyagainusa.com
 127.0.0.1 makeamsterdamgayagain.nl
 127.0.0.1 makeanalgayagain.com
@@ -39882,6 +40279,8 @@
 127.0.0.1 makemebi.net
 127.0.0.1 makemefuck.com
 127.0.0.1 makemoneyadultcontent.com
+127.0.0.1 makemygaragesexy.com
+127.0.0.1 makemykitchensexy.com
 127.0.0.1 makemynight.com.br
 127.0.0.1 makenudeai.app
 127.0.0.1 makeporn.art
@@ -39945,6 +40344,7 @@
 127.0.0.1 maletwink.com
 127.0.0.1 malexxx.com
 127.0.0.1 malexxxtv.com
+127.0.0.1 malexxxvideo.com
 127.0.0.1 malgusto.com
 127.0.0.1 maligoshik.gay
 127.0.0.1 malina.xxx
@@ -40317,6 +40717,7 @@
 127.0.0.1 marketpulsex.world
 127.0.0.1 marketrisex.com
 127.0.0.1 markfickenlincolnstage.com
+127.0.0.1 markisgay.com
 127.0.0.1 marklaxxx.com
 127.0.0.1 markruffalois.gay
 127.0.0.1 marksextonnotary.com
@@ -40416,6 +40817,7 @@
 127.0.0.1 masjidalhikmahgayungsari.id
 127.0.0.1 maskarad.biz
 127.0.0.1 masked.love
+127.0.0.1 maskedadults.com
 127.0.0.1 maskofzion.com
 127.0.0.1 maskpr.cyou
 127.0.0.1 maskurbate.com
@@ -40542,6 +40944,7 @@
 127.0.0.1 matratzentango.com
 127.0.0.1 matriarchat-patriarchat.de
 127.0.0.1 matrimoniale.ro
+127.0.0.1 matrimonigay.com
 127.0.0.1 matrixxx-dev.com
 127.0.0.1 matrixxx.fun
 127.0.0.1 matrixxx.io
@@ -40747,7 +41150,6 @@
 127.0.0.1 maturesex.love
 127.0.0.1 maturesex.quest
 127.0.0.1 maturesexattack.com
-127.0.0.1 maturesexcam.cam
 127.0.0.1 maturesexmatch.com
 127.0.0.1 maturesexmovies.xxx
 127.0.0.1 maturesexphoto.com
@@ -40893,11 +41295,15 @@
 127.0.0.1 maxxxim.ru
 127.0.0.1 maxxximumsuction.com
 127.0.0.1 maxxxjp.shop
+127.0.0.1 maxxxoqpj.lol
 127.0.0.1 maxxxplus.com
 127.0.0.1 maxxxtout.info
 127.0.0.1 maxxxtout.shop
 127.0.0.1 maxxxtout.store
 127.0.0.1 maxxxtout.xyz
+127.0.0.1 maxxxxshop.com
+127.0.0.1 maxxxxxzxo.lol
+127.0.0.1 maxxxzone.pl
 127.0.0.1 mayababy.in
 127.0.0.1 mayabansal.net
 127.0.0.1 mayadelhi.com
@@ -41027,6 +41433,7 @@
 127.0.0.1 mediswiss.ru
 127.0.0.1 mediumtube.pro
 127.0.0.1 medow.ru
+127.0.0.1 medsexpert.sbs
 127.0.0.1 medsexpress.xyz
 127.0.0.1 medullaunisexsalon.site
 127.0.0.1 medusatotonaik.com
@@ -41499,6 +41906,7 @@
 127.0.0.1 mexicanosexpress.com
 127.0.0.1 mexicanpharmi.com
 127.0.0.1 mexicanporntube.com
+127.0.0.1 mexicocitasexpres.com
 127.0.0.1 mexicosextrememakeover.com
 127.0.0.1 mexxxico.mx
 127.0.0.1 mexxxx.in.net
@@ -41544,6 +41952,7 @@
 127.0.0.1 miamipartystrippers.com
 127.0.0.1 miamorsextoys.com
 127.0.0.1 mianusman.com
+127.0.0.1 miaobinghuasexinzhen.shop
 127.0.0.1 miaporn.fun
 127.0.0.1 miapornstar.art
 127.0.0.1 miau.gay
@@ -41671,6 +42080,7 @@
 127.0.0.1 milf-vjt.info
 127.0.0.1 milf-xxx.de
 127.0.0.1 milf.com
+127.0.0.1 milf.fans
 127.0.0.1 milf.gallery
 127.0.0.1 milf.pl
 127.0.0.1 milf.pro
@@ -41732,13 +42142,13 @@
 127.0.0.1 milfcasino.com
 127.0.0.1 milfcentral.com
 127.0.0.1 milfcerca.it
-127.0.0.1 milfcerca.org
 127.0.0.1 milfchatwebcams.com
 127.0.0.1 milfcityandriod.pro
 127.0.0.1 milfclips.click
 127.0.0.1 milfcoinonsol.com
 127.0.0.1 milfcomedy.com
 127.0.0.1 milfcousin.com
+127.0.0.1 milfcrush.com
 127.0.0.1 milfdaters.org
 127.0.0.1 milfdating.site
 127.0.0.1 milfdatingnetwork.com
@@ -41771,6 +42181,7 @@
 127.0.0.1 milffuck.me
 127.0.0.1 milffuck.xyz
 127.0.0.1 milfgalleries.com
+127.0.0.1 milfgas.com
 127.0.0.1 milfhairypussy.xyz
 127.0.0.1 milfhdsex.net
 127.0.0.1 milfhdvideos.com
@@ -41883,6 +42294,7 @@
 127.0.0.1 milfordpropertymaintenance.com
 127.0.0.1 milfordpubliclibrary.org
 127.0.0.1 milfordrelocation.co.nz
+127.0.0.1 milfordschooldistrict.com
 127.0.0.1 milfordschoolsfacilitiesplan.com
 127.0.0.1 milfordsoundcruises-nz.com
 127.0.0.1 milfordsounddaytour.com
@@ -41894,6 +42306,7 @@
 127.0.0.1 milfordvoices.com
 127.0.0.1 milfordwarriors.org
 127.0.0.1 milfordwasherrepair.us
+127.0.0.1 milfordweddingplanning.com
 127.0.0.1 milforge.online
 127.0.0.1 milfos.click
 127.0.0.1 milfoverdose.com
@@ -42074,6 +42487,7 @@
 127.0.0.1 miltonkeynesbusinessexpo.com
 127.0.0.1 milu-av.com
 127.0.0.1 mimbarberita.com
+127.0.0.1 mimiblissexpress.com
 127.0.0.1 mimihentai.net
 127.0.0.1 minasdivinas.com
 127.0.0.1 minasexplorer.com
@@ -42285,6 +42699,7 @@
 127.0.0.1 mistressmorgana.com
 127.0.0.1 mistressmystic.com
 127.0.0.1 mistressofmore.com
+127.0.0.1 mistressoliviarose.com
 127.0.0.1 mistressscatporn.com
 127.0.0.1 mistresst.net
 127.0.0.1 mistresstissa.com
@@ -42294,6 +42709,7 @@
 127.0.0.1 mistygates.com
 127.0.0.1 mistykolkata.com
 127.0.0.1 mistyz.com
+127.0.0.1 misukutukagay.info
 127.0.0.1 mitaku.net
 127.0.0.1 mitaliarora.com
 127.0.0.1 mitchellevan.com
@@ -42377,6 +42793,7 @@
 127.0.0.1 mmhdhub.com
 127.0.0.1 mmhh.pro
 127.0.0.1 mmhsp8.fit
+127.0.0.1 mmigayy.com
 127.0.0.1 mmk0.com
 127.0.0.1 mmm.page
 127.0.0.1 mmm10.com
@@ -42416,6 +42833,7 @@
 127.0.0.1 mnogosohbet.com
 127.0.0.1 mnslut.com
 127.0.0.1 mnvv2.info
+127.0.0.1 mnyksexxexssponrrn1.sbs
 127.0.0.1 mo81141.xyz
 127.0.0.1 moansporn.com
 127.0.0.1 moanxxx.com
@@ -42527,6 +42945,7 @@
 127.0.0.1 modhu-mitha.com
 127.0.0.1 modland.top
 127.0.0.1 modporn.com
+127.0.0.1 modusexecutivejets.com
 127.0.0.1 moe-gameaward.com
 127.0.0.1 moedu.gov.bd
 127.0.0.1 moeimg.net
@@ -42628,6 +43047,7 @@
 127.0.0.1 mommahorny.com
 127.0.0.1 mommatandbabye.com
 127.0.0.1 mommy-pussy.com
+127.0.0.1 mommy.porn
 127.0.0.1 mommy4k.com
 127.0.0.1 mommyblowsbest.com
 127.0.0.1 mommylexxxi.com
@@ -42870,6 +43290,7 @@
 127.0.0.1 morofree.com
 127.0.0.1 moron.com
 127.0.0.1 morphsex.com
+127.0.0.1 morpornoorrossexxsxx1.sbs
 127.0.0.1 morrissexpress.com
 127.0.0.1 morrissussexhvac.com
 127.0.0.1 morritastube.com
@@ -43065,6 +43486,7 @@
 127.0.0.1 mpon.info
 127.0.0.1 mporn.online
 127.0.0.1 mporn.pro
+127.0.0.1 mporner.net
 127.0.0.1 mpornohype.cc
 127.0.0.1 mpregcentral.net
 127.0.0.1 mpreviews.com
@@ -43335,6 +43757,7 @@
 127.0.0.1 mumbainightservice.com
 127.0.0.1 mumbaiporn.site
 127.0.0.1 mumbaiporn.space
+127.0.0.1 mumc.gov.bd
 127.0.0.1 mumfordandsonsgilford.com
 127.0.0.1 mumosengen.com
 127.0.0.1 mumpatomporn.online
@@ -43549,6 +43972,7 @@
 127.0.0.1 mybrojersex.com
 127.0.0.1 mybrutalcollection.com
 127.0.0.1 mybustyexgf.com
+127.0.0.1 mybuxxx.com
 127.0.0.1 mycam.co.il
 127.0.0.1 mycambook.com
 127.0.0.1 mycamgirl.net
@@ -43738,6 +44162,7 @@
 127.0.0.1 myindianporno.com
 127.0.0.1 myindiansex.cc
 127.0.0.1 myindiansexcams.com
+127.0.0.1 myjapansextube.com
 127.0.0.1 myjavbay.com
 127.0.0.1 myjavp.com
 127.0.0.1 myjuiceplusexperience.com
@@ -43903,6 +44328,7 @@
 127.0.0.1 mysecretsextoydelivery.com
 127.0.0.1 mysecretsexy.com
 127.0.0.1 mysentient.ai
+127.0.0.1 myserver-xxx.org
 127.0.0.1 mysex.cz
 127.0.0.1 mysex.life
 127.0.0.1 mysex.online
@@ -44046,6 +44472,8 @@
 127.0.0.1 mzansiwebcams.com
 127.0.0.1 mzporn.com
 127.0.0.1 mzsexyhawt.com
+127.0.0.1 n-bingo37xxx.bet
+127.0.0.1 n-bingo37xxx.pro
 127.0.0.1 n1fat.com
 127.0.0.1 n58sextou.com
 127.0.0.1 n7f5k4o1.com
@@ -44688,6 +45116,7 @@
 127.0.0.1 netpulsex.shop
 127.0.0.1 netpulsex.top
 127.0.0.1 netramunisexspa.online
+127.0.0.1 netsexyuu.sbs
 127.0.0.1 netsfuck.com
 127.0.0.1 netslut.com
 127.0.0.1 netvideogirls.com
@@ -44866,6 +45295,7 @@
 127.0.0.1 newsexpress24.in
 127.0.0.1 newsexpress24.info
 127.0.0.1 newsexpress247.blog
+127.0.0.1 newsexpressbharat7.com
 127.0.0.1 newsexpresssagar.com
 127.0.0.1 newsexprezz.com
 127.0.0.1 newsexstory.com
@@ -45311,6 +45741,7 @@
 127.0.0.1 nmsexpress.com
 127.0.0.1 nmsonsexim.com
 127.0.0.1 nmwellnessexpo.com
+127.0.0.1 nmxxxxxj.cn
 127.0.0.1 nn11sextou.com
 127.0.0.1 nnbetsextou.com
 127.0.0.1 nnconnect.com
@@ -45384,6 +45815,7 @@
 127.0.0.1 noirgayelite.com
 127.0.0.1 noirmale.com
 127.0.0.1 noisexperts.com
+127.0.0.1 noisexyz.com
 127.0.0.1 noisexyz.online
 127.0.0.1 noitedesexo.com
 127.0.0.1 noitrohangngay.cfd
@@ -45426,6 +45858,7 @@
 127.0.0.1 noob.hu
 127.0.0.1 noobinporn.com
 127.0.0.1 noodledude.io
+127.0.0.1 noodledudeporn.online
 127.0.0.1 noodlemagazine.com
 127.0.0.1 noodlemagazine.net
 127.0.0.1 noodlemagazine.plus
@@ -45491,6 +45924,7 @@
 127.0.0.1 notariesexpress.net
 127.0.0.1 notawoman.com
 127.0.0.1 notchesblog.com
+127.0.0.1 noteadultnational.life
 127.0.0.1 notevensexy.com
 127.0.0.1 notfans.com
 127.0.0.1 notfans.net
@@ -45659,6 +46093,7 @@
 127.0.0.1 nsxxxcx.com
 127.0.0.1 ntafrica.org
 127.0.0.1 ntawigayacargomovers.com
+127.0.0.1 ntr-fetish.net
 127.0.0.1 ntr-games.com
 127.0.0.1 ntugilfuzaw.com
 127.0.0.1 ntvplus.biz
@@ -46215,6 +46650,7 @@
 127.0.0.1 officialelizabethmarxs.com
 127.0.0.1 officialjoannacassidy.com
 127.0.0.1 officialmysexshop.shop
+127.0.0.1 officialsystemsexchange.com
 127.0.0.1 officialtobinbell.com
 127.0.0.1 offresexpress.top
 127.0.0.1 offtopic.com
@@ -46281,6 +46717,7 @@
 127.0.0.1 oilaas.gay
 127.0.0.1 oilfieldoperationsexpertingillettewy.org
 127.0.0.1 oilgasexpress.com
+127.0.0.1 oilgaymassagegen.com
 127.0.0.1 oiporno.mobi
 127.0.0.1 oje.pt
 127.0.0.1 ojetevozyemilfrey.cz
@@ -46582,6 +47019,7 @@
 127.0.0.1 onenewsexpress.com
 127.0.0.1 onenightsex69.com
 127.0.0.1 oneporn.icu
+127.0.0.1 oneporn.net
 127.0.0.1 onepornlist.com
 127.0.0.1 onepornlist.top
 127.0.0.1 oneprettything.com
@@ -46757,6 +47195,7 @@
 127.0.0.1 onlyleaks.me
 127.0.0.1 onlyleyendasexy.xyz
 127.0.0.1 onlylinks.co
+127.0.0.1 onlylovesex.shop
 127.0.0.1 onlymagazine.ca
 127.0.0.1 onlymodels.com
 127.0.0.1 onlymodelsfinder.com
@@ -46979,6 +47418,7 @@
 127.0.0.1 oralpleasure.life
 127.0.0.1 oralporn.net
 127.0.0.1 oralporn.online
+127.0.0.1 oralsex.de.com
 127.0.0.1 oralsex.tips
 127.0.0.1 oralsexshot.com
 127.0.0.1 orangecookie.com
@@ -46988,6 +47428,7 @@
 127.0.0.1 oratoriamichelsoares.com.br
 127.0.0.1 orbisex.baby
 127.0.0.1 orbisex.club
+127.0.0.1 orbisex.com
 127.0.0.1 orbisex.mom
 127.0.0.1 orbisexploratio.com
 127.0.0.1 orbitalpornfortress.com
@@ -47016,6 +47457,7 @@
 127.0.0.1 orgasm.com
 127.0.0.1 orgasm.name
 127.0.0.1 orgasmatrix.com
+127.0.0.1 orgasmicaudiosex.online
 127.0.0.1 orgasmicdiscourses.com
 127.0.0.1 orgasmsoundlibrary.com
 127.0.0.1 orgasmusporn.com
@@ -47141,6 +47583,7 @@
 127.0.0.1 ourblogoflove.com
 127.0.0.1 ourbots.ru
 127.0.0.1 ourbusinessexi.com
+127.0.0.1 ourdirtylittlesecret.online
 127.0.0.1 ourdream.ai
 127.0.0.1 ourdreamaiporn.com
 127.0.0.1 oureachoutcomesexpert.com
@@ -47414,6 +47857,7 @@
 127.0.0.1 palm.su
 127.0.0.1 palmbeachgaynews.com
 127.0.0.1 palmtube.com
+127.0.0.1 palmvistagayrimenkul33.com
 127.0.0.1 paltrydesiporn.com
 127.0.0.1 palusexperience.com
 127.0.0.1 pambondage.com
@@ -47863,6 +48307,7 @@
 127.0.0.1 pennyweightbrew.com
 127.0.0.1 pensarantesdesextear.mx
 127.0.0.1 pensionadultosmayores.com.mx
+127.0.0.1 penspermanentmakeup.com
 127.0.0.1 penthouse.com
 127.0.0.1 penthouse55.de
 127.0.0.1 penthousecams.com
@@ -47963,6 +48408,7 @@
 127.0.0.1 personallifemedia.com
 127.0.0.1 personaltouch.directory
 127.0.0.1 personeelsexpert.nl
+127.0.0.1 perthgayyoga.com
 127.0.0.1 perttits.com
 127.0.0.1 perucaliente.com
 127.0.0.1 perucasexpress.com
@@ -48059,6 +48505,7 @@
 127.0.0.1 petsexchanges.com
 127.0.0.1 petsexpressshop.com
 127.0.0.1 petsexvideos.com
+127.0.0.1 petsmovies.com
 127.0.0.1 petvet.social
 127.0.0.1 pezdwood.ink
 127.0.0.1 pezdwood.org
@@ -48226,6 +48673,7 @@
 127.0.0.1 phimsex5.tech
 127.0.0.1 phimsex5s.biz
 127.0.0.1 phimsex5s.pro
+127.0.0.1 phimsex66.com
 127.0.0.1 phimsex66.net
 127.0.0.1 phimsex678.top
 127.0.0.1 phimsex69.blog
@@ -48273,7 +48721,6 @@
 127.0.0.1 phimsexhayvn120.com
 127.0.0.1 phimsexhayvn121.com
 127.0.0.1 phimsexhayvn122.com
-127.0.0.1 phimsexhayvn123.com
 127.0.0.1 phimsexhayvn125.com
 127.0.0.1 phimsexhayvn126.com
 127.0.0.1 phimsexhayvn128.com
@@ -48345,12 +48792,12 @@
 127.0.0.1 phimsexhayvna3.com
 127.0.0.1 phimsexhayvnb.com
 127.0.0.1 phimsexhayvnc.com
-127.0.0.1 phimsexhayvne.com
 127.0.0.1 phimsexhayvng.com
 127.0.0.1 phimsexhayvnl.com
 127.0.0.1 phimsexhayvnn.com
 127.0.0.1 phimsexhayvno.com
 127.0.0.1 phimsexhayvns.com
+127.0.0.1 phimsexhayvny.com
 127.0.0.1 phimsexhayvnz.com
 127.0.0.1 phimsexhayxvideos.com
 127.0.0.1 phimsexhd.asia
@@ -48394,6 +48841,7 @@
 127.0.0.1 phimsexmienphi.asia
 127.0.0.1 phimsexmoi.cam
 127.0.0.1 phimsexmoi.co.uk
+127.0.0.1 phimsexmoi.shop
 127.0.0.1 phimsexmy.cam
 127.0.0.1 phimsexnew.us
 127.0.0.1 phimsexnguoilon.kim
@@ -48550,6 +48998,7 @@
 127.0.0.1 phimsexvietvne.com
 127.0.0.1 phimsexvietvng.com
 127.0.0.1 phimsexvietvns.com
+127.0.0.1 phimsexvietvny.com
 127.0.0.1 phimsexvietxvideos.com
 127.0.0.1 phimsexvip.com
 127.0.0.1 phimsexvlxx.xxx
@@ -48854,6 +49303,7 @@
 127.0.0.1 pingafriend.com
 127.0.0.1 pingporn.ru
 127.0.0.1 pinjuggs.com
+127.0.0.1 pink-door.com
 127.0.0.1 pink-sluts.net
 127.0.0.1 pink.com.pl
 127.0.0.1 pink.pl
@@ -48892,6 +49342,7 @@
 127.0.0.1 pinkpix.net
 127.0.0.1 pinkporn.pro
 127.0.0.1 pinkporno.xxx
+127.0.0.1 pinkporntube.com
 127.0.0.1 pinkpussy.tv
 127.0.0.1 pinkpussypics.com
 127.0.0.1 pinkseeker.com
@@ -49062,6 +49513,8 @@
 127.0.0.1 pizdoliz.net
 127.0.0.1 pizdosya.vip
 127.0.0.1 pizzamilfs.com
+127.0.0.1 pizzaporn.org
+127.0.0.1 pizzaporno.org
 127.0.0.1 pizzartist.it
 127.0.0.1 pjatnitsa.ru
 127.0.0.1 pjballantine.com
@@ -49091,6 +49544,7 @@
 127.0.0.1 plamisexpress.com
 127.0.0.1 plan-cul-direct.com
 127.0.0.1 plan-cul-entre-adultes.fr
+127.0.0.1 plan-cul-gay.ch
 127.0.0.1 plancul-gratuit.fr
 127.0.0.1 plancul-rencontre.org
 127.0.0.1 plancul.app
@@ -49115,6 +49569,7 @@
 127.0.0.1 planetxadult.com
 127.0.0.1 planflirt.net
 127.0.0.1 planq.ovh
+127.0.0.1 plans-cul-gay.ch
 127.0.0.1 planthireessex.co.uk
 127.0.0.1 plastikhosen.com
 127.0.0.1 platformtube.com
@@ -49128,6 +49583,7 @@
 127.0.0.1 platinumpuzzy.net
 127.0.0.1 platinumslotsexpress.com
 127.0.0.1 plavi-orkestar.com
+127.0.0.1 play-adult-18.live
 127.0.0.1 play-adult-games.com
 127.0.0.1 play3dsex.com
 127.0.0.1 playa-escorts.com
@@ -49281,6 +49737,7 @@
 127.0.0.1 pmates.com
 127.0.0.1 pmotor5.name
 127.0.0.1 pmvhaven.com
+127.0.0.1 pmvhavenporn.online
 127.0.0.1 pmvtube.com
 127.0.0.1 pngporn.site
 127.0.0.1 pngpornfree.com
@@ -49519,6 +49976,7 @@
 127.0.0.1 porn-hab.com
 127.0.0.1 porn-hd-movies.com
 127.0.0.1 porn-hd-videos.com
+127.0.0.1 porn-hd-xxx.com
 127.0.0.1 porn-hd.online
 127.0.0.1 porn-hd.xxx
 127.0.0.1 porn-horror.top
@@ -49529,6 +49987,7 @@
 127.0.0.1 porn-hub-tr.shop
 127.0.0.1 porn-hub-tr.store
 127.0.0.1 porn-hub.casa
+127.0.0.1 porn-hub.co
 127.0.0.1 porn-hub.live
 127.0.0.1 porn-hub.lol
 127.0.0.1 porn-hub.pro
@@ -49617,6 +50076,7 @@
 127.0.0.1 porn-video-hub.com
 127.0.0.1 porn-video-tube.com
 127.0.0.1 porn-video.best
+127.0.0.1 porn-video.biz
 127.0.0.1 porn-video.cc
 127.0.0.1 porn-video.club
 127.0.0.1 porn-video.fans
@@ -50096,6 +50556,7 @@
 127.0.0.1 pornbroadzio.net
 127.0.0.1 pornbub.com
 127.0.0.1 pornbuildivo.com
+127.0.0.1 pornburst.com
 127.0.0.1 pornburst.xxx
 127.0.0.1 pornbus.com
 127.0.0.1 pornbusy.com
@@ -50669,7 +51130,6 @@
 127.0.0.1 porngirl.quest
 127.0.0.1 porngirl.xyz
 127.0.0.1 porngirll.live
-127.0.0.1 porngirls.sbs
 127.0.0.1 porngirls.video
 127.0.0.1 porngirlserotica.com
 127.0.0.1 pornglob.com
@@ -50872,10 +51332,10 @@
 127.0.0.1 pornhub-freevideos.com
 127.0.0.1 pornhub-pics.com
 127.0.0.1 pornhub-sexfilme.net
+127.0.0.1 pornhub-slots.store
 127.0.0.1 pornhub-spanish.com
 127.0.0.1 pornhub-vietnam.com
 127.0.0.1 pornhub-xxx.xyz
-127.0.0.1 pornhub.blog
 127.0.0.1 pornhub.blue
 127.0.0.1 pornhub.co
 127.0.0.1 pornhub.co.hu
@@ -50909,11 +51369,13 @@
 127.0.0.1 pornhub14.top
 127.0.0.1 pornhub168.online
 127.0.0.1 pornhub2.co
+127.0.0.1 pornhub2.org
 127.0.0.1 pornhub247.buzz
 127.0.0.1 pornhub247.help
 127.0.0.1 pornhub247.org
 127.0.0.1 pornhub247.xyz
 127.0.0.1 pornhub26.com
+127.0.0.1 pornhub3.cfd
 127.0.0.1 pornhub365.mom
 127.0.0.1 pornhub365.sbs
 127.0.0.1 pornhub4u.com
@@ -51248,6 +51710,7 @@
 127.0.0.1 pornlux.org
 127.0.0.1 pornlux.vip
 127.0.0.1 pornluz.com
+127.0.0.1 pornlynx.us
 127.0.0.1 pornm.top
 127.0.0.1 pornma.com
 127.0.0.1 pornma.xyz
@@ -51334,6 +51797,7 @@
 127.0.0.1 pornmotion.com
 127.0.0.1 pornmotors.com
 127.0.0.1 pornmov.xyz
+127.0.0.1 pornmove.net
 127.0.0.1 pornmovie.cfd
 127.0.0.1 pornmovie.sbs
 127.0.0.1 pornmovie.webcam
@@ -51364,6 +51828,7 @@
 127.0.0.1 pornmushd.com
 127.0.0.1 pornmushd.org
 127.0.0.1 pornmusic.link
+127.0.0.1 pornmuv.com
 127.0.0.1 pornmvz.com
 127.0.0.1 pornmyanmar.com
 127.0.0.1 pornmyths.com
@@ -51474,6 +51939,7 @@
 127.0.0.1 porno-golfas.com
 127.0.0.1 porno-goods.com
 127.0.0.1 porno-gratis.pro
+127.0.0.1 porno-gwalty.pl
 127.0.0.1 porno-hab.ru
 127.0.0.1 porno-hd24.com
 127.0.0.1 porno-hikayeler.xyz
@@ -51583,6 +52049,7 @@
 127.0.0.1 porno-zvezda.com
 127.0.0.1 porno.academy
 127.0.0.1 porno.blog.br
+127.0.0.1 porno.bond
 127.0.0.1 porno.com
 127.0.0.1 porno.com.py
 127.0.0.1 porno.de
@@ -51627,6 +52094,7 @@
 127.0.0.1 porno191.com
 127.0.0.1 porno2.mom
 127.0.0.1 porno2026.qpon
+127.0.0.1 porno204.click
 127.0.0.1 porno24xxx.net
 127.0.0.1 porno26.com
 127.0.0.1 porno3.mom
@@ -51718,6 +52186,7 @@
 127.0.0.1 porno4.ru
 127.0.0.1 porno401.com
 127.0.0.1 porno414.com
+127.0.0.1 porno424.click
 127.0.0.1 porno441.com
 127.0.0.1 porno459.click
 127.0.0.1 porno477.com
@@ -51823,6 +52292,7 @@
 127.0.0.1 porno80zx.shop
 127.0.0.1 porno80zx.site
 127.0.0.1 porno80zz.shop
+127.0.0.1 porno80zz.site
 127.0.0.1 porno82y.shop
 127.0.0.1 porno82z.shop
 127.0.0.1 porno82za.shop
@@ -51982,6 +52452,7 @@
 127.0.0.1 pornobrot.com
 127.0.0.1 pornobudur.com
 127.0.0.1 pornobueno.com
+127.0.0.1 pornoburger.org
 127.0.0.1 pornobuzz.net
 127.0.0.1 pornobym.com
 127.0.0.1 pornobyte.com
@@ -52081,6 +52552,7 @@
 127.0.0.1 pornodevki.one
 127.0.0.1 pornodevki.online
 127.0.0.1 pornodevki.top
+127.0.0.1 pornodewils.com
 127.0.0.1 pornodey.com
 127.0.0.1 pornodil10.top
 127.0.0.1 pornodil9.top
@@ -52272,7 +52744,6 @@
 127.0.0.1 pornografiasobcontrole.com
 127.0.0.1 pornografiendz.com
 127.0.0.1 pornografya.com
-127.0.0.1 pornograggphies.info
 127.0.0.1 pornogram.tv
 127.0.0.1 pornogram.xxx
 127.0.0.1 pornogramxxx.com
@@ -52437,6 +52908,7 @@
 127.0.0.1 pornoizleamp1.xyz
 127.0.0.1 pornoizleamp2.xyz
 127.0.0.1 pornoizleamp3.xyz
+127.0.0.1 pornoizlessexxesxx.sbs
 127.0.0.1 pornoizlexxx.online
 127.0.0.1 pornojan.com
 127.0.0.1 pornojapa.com
@@ -52596,6 +53068,7 @@
 127.0.0.1 pornomilff.com
 127.0.0.1 pornomilfy.com
 127.0.0.1 pornomineiro.com
+127.0.0.1 pornomint.com
 127.0.0.1 pornomira.net
 127.0.0.1 pornomissmina.com
 127.0.0.1 pornomix.hu
@@ -53343,6 +53816,7 @@
 127.0.0.1 pornplay.cc
 127.0.0.1 pornplay.xyz
 127.0.0.1 pornplaybb.com
+127.0.0.1 pornplayx.com
 127.0.0.1 pornpleasexxx.com
 127.0.0.1 pornplot.com
 127.0.0.1 pornploy.com
@@ -53505,7 +53979,10 @@
 127.0.0.1 pornsexerotica.com
 127.0.0.1 pornsexfree.net
 127.0.0.1 pornsexfuck.com
+127.0.0.1 pornsexhd.sbs
 127.0.0.1 pornsexhub.net
+127.0.0.1 pornsexixsesxei1.sbs
+127.0.0.1 pornsexixsexxei1.sbs
 127.0.0.1 pornsexnvideos.com
 127.0.0.1 pornsexnxx.com
 127.0.0.1 pornsexrough.com
@@ -53546,6 +54023,7 @@
 127.0.0.1 pornsexx.website
 127.0.0.1 pornsexx.xyz
 127.0.0.1 pornsexx.yachts
+127.0.0.1 pornsexxisesxei1.sbs
 127.0.0.1 pornsexy.info
 127.0.0.1 pornsexyoung.com
 127.0.0.1 pornshake.com
@@ -53973,6 +54451,7 @@
 127.0.0.1 pornvdx.com
 127.0.0.1 pornve.cam
 127.0.0.1 pornve.com
+127.0.0.1 pornvedios.net
 127.0.0.1 pornvee.com
 127.0.0.1 pornverse.xyz
 127.0.0.1 pornvibe.org
@@ -54590,6 +55069,7 @@
 127.0.0.1 precisexo.com
 127.0.0.1 precisionfitnessexpert.shop
 127.0.0.1 predictionporn.com
+127.0.0.1 predictiveporn.com
 127.0.0.1 predictporn.com
 127.0.0.1 preeti-patel.com
 127.0.0.1 preetiagerwal.com
@@ -54682,6 +55162,7 @@
 127.0.0.1 prettypornos.com
 127.0.0.1 prettypussy.pro
 127.0.0.1 prettyscale.com
+127.0.0.1 prettysex.mom
 127.0.0.1 prettyteenporn.website
 127.0.0.1 prettytranny.net
 127.0.0.1 prettyvirgin.com
@@ -54988,6 +55469,7 @@
 127.0.0.1 property-market-gaya.info
 127.0.0.1 property-market-gaya.space
 127.0.0.1 propertysex.com
+127.0.0.1 propertysex.org
 127.0.0.1 propertysexcom.com
 127.0.0.1 properwebsitesexpert.info
 127.0.0.1 properxxx.com
@@ -55063,7 +55545,6 @@
 127.0.0.1 prostitutkikieva.biz
 127.0.0.1 prostitutkikieva.info
 127.0.0.1 prostitutkikieva.men
-127.0.0.1 prostitutkikrasnojpolyanyshe.com
 127.0.0.1 prostitutkilipetska.pro
 127.0.0.1 prostitutkilove.com
 127.0.0.1 prostitutkiluganskasexy.com
@@ -55185,6 +55666,7 @@
 127.0.0.1 proydent.com.ve
 127.0.0.1 proyecto-kahlo.com
 127.0.0.1 proyecto69.com
+127.0.0.1 prporno.shop
 127.0.0.1 prsex.net
 127.0.0.1 prsexemption.co.uk
 127.0.0.1 prsexemptions.co.uk
@@ -55230,6 +55712,7 @@
 127.0.0.1 psychasthenicsextradited.site
 127.0.0.1 psychedelicsexwitch.com
 127.0.0.1 psychicandsexual.com
+127.0.0.1 psychicreadermilford.net
 127.0.0.1 psycho-thrillersfilms.com
 127.0.0.1 psychologue-adultes-couples.com
 127.0.0.1 psychoseel.itch.io
@@ -55391,6 +55874,7 @@
 127.0.0.1 punjabnewsexpress.online
 127.0.0.1 punjabsolarenergy.com
 127.0.0.1 punk-disorderly.de
+127.0.0.1 punkporn.us
 127.0.0.1 punkyradio.com
 127.0.0.1 punterforum.com
 127.0.0.1 punternet.com
@@ -55568,6 +56052,7 @@
 127.0.0.1 putdowntheporn.com
 127.0.0.1 putdowntheporn.org
 127.0.0.1 putgirlfriendinaipornvideo.com
+127.0.0.1 putiesposas.net
 127.0.0.1 putinha.net
 127.0.0.1 putinho.net
 127.0.0.1 putinis.gay
@@ -55656,6 +56141,7 @@
 127.0.0.1 qfilm.tv
 127.0.0.1 qfqfsextou.com
 127.0.0.1 qfyxxx.garden
+127.0.0.1 qgay7416.beer
 127.0.0.1 qgayax.vip
 127.0.0.1 qgayq.top
 127.0.0.1 qiaoqiaoporn.cc
@@ -55785,6 +56271,7 @@
 127.0.0.1 quickthorny.store
 127.0.0.1 quiksex.com
 127.0.0.1 quimhere.com
+127.0.0.1 quimzz.com
 127.0.0.1 quincyjones.com
 127.0.0.1 quinn.nu
 127.0.0.1 quintesexperience.space
@@ -55886,6 +56373,7 @@
 127.0.0.1 radiotaxisexpress.cl
 127.0.0.1 radiuspermanentjewelry.com
 127.0.0.1 radlord.itch.io
+127.0.0.1 radultimategear.shop
 127.0.0.1 radvideo.com
 127.0.0.1 radyocanakkale.com
 127.0.0.1 raeesexch.com
@@ -56112,6 +56600,7 @@
 127.0.0.1 rawindianporn.mobi
 127.0.0.1 rawloads.com
 127.0.0.1 rawme.net
+127.0.0.1 rawpoint.biz
 127.0.0.1 rawporn.org
 127.0.0.1 rawr.xxx
 127.0.0.1 rawstudios.com
@@ -56183,6 +56672,7 @@
 127.0.0.1 real6.ch
 127.0.0.1 realadultworld.com
 127.0.0.1 realamateurporn.online
+127.0.0.1 realasiantube.com
 127.0.0.1 realbabes.com.au
 127.0.0.1 realbdsmporn.net
 127.0.0.1 realbestporn.com
@@ -56218,6 +56708,7 @@
 127.0.0.1 realgirls18.net
 127.0.0.1 realgirlsgonebad.com
 127.0.0.1 realgranny.com
+127.0.0.1 realhardspanking.com
 127.0.0.1 realhentaistream.com
 127.0.0.1 realincest.cc
 127.0.0.1 realincest.net
@@ -56331,6 +56822,7 @@
 127.0.0.1 recallinstructionsformsexpense.com
 127.0.0.1 recargaya.com.bo
 127.0.0.1 recargaya.store
+127.0.0.1 recaudosexpressmovistar.lat
 127.0.0.1 receitasexcepcionais.com.br
 127.0.0.1 receitasexclusivasdavovo.online
 127.0.0.1 recensioni-sextoys.ch
@@ -56345,12 +56837,14 @@
 127.0.0.1 recordedchat.com
 127.0.0.1 recordgayatri.biz.id
 127.0.0.1 recordlivesex.site
+127.0.0.1 recoveryisgay.com
 127.0.0.1 recoverysurplusexperts.com
 127.0.0.1 rectube.me
 127.0.0.1 recu.me
 127.0.0.1 recurbate.com
 127.0.0.1 recurbate.fans
 127.0.0.1 recurbate1.com
+127.0.0.1 recursosexpressrj.com.br
 127.0.0.1 red-ass-teens.com
 127.0.0.1 red-head-porn.com
 127.0.0.1 red-hot-moms.com
@@ -56681,6 +57175,7 @@
 127.0.0.1 reneecox.org
 127.0.0.1 reneerossvideos.com
 127.0.0.1 renegademothering.com
+127.0.0.1 renegayrimenkul.com
 127.0.0.1 renergysolution.com
 127.0.0.1 renew.ro
 127.0.0.1 renkporno.com
@@ -56796,6 +57291,7 @@
 127.0.0.1 revistakesse.com
 127.0.0.1 revistasequadrinhos.com
 127.0.0.1 revok1.com
+127.0.0.1 revolutionissexy.com
 127.0.0.1 revolverthemovie.co.uk
 127.0.0.1 revosluts.life
 127.0.0.1 reworked.gay
@@ -56837,6 +57333,7 @@
 127.0.0.1 richapanday.com
 127.0.0.1 richard-gay.com
 127.0.0.1 richardfaucher.gay
+127.0.0.1 richardlegay.com
 127.0.0.1 richardmannsworld.com
 127.0.0.1 richards-realm.com
 127.0.0.1 richardwestbrook.co.uk
@@ -57019,6 +57516,7 @@
 127.0.0.1 robloxscatporn.com
 127.0.0.1 robnsonsexpress.com
 127.0.0.1 robogirl.gay
+127.0.0.1 robos.xxx
 127.0.0.1 robosexuals.org
 127.0.0.1 robotaspirateurlaveur.com
 127.0.0.1 robotbutt.com
@@ -57310,6 +57808,7 @@
 127.0.0.1 rrapispizza.com
 127.0.0.1 rreaddsa.sbs
 127.0.0.1 rreesextou.com
+127.0.0.1 rrporno.shop
 127.0.0.1 rrs1.xyz
 127.0.0.1 rrsexperts.com
 127.0.0.1 rrww.com.cn
@@ -57869,6 +58368,7 @@
 127.0.0.1 sadomazo.me
 127.0.0.1 sadotop.com
 127.0.0.1 sadpandastudios.com
+127.0.0.1 sadultest.com
 127.0.0.1 safabet.bet
 127.0.0.1 safada.info
 127.0.0.1 safada.tv
@@ -57962,6 +58462,7 @@
 127.0.0.1 salesexecutionzone.xyz
 127.0.0.1 salesexpert.app
 127.0.0.1 salesexpert.click
+127.0.0.1 salesexpertise.sbs
 127.0.0.1 salesexploration.com
 127.0.0.1 salesexpress.shop
 127.0.0.1 salesexps.org
@@ -58749,6 +59250,7 @@
 127.0.0.1 seksvids.nl
 127.0.0.1 seksyukle.com
 127.0.0.1 seksyukle.org
+127.0.0.1 selamunisexsalon.co.uk
 127.0.0.1 seleatherfest.com
 127.0.0.1 selectbangaloregirls.com
 127.0.0.1 selectdelhigirl.com
@@ -58930,8 +59432,6 @@
 127.0.0.1 sessogratis.com
 127.0.0.1 sestra.cc
 127.0.0.1 set-freeporn.com
-127.0.0.1 setagaya-industirial-physician-office.com
-127.0.0.1 setagaya-industrialphysician-office.com
 127.0.0.1 setagaya-judo.pro
 127.0.0.1 setagaya-kikan.org
 127.0.0.1 setagaya-saifukuji.com
@@ -58974,6 +59474,7 @@
 127.0.0.1 sex-and-the-city.live
 127.0.0.1 sex-and-the-city.online
 127.0.0.1 sex-animals.site
+127.0.0.1 sex-annonce.ch
 127.0.0.1 sex-appeal.com
 127.0.0.1 sex-arab.com
 127.0.0.1 sex-arabi.co
@@ -59036,6 +59537,7 @@
 127.0.0.1 sex-dnr-lnr.pro
 127.0.0.1 sex-dnr-lnr.top
 127.0.0.1 sex-dnr-lnr2.one
+127.0.0.1 sex-doll.net
 127.0.0.1 sex-doma.click
 127.0.0.1 sex-doma.fans
 127.0.0.1 sex-doska-ukraine.online
@@ -59077,6 +59579,7 @@
 127.0.0.1 sex-friend.biz
 127.0.0.1 sex-game.pro
 127.0.0.1 sex-games.online
+127.0.0.1 sex-gay.ch
 127.0.0.1 sex-gera.com
 127.0.0.1 sex-gid.ru
 127.0.0.1 sex-girls-tube.com
@@ -59489,6 +59992,7 @@
 127.0.0.1 sex9.life
 127.0.0.1 sex93.com
 127.0.0.1 sex9m.top
+127.0.0.1 sexa.xyz
 127.0.0.1 sexaag.me
 127.0.0.1 sexabc.ch
 127.0.0.1 sexaben.dk
@@ -59729,6 +60233,7 @@
 127.0.0.1 sexblog.top
 127.0.0.1 sexblog.win
 127.0.0.1 sexbloggercalendar.com
+127.0.0.1 sexblogkitten.com
 127.0.0.1 sexblogplanet.com
 127.0.0.1 sexblond.ru
 127.0.0.1 sexblossom.online
@@ -59810,6 +60315,7 @@
 127.0.0.1 sexcamly.xxx
 127.0.0.1 sexcammen.be
 127.0.0.1 sexcamnow.com
+127.0.0.1 sexcamplex.com
 127.0.0.1 sexcamradar.com
 127.0.0.1 sexcams-24.com
 127.0.0.1 sexcams.club
@@ -59941,9 +60447,11 @@
 127.0.0.1 sexcon2026.com
 127.0.0.1 sexcongress.com
 127.0.0.1 sexcongress.de
+127.0.0.1 sexconsensus.life
 127.0.0.1 sexconsult.de
 127.0.0.1 sexcontact.cam
 127.0.0.1 sexcontact.info
+127.0.0.1 sexcontents.com
 127.0.0.1 sexcooks.com
 127.0.0.1 sexcoop.xyz
 127.0.0.1 sexcorp.co
@@ -59969,6 +60477,7 @@
 127.0.0.1 sexcrow.com
 127.0.0.1 sexcrow.net
 127.0.0.1 sexcrow.org
+127.0.0.1 sexcue.com
 127.0.0.1 sexcult.ru
 127.0.0.1 sexcum.net
 127.0.0.1 sexcury.com
@@ -60017,6 +60526,7 @@
 127.0.0.1 sexdatinghot.com
 127.0.0.1 sexdatinguk.com
 127.0.0.1 sexdatingx.nl
+127.0.0.1 sexday.pt
 127.0.0.1 sexday.top
 127.0.0.1 sexdead.com
 127.0.0.1 sexdead.space
@@ -60128,6 +60638,7 @@
 127.0.0.1 sexe-femme.ch
 127.0.0.1 sexe-femme.fr
 127.0.0.1 sexe-francais.com
+127.0.0.1 sexe-hotshot.click
 127.0.0.1 sexe-intentions.com
 127.0.0.1 sexe-porno.org
 127.0.0.1 sexe-sohbet.sbs
@@ -60325,6 +60836,7 @@
 127.0.0.1 sexgaixinh.biz
 127.0.0.1 sexgaixinh.club
 127.0.0.1 sexgameforcouples.com
+127.0.0.1 sexgamerclud.com
 127.0.0.1 sexgamers.com
 127.0.0.1 sexgames.au
 127.0.0.1 sexgames.cc
@@ -60370,6 +60882,7 @@
 127.0.0.1 sexglam.online
 127.0.0.1 sexglsszxneqs.online
 127.0.0.1 sexgnorimies.gr.com
+127.0.0.1 sexgo.pw
 127.0.0.1 sexgo.top
 127.0.0.1 sexgod.eu.cc
 127.0.0.1 sexgod.us
@@ -60492,6 +61005,7 @@
 127.0.0.1 sexhikayeleri4.shop
 127.0.0.1 sexhikayeleri4.site
 127.0.0.1 sexhikayelerioku.com
+127.0.0.1 sexhikeya3.sbs
 127.0.0.1 sexhim.lat
 127.0.0.1 sexhindisex.com
 127.0.0.1 sexhis.com
@@ -60539,7 +61053,9 @@
 127.0.0.1 sexhubvideos.com
 127.0.0.1 sexhubx.com
 127.0.0.1 sexhuis.com
+127.0.0.1 sexhungryjoes.com
 127.0.0.1 sexhunt.dk
+127.0.0.1 sexhunter.sbs
 127.0.0.1 sexi-hot-meets.com
 127.0.0.1 sexi-model.ru
 127.0.0.1 sexi-time.com
@@ -60590,6 +61106,7 @@
 127.0.0.1 sexiestboyfriend.com
 127.0.0.1 sexiestchampion.com
 127.0.0.1 sexiestchat.com
+127.0.0.1 sexiestcooks.com
 127.0.0.1 sexiestcouplealive.com
 127.0.0.1 sexiestcreator.com
 127.0.0.1 sexiestdate.com
@@ -60970,6 +61487,7 @@
 127.0.0.1 sexmagdeburg.eu
 127.0.0.1 sexmagic.work
 127.0.0.1 sexmaharim.com
+127.0.0.1 sexmaison.com
 127.0.0.1 sexmall.cz
 127.0.0.1 sexmalt.com
 127.0.0.1 sexmama.net
@@ -61016,6 +61534,7 @@
 127.0.0.1 sexmazahd.com
 127.0.0.1 sexmckenna.com
 127.0.0.1 sexme.co
+127.0.0.1 sexme.fun
 127.0.0.1 sexme.uk
 127.0.0.1 sexme.xyz
 127.0.0.1 sexmeds.co.uk
@@ -61162,6 +61681,7 @@
 127.0.0.1 sexnight.fun
 127.0.0.1 sexninja.co
 127.0.0.1 sexnintimacy.com
+127.0.0.1 sexnk.pl
 127.0.0.1 sexnnov.top
 127.0.0.1 sexno1.icu
 127.0.0.1 sexnoitro.com
@@ -61342,6 +61862,7 @@
 127.0.0.1 sexologybae.com
 127.0.0.1 sexologyst.com
 127.0.0.1 sexolona.com
+127.0.0.1 sexoluvia.com
 127.0.0.1 sexolviv.com
 127.0.0.1 sexomaduras.net
 127.0.0.1 sexomagnit.club
@@ -61555,6 +62076,7 @@
 127.0.0.1 sexpodcasts.com
 127.0.0.1 sexpoint.co.il
 127.0.0.1 sexpoint.pl
+127.0.0.1 sexpoint.pro
 127.0.0.1 sexpokec.sk
 127.0.0.1 sexpokusa.pl
 127.0.0.1 sexpolis.pl
@@ -61633,6 +62155,7 @@
 127.0.0.1 sexprofiel.be
 127.0.0.1 sexprofil.pl
 127.0.0.1 sexprogramme.za.com
+127.0.0.1 sexprotein.com
 127.0.0.1 sexprox.blog
 127.0.0.1 sexprox.online
 127.0.0.1 sexprox.site
@@ -61641,6 +62164,7 @@
 127.0.0.1 sexprox.vip
 127.0.0.1 sexprox.website
 127.0.0.1 sexprzyjaciolka.com
+127.0.0.1 sexpsy.com
 127.0.0.1 sexpsychiatrist.com
 127.0.0.1 sexpulse.tv
 127.0.0.1 sexpun.com
@@ -61856,7 +62380,6 @@
 127.0.0.1 sexshopplanet.com
 127.0.0.1 sexshopplovdiv.com
 127.0.0.1 sexshopponline.com
-127.0.0.1 sexshoprave.com
 127.0.0.1 sexshopribeiraopires.com.br
 127.0.0.1 sexshopriya.com.ar
 127.0.0.1 sexshops.club
@@ -61881,6 +62404,7 @@
 127.0.0.1 sexsi.fun
 127.0.0.1 sexsi.video
 127.0.0.1 sexsikispornoizle.online
+127.0.0.1 sexsim.pro
 127.0.0.1 sexsimf.fun
 127.0.0.1 sexsimf.xyz
 127.0.0.1 sexsimfer.cc
@@ -61963,6 +62487,7 @@
 127.0.0.1 sexstunner.com
 127.0.0.1 sexstuttgart.com
 127.0.0.1 sexstyle.co.il
+127.0.0.1 sexsub.lat
 127.0.0.1 sexsub.me.uk
 127.0.0.1 sexsub.ws
 127.0.0.1 sexsub2.blog
@@ -61998,6 +62523,7 @@
 127.0.0.1 sextaaula.com.br
 127.0.0.1 sextabeer.com.br
 127.0.0.1 sextacyfunadulttoys.com
+127.0.0.1 sextadecontos.com
 127.0.0.1 sextadepremios.xyz
 127.0.0.1 sextaestrela.com
 127.0.0.1 sextafeira.ai
@@ -62027,6 +62553,7 @@
 127.0.0.1 sextantshipping.com
 127.0.0.1 sextaordemcrm.com
 127.0.0.1 sextape.cloud
+127.0.0.1 sextapefinder.com
 127.0.0.1 sextapehotel.com
 127.0.0.1 sextapelesbians.com
 127.0.0.1 sextapeplace.com
@@ -62230,7 +62757,6 @@
 127.0.0.1 sextop1.store
 127.0.0.1 sextop1.surf
 127.0.0.1 sextop1.top
-127.0.0.1 sextop1.us.cc
 127.0.0.1 sextop1.vc
 127.0.0.1 sextop123.com
 127.0.0.1 sextop123.digital
@@ -62340,6 +62866,7 @@
 127.0.0.1 sextoyprokit.com
 127.0.0.1 sextoypromo.com
 127.0.0.1 sextoyrecycling.com
+127.0.0.1 sextoyreview.net
 127.0.0.1 sextoys-247.uk
 127.0.0.1 sextoys-bewertung.ch
 127.0.0.1 sextoys-india.shop
@@ -62359,6 +62886,7 @@
 127.0.0.1 sextoysdeutschland.com
 127.0.0.1 sextoysemall.com
 127.0.0.1 sextoyset.com
+127.0.0.1 sextoysfactorydirect.com
 127.0.0.1 sextoysforsaley.com
 127.0.0.1 sextoysforu.uk
 127.0.0.1 sextoysgarb.ru
@@ -62395,6 +62923,7 @@
 127.0.0.1 sextpanther.com
 127.0.0.1 sextpanthercom.com
 127.0.0.1 sextpartner-download.icu
+127.0.0.1 sextq.net
 127.0.0.1 sextra.lol
 127.0.0.1 sextra.shop
 127.0.0.1 sextra.xyz
@@ -62553,6 +63082,7 @@
 127.0.0.1 sexualattractiveness.com
 127.0.0.1 sexualaufklaerung.de
 127.0.0.1 sexualautonomy.com
+127.0.0.1 sexualba.com
 127.0.0.1 sexualbang.com
 127.0.0.1 sexualbehavioranalysis.app
 127.0.0.1 sexualberatig.ch
@@ -62705,6 +63235,7 @@
 127.0.0.1 sexveodies.com
 127.0.0.1 sexverhalen.com
 127.0.0.1 sexverhalenboard.nl
+127.0.0.1 sexverse.pl
 127.0.0.1 sexvertical.com
 127.0.0.1 sexvertising.com
 127.0.0.1 sexveteran.com
@@ -62766,6 +63297,7 @@
 127.0.0.1 sexvideoshd.online
 127.0.0.1 sexvideoshot.com
 127.0.0.1 sexvideosneed.com
+127.0.0.1 sexvideosnepali.com
 127.0.0.1 sexvideostelugu.click
 127.0.0.1 sexvideostwink.click
 127.0.0.1 sexvideosxxx.mobi
@@ -63282,12 +63814,14 @@
 127.0.0.1 sexy.barcelona
 127.0.0.1 sexy.blog.br
 127.0.0.1 sexy.christmas
+127.0.0.1 sexy.how
 127.0.0.1 sexy.li
 127.0.0.1 sexy.live
 127.0.0.1 sexy.markets
 127.0.0.1 sexy.sk
 127.0.0.1 sexy.team
 127.0.0.1 sexy.to
+127.0.0.1 sexy.trade
 127.0.0.1 sexy14k.world
 127.0.0.1 sexy14s.com
 127.0.0.1 sexy1599.com
@@ -63405,6 +63939,7 @@
 127.0.0.1 sexyandwarm.com
 127.0.0.1 sexyangelprincess.com
 127.0.0.1 sexyangels.site
+127.0.0.1 sexyanorexic.com
 127.0.0.1 sexyaporno.com
 127.0.0.1 sexyapp.live
 127.0.0.1 sexyapparel23.com
@@ -63465,7 +64000,6 @@
 127.0.0.1 sexybar7890.com
 127.0.0.1 sexybarefootsandals.com
 127.0.0.1 sexybartenders.net
-127.0.0.1 sexybbwporn.com
 127.0.0.1 sexybeach.co.uk
 127.0.0.1 sexybeastialityvideos.com
 127.0.0.1 sexybeautyvideos.xyz
@@ -63480,6 +64014,7 @@
 127.0.0.1 sexybestbacarat.work
 127.0.0.1 sexybestbacaratth.com
 127.0.0.1 sexybestbacaratz.com
+127.0.0.1 sexybet2.com
 127.0.0.1 sexybet88.com
 127.0.0.1 sexybets888.com
 127.0.0.1 sexybf.mobi
@@ -63623,7 +64158,6 @@
 127.0.0.1 sexydelhicallgirls.com
 127.0.0.1 sexydelhicityescorts.com
 127.0.0.1 sexydiet.org
-127.0.0.1 sexydilfs.com
 127.0.0.1 sexydisabledfolksllc.com
 127.0.0.1 sexydisabledfolksllc.shop
 127.0.0.1 sexydogsof.com
@@ -63658,7 +64192,6 @@
 127.0.0.1 sexyface.net
 127.0.0.1 sexyface.shop
 127.0.0.1 sexyface.store
-127.0.0.1 sexyfamousfridays.com
 127.0.0.1 sexyfat-women.com
 127.0.0.1 sexyfeeling.com
 127.0.0.1 sexyfeetandtoes.com
@@ -63812,6 +64345,7 @@
 127.0.0.1 sexygo.xyz
 127.0.0.1 sexygoodsshop.com
 127.0.0.1 sexygrammar.com
+127.0.0.1 sexygrannies.org
 127.0.0.1 sexygrannyfinder.com
 127.0.0.1 sexyguidaitalia.com
 127.0.0.1 sexyguy.kr
@@ -63822,6 +64356,7 @@
 127.0.0.1 sexyhandy.com
 127.0.0.1 sexyhe.com
 127.0.0.1 sexyheadsboutique.com
+127.0.0.1 sexyheels4u.com
 127.0.0.1 sexyhema.in
 127.0.0.1 sexyhermit.medium.com
 127.0.0.1 sexyhezal.in
@@ -63937,6 +64472,7 @@
 127.0.0.1 sexylover.fr
 127.0.0.1 sexylover.net
 127.0.0.1 sexyloverman.com
+127.0.0.1 sexyloverman.net
 127.0.0.1 sexylovetoy.com
 127.0.0.1 sexylucknowescorts.com
 127.0.0.1 sexylugur.pro
@@ -64034,6 +64570,7 @@
 127.0.0.1 sexypeal.com
 127.0.0.1 sexypecheuses.com
 127.0.0.1 sexypenis.fun
+127.0.0.1 sexypenis.online
 127.0.0.1 sexypepetoken.xyz
 127.0.0.1 sexyperil.com
 127.0.0.1 sexyperilplay.com
@@ -64131,6 +64668,7 @@
 127.0.0.1 sexyshoppsouza.com.br
 127.0.0.1 sexyshoppy.com
 127.0.0.1 sexyshopstore.eu
+127.0.0.1 sexysignatures.com
 127.0.0.1 sexysiips.com
 127.0.0.1 sexysimi.in
 127.0.0.1 sexysinglesane.com
@@ -64218,6 +64756,7 @@
 127.0.0.1 sexytogel1.com
 127.0.0.1 sexytogelpay.com
 127.0.0.1 sexytoy.shop
+127.0.0.1 sexytoysbuy.com
 127.0.0.1 sexytoyz.com
 127.0.0.1 sexytoyzone.com
 127.0.0.1 sexytrannies.net
@@ -64248,6 +64787,7 @@
 127.0.0.1 sexyverticalvideos.com
 127.0.0.1 sexyverts.com
 127.0.0.1 sexyvibes.ca
+127.0.0.1 sexyvibratorshop.com
 127.0.0.1 sexyvidea.eu
 127.0.0.1 sexyvideo.ai
 127.0.0.1 sexyvideo.click
@@ -64402,6 +64942,7 @@
 127.0.0.1 shakypussy.com
 127.0.0.1 shalavi.biz
 127.0.0.1 shally.in
+127.0.0.1 shalmexxxakux.world
 127.0.0.1 shalmexxxli.world
 127.0.0.1 shaltlove.com
 127.0.0.1 shamanicerotictheater.com
@@ -64746,6 +65287,7 @@
 127.0.0.1 shockingmovies.com
 127.0.0.1 shockingxxxmovies.com
 127.0.0.1 shockpornmovies.com
+127.0.0.1 shodrexxxykloxen.world
 127.0.0.1 shoelacesexpressho.shop
 127.0.0.1 shoesession.com
 127.0.0.1 shofha.tv
@@ -64891,6 +65433,7 @@
 127.0.0.1 sibitex.ru
 127.0.0.1 sibokep.boats
 127.0.0.1 sibugay.com
+127.0.0.1 sibugaycollegeschools.com
 127.0.0.1 sicflics.com
 127.0.0.1 sichuanyanchu.com
 127.0.0.1 sicilyvillasexperience.com
@@ -64905,6 +65448,7 @@
 127.0.0.1 sidesexo.online
 127.0.0.1 sidingessexcounty.com
 127.0.0.1 sidingmiddlesexcounty.com
+127.0.0.1 sidsfantasies.com
 127.0.0.1 sidviciouslives.com
 127.0.0.1 siemensxxx.com
 127.0.0.1 siennacharlesexecutive.com
@@ -64924,6 +65468,7 @@
 127.0.0.1 sigilframework.org
 127.0.0.1 sigilosexshoplisboa.pt
 127.0.0.1 sigmaporn.com
+127.0.0.1 signavoxxx.info
 127.0.0.1 signbucks.com
 127.0.0.1 signcams.com
 127.0.0.1 signpostsmidsussex.org
@@ -64950,7 +65495,6 @@
 127.0.0.1 siko2-miti.xyz
 127.0.0.1 sikwap.mobi
 127.0.0.1 sile3kgayrimenkul.com
-127.0.0.1 sileagvagayrimenkul.com.tr
 127.0.0.1 sileescortlar.xyz
 127.0.0.1 silenceissexy.nl
 127.0.0.1 silencio.gay
@@ -64960,6 +65504,7 @@
 127.0.0.1 silicongirls.store
 127.0.0.1 siliconvalley.sex
 127.0.0.1 siliconvalley.xxx
+127.0.0.1 siliconvalleycommoditiesexchange.com
 127.0.0.1 siliconwives.com
 127.0.0.1 silifkeeskort.xyz
 127.0.0.1 siliguriescorts.co.in
@@ -65031,6 +65576,7 @@
 127.0.0.1 simplerelase.com
 127.0.0.1 simplesexplicacoes.space
 127.0.0.1 simplesexport.site
+127.0.0.1 simplexxx.ru
 127.0.0.1 simplexxx.uz
 127.0.0.1 simplifixxx.com
 127.0.0.1 simplipleasures.com
@@ -65137,6 +65683,7 @@
 127.0.0.1 sipsdirty.com
 127.0.0.1 sipur.blue
 127.0.0.1 sipureisex.com
+127.0.0.1 siragayacirebonkota.com
 127.0.0.1 sirenhead.gay
 127.0.0.1 sirenitashot.com
 127.0.0.1 sirensgartererotica.com
@@ -65295,6 +65842,7 @@
 127.0.0.1 skl-auto.fr
 127.0.0.1 sklavenzentrale.com
 127.0.0.1 sklavingesucht.com
+127.0.0.1 skln.club
 127.0.0.1 skokka.com
 127.0.0.1 skokka.com.au
 127.0.0.1 skrillex.gay
@@ -65535,6 +66083,7 @@
 127.0.0.1 sluttygirlproblems.com
 127.0.0.1 sluttyjojo.com
 127.0.0.1 sluttylabs.click
+127.0.0.1 sluttyladies.com
 127.0.0.1 sluttylittlesupplies.com
 127.0.0.1 sluttyman.com
 127.0.0.1 sluttymeets.com
@@ -65653,6 +66202,8 @@
 127.0.0.1 smolprost.pro
 127.0.0.1 smonyytflzsex.ru
 127.0.0.1 smooth-arm.com
+127.0.0.1 smoothgays.com
+127.0.0.1 smoothieporn.com
 127.0.0.1 smoothmoveherbaltea.xxx
 127.0.0.1 smoothmovesenna.xxx
 127.0.0.1 smoothmovetea.xxx
@@ -65878,6 +66429,7 @@
 127.0.0.1 sol777sextou.com
 127.0.0.1 solace.gay
 127.0.0.1 solana.gay
+127.0.0.1 solana.sex
 127.0.0.1 solanomundo.com.br
 127.0.0.1 solarisexecutive.cl
 127.0.0.1 solarium.tv
@@ -65887,6 +66439,8 @@
 127.0.0.1 solarsavingsexperts.com
 127.0.0.1 solarslotsexpress.com
 127.0.0.1 solcellsexpert.se
+127.0.0.1 solicitingsex.sbs
+127.0.0.1 solicitingsexrule.sbs
 127.0.0.1 solidbasex.com
 127.0.0.1 solidcams.com
 127.0.0.1 solidservices.online
@@ -65920,6 +66474,7 @@
 127.0.0.1 solucoesexpert.com
 127.0.0.1 solusexpress.com
 127.0.0.1 solutionsexcavating.com
+127.0.0.1 solutionsunisexsalon.com
 127.0.0.1 solvaypharma.pl
 127.0.0.1 somaerotica.ca
 127.0.0.1 somaescorts.com
@@ -66036,6 +66591,7 @@
 127.0.0.1 sosalkino.space
 127.0.0.1 sosalkino.tube
 127.0.0.1 sosalkino.tv
+127.0.0.1 sosasdirtylaundry.com
 127.0.0.1 sosexchange.app
 127.0.0.1 sosexhanche.app
 127.0.0.1 sosexpedited.com
@@ -66098,6 +66654,7 @@
 127.0.0.1 southbeauties.com
 127.0.0.1 southdakotabdsm.com
 127.0.0.1 southeastescorts.com
+127.0.0.1 southeastessex.com
 127.0.0.1 southern-charms.com
 127.0.0.1 southern-charms2.com
 127.0.0.1 southern-charms3.com
@@ -66124,6 +66681,7 @@
 127.0.0.1 space4night.com
 127.0.0.1 spacepornx.com
 127.0.0.1 spaceportamerica.xxx
+127.0.0.1 spacesex.sbs
 127.0.0.1 spacetours.us
 127.0.0.1 spainwebcam.com
 127.0.0.1 spandex.ch
@@ -66186,6 +66744,7 @@
 127.0.0.1 spartanlover.com
 127.0.0.1 spartansexchangers.com
 127.0.0.1 spasweety.com
+127.0.0.1 spbariel.ru
 127.0.0.1 spbdvd.ru
 127.0.0.1 spbinfinity.ru
 127.0.0.1 spbpskov.ru
@@ -66233,6 +66792,7 @@
 127.0.0.1 spermagent.com
 127.0.0.1 spermagl.org
 127.0.0.1 spermai.ru
+127.0.0.1 spermalat.com
 127.0.0.1 spermann.org
 127.0.0.1 spermatech.ru
 127.0.0.1 spermatozoametatheticaliily.info
@@ -66252,6 +66812,7 @@
 127.0.0.1 spermhacking.com
 127.0.0.1 spermidine-supplement.com
 127.0.0.1 spermik.com
+127.0.0.1 sperminesordained.cloud
 127.0.0.1 spermirelli.com
 127.0.0.1 spermium.com
 127.0.0.1 spermjl.com
@@ -66373,12 +66934,14 @@
 127.0.0.1 sportingshooter.co.uk
 127.0.0.1 sportsexchangeapi.com
 127.0.0.1 sportsexecs.com
+127.0.0.1 sportsexpert.sbs
 127.0.0.1 sportsexpert.shop
 127.0.0.1 sportsexpert.us
 127.0.0.1 sportsexpress.us
 127.0.0.1 sportsfetishnetwork.com
 127.0.0.1 sportsheets.com
 127.0.0.1 sportsrulesexplained.com
+127.0.0.1 sportssex.com
 127.0.0.1 sportstream.tv
 127.0.0.1 spotlazydog.com
 127.0.0.1 spotlessexteriorco.com
@@ -66397,6 +66960,7 @@
 127.0.0.1 spreee.pro
 127.0.0.1 springmakeshow.com
 127.0.0.1 springpost.net
+127.0.0.1 springvillageessex.com
 127.0.0.1 sprint64.com
 127.0.0.1 sproeiendekutjes.nl
 127.0.0.1 sprygayporn.com
@@ -66468,6 +67032,7 @@
 127.0.0.1 sriti.in
 127.0.0.1 srkc.gay
 127.0.0.1 srpacks.com
+127.0.0.1 srporno.shop
 127.0.0.1 srrxxx.com
 127.0.0.1 srsexchange.com
 127.0.0.1 srtrak.xyz
@@ -66678,6 +67243,7 @@
 127.0.0.1 stay-younger.net
 127.0.0.1 stayanimeporn.com
 127.0.0.1 staycoolwindsor-essex.com
+127.0.0.1 staydirtyathletics.com
 127.0.0.1 staydirtydrinks.com
 127.0.0.1 stayhome8kporn.com
 127.0.0.1 staykinky.com
@@ -67000,6 +67566,7 @@
 127.0.0.1 sttbetsextou.com
 127.0.0.1 stubbsexteriorcleaningservices.co.uk
 127.0.0.1 stuck4k.com
+127.0.0.1 stud-puppy.com
 127.0.0.1 stud.com
 127.0.0.1 studboyz.net
 127.0.0.1 studentaffairsexecutive.com
@@ -67018,6 +67585,7 @@
 127.0.0.1 studiofow.com
 127.0.0.1 studiohotline.com
 127.0.0.1 studioinkspermanentmakeup.com
+127.0.0.1 studioos.net
 127.0.0.1 studiosp.org
 127.0.0.1 studioveena.com
 127.0.0.1 studiowhy.itch.io
@@ -67130,6 +67698,7 @@
 127.0.0.1 sugardaddy.com
 127.0.0.1 sugardaddy.com.au
 127.0.0.1 sugardaddy.guru
+127.0.0.1 sugardaddygay.store
 127.0.0.1 sugardaddymeet.com
 127.0.0.1 sugardaddytonight.com
 127.0.0.1 sugardaddyxxx.com
@@ -67147,6 +67716,7 @@
 127.0.0.1 sugarsweetmeat.com
 127.0.0.1 sugartvstore.com
 127.0.0.1 sugaryo2.com
+127.0.0.1 sugayouka.com
 127.0.0.1 sugayow.icu
 127.0.0.1 suggabunny.com
 127.0.0.1 sugoidesu.net
@@ -67271,6 +67841,7 @@
 127.0.0.1 superdoujin.net
 127.0.0.1 superduper.gay
 127.0.0.1 superescort.info
+127.0.0.1 superessex.com
 127.0.0.1 superfuckporn.xyz
 127.0.0.1 supergay.us
 127.0.0.1 supergayclothing.com
@@ -67487,6 +68058,7 @@
 127.0.0.1 sussexgroup.systems
 127.0.0.1 sussexhappenings.com
 127.0.0.1 sussexhavenmediation.com
+127.0.0.1 sussexhawkwalks.com
 127.0.0.1 sussexhealthcare.co.uk
 127.0.0.1 sussexhealthhub.co.uk
 127.0.0.1 sussexhomedefibco.co.uk
@@ -67613,6 +68185,7 @@
 127.0.0.1 swatbusinessexperience.com.br
 127.0.0.1 swatisethi.com
 127.0.0.1 swdessex.co.uk
+127.0.0.1 sweateradult.world
 127.0.0.1 swedencannabisexpo.se
 127.0.0.1 swedishbikiniteam.com
 127.0.0.1 sweedencannabisexpo.se
@@ -67739,6 +68312,7 @@
 127.0.0.1 swirlr.com
 127.0.0.1 swirlysluts.com
 127.0.0.1 swiss-milf.top
+127.0.0.1 swiss.lat
 127.0.0.1 swissalpesexperiences.com
 127.0.0.1 swisscolisexpress.com
 127.0.0.1 swissexcellencelimousine.ch
@@ -67768,6 +68342,7 @@
 127.0.0.1 sxxxporn.com
 127.0.0.1 sxxxx.lat
 127.0.0.1 sxxxx.quest
+127.0.0.1 sxxxxeyyyy.icu
 127.0.0.1 sxxxxm.com
 127.0.0.1 sxygrl.com
 127.0.0.1 sxyland.com
@@ -67794,6 +68369,7 @@
 127.0.0.1 sylphe.perso.libertysurf.fr
 127.0.0.1 sylviarosexo.com
 127.0.0.1 sympatie.sk
+127.0.0.1 symptomsexplain.com
 127.0.0.1 symtoys.com
 127.0.0.1 synanonsexpansionary.cloud
 127.0.0.1 synapsex-ai.com
@@ -67956,6 +68532,7 @@
 127.0.0.1 taianhsex.com
 127.0.0.1 taiav.com
 127.0.0.1 taichinh2a.com
+127.0.0.1 tailinkhotngay.click
 127.0.0.1 tailoredspacesexpert.click
 127.0.0.1 tailorgayng.online
 127.0.0.1 tailsofsussex.com
@@ -68287,6 +68864,7 @@
 127.0.0.1 teasepov.com
 127.0.0.1 teaseum.com
 127.0.0.1 teasex.site
+127.0.0.1 teasexpresscare.com
 127.0.0.1 teaspill.games
 127.0.0.1 teatbeat.com
 127.0.0.1 teatime.itch.io
@@ -68311,6 +68889,7 @@
 127.0.0.1 technopaintsexpert.in
 127.0.0.1 technosexe.fr
 127.0.0.1 techou.jp
+127.0.0.1 techporn.org
 127.0.0.1 techpulsex.fr
 127.0.0.1 techpulsex.top
 127.0.0.1 techsolutionsexpress.com
@@ -68707,6 +69286,7 @@
 127.0.0.1 telefon-sex.cfd
 127.0.0.1 telefon-sex.xyz
 127.0.0.1 telefon-sexcam.ch
+127.0.0.1 telefonda.sex
 127.0.0.1 telefondasex.cfd
 127.0.0.1 telefono-erotico-linea-erotica-69.com
 127.0.0.1 telefono-erotico-per-donne.it
@@ -68833,6 +69413,7 @@
 127.0.0.1 tentopet.com
 127.0.0.1 tenues-sexy.com
 127.0.0.1 tenzmag.com
+127.0.0.1 tepegayrimenkul.org
 127.0.0.1 teporn.com
 127.0.0.1 tequilaysexo.com
 127.0.0.1 tequileirasdofunk.com.br
@@ -68893,6 +69474,7 @@
 127.0.0.1 texasmistress.com
 127.0.0.1 texaspermianoilfieldstorage.com
 127.0.0.1 texaspermitmaster.com
+127.0.0.1 texasspermdonor.com
 127.0.0.1 texthub.me
 127.0.0.1 textology.fun
 127.0.0.1 tezhongzhuangbei.com
@@ -69452,6 +70034,7 @@
 127.0.0.1 thehotestsex.com
 127.0.0.1 thehotgirlsinlingerie.com
 127.0.0.1 thehotporn.info
+127.0.0.1 thehotporn.net
 127.0.0.1 thehotporn.org
 127.0.0.1 thehotsex.com
 127.0.0.1 thehotspot.com.au
@@ -69624,6 +70207,7 @@
 127.0.0.1 thepalfreymilford.com
 127.0.0.1 thepanosexpress.com
 127.0.0.1 thepansexualsasquatch.com
+127.0.0.1 thepassionatewife.com
 127.0.0.1 thepaysites.com
 127.0.0.1 thepeaceprojectmeditations.com
 127.0.0.1 thepenissoliloquies.blogspot.com
@@ -69868,6 +70452,7 @@
 127.0.0.1 theultimatesextoy.com
 127.0.0.1 theultimatesexyuhairband.com
 127.0.0.1 theundergroundsexclub.com
+127.0.0.1 theunsexystack.com
 127.0.0.1 theupperfloor.com
 127.0.0.1 theusadultdirectory.shop
 127.0.0.1 theusexpand.info
@@ -69891,6 +70476,7 @@
 127.0.0.1 thevoyeurclub.shop
 127.0.0.1 thevoyeurclub.store
 127.0.0.1 thevoyeuredit.com
+127.0.0.1 thevsunisexsalon.in
 127.0.0.1 thewallpapersonline.com
 127.0.0.1 thewellsexperienceconsulting.com
 127.0.0.1 thewessexcoast.co.uk
@@ -69911,6 +70497,7 @@
 127.0.0.1 thexxx.tv
 127.0.0.1 thexxxadult.ru
 127.0.0.1 thexxxtube.net
+127.0.0.1 thexxxwriter.com
 127.0.0.1 theyarehuge.com
 127.0.0.1 theyarehuge.net
 127.0.0.1 theyarespunky.com
@@ -69921,6 +70508,7 @@
 127.0.0.1 theyoungnudes.com
 127.0.0.1 theyouporn.bond
 127.0.0.1 theyxxx.com
+127.0.0.1 thflixmovie.com
 127.0.0.1 thicca.com
 127.0.0.1 thicca.live
 127.0.0.1 thickasianporn.com
@@ -70060,6 +70648,7 @@
 127.0.0.1 thrones.xxx
 127.0.0.1 thrupnies.com
 127.0.0.1 thrusocial.com
+127.0.0.1 thsexam.work
 127.0.0.1 thucdonhangngay.cfd
 127.0.0.1 thucdonmoingay.com
 127.0.0.1 thudam.tube
@@ -70154,6 +70743,7 @@
 127.0.0.1 tik.pm
 127.0.0.1 tik.porn
 127.0.0.1 tik.red
+127.0.0.1 tikboo.com
 127.0.0.1 tikhub.net
 127.0.0.1 tikporn.ai
 127.0.0.1 tikporn.app
@@ -70259,7 +70849,6 @@
 127.0.0.1 tirekuzeygayrimenkul.com.tr
 127.0.0.1 tirerotagayrimenkul.com
 127.0.0.1 tisexisaj.pro
-127.0.0.1 tisexiwoorgroup.digital
 127.0.0.1 tishaescort.com
 127.0.0.1 tit-torture.net
 127.0.0.1 tit3.com
@@ -70323,6 +70912,7 @@
 127.0.0.1 tizam.red
 127.0.0.1 tizam.top
 127.0.0.1 tizam.video
+127.0.0.1 tjaiadult.com
 127.0.0.1 tjdnfxxxx.site
 127.0.0.1 tjmaxxxxsale.com
 127.0.0.1 tjporn.com
@@ -70518,7 +71108,6 @@
 127.0.0.1 toonizy.com
 127.0.0.1 toonoops.com
 127.0.0.1 toonopedia.com
-127.0.0.1 toons-sex.net
 127.0.0.1 toons18.com
 127.0.0.1 toonscrew.com
 127.0.0.1 toonsearch.net
@@ -70566,6 +71155,7 @@
 127.0.0.1 topadultporn.top
 127.0.0.1 topadultreview.com
 127.0.0.1 topadultsite.com
+127.0.0.1 topadulttoys.com
 127.0.0.1 topadulttubies.com
 127.0.0.1 topadultwebsites.net
 127.0.0.1 topaiinfluencers.io
@@ -70877,6 +71467,7 @@
 127.0.0.1 toyboysexshop.com
 127.0.0.1 toydemon.com
 127.0.0.1 toyhube.com
+127.0.0.1 toyland.fr
 127.0.0.1 toymelive.com
 127.0.0.1 toynotes.com
 127.0.0.1 toyota-mideast.com
@@ -70885,6 +71476,7 @@
 127.0.0.1 toyslut.com
 127.0.0.1 toysvideotube.com
 127.0.0.1 toywithme.com
+127.0.0.1 toyzfactory.com
 127.0.0.1 tpderotic.com
 127.0.0.1 tpdwm.com
 127.0.0.1 tpgamerun.com
@@ -70899,6 +71491,7 @@
 127.0.0.1 tpsexperionglobal.com
 127.0.0.1 tptpsextou.com
 127.0.0.1 tpxqkt.gay
+127.0.0.1 tqguxb.gay
 127.0.0.1 tqlcvn.org
 127.0.0.1 tqtqsextou.com
 127.0.0.1 tr21.vide365.com
@@ -70932,7 +71525,6 @@
 127.0.0.1 traffickinghubpetition.com
 127.0.0.1 trafficmanager.xxx
 127.0.0.1 trafficrevenue.net
-127.0.0.1 traftds.ru
 127.0.0.1 trah.info
 127.0.0.1 trah.me
 127.0.0.1 trahat.top
@@ -71155,6 +71747,7 @@
 127.0.0.1 travestichat.fr
 127.0.0.1 travesticomlocal.com.br
 127.0.0.1 travestis.org
+127.0.0.1 travestisexy.com
 127.0.0.1 travestismexico.com
 127.0.0.1 travestispremium.com
 127.0.0.1 travmaga.com
@@ -71175,7 +71768,6 @@
 127.0.0.1 treasurecams.com
 127.0.0.1 treasureislandmedia.com
 127.0.0.1 treasureslutecemporio.shop
-127.0.0.1 treegreeny.org
 127.0.0.1 treemmoingay.cfd
 127.0.0.1 treeservicenewmilfordct.com
 127.0.0.1 treesurgeoninsussex.co.uk
@@ -71275,6 +71867,9 @@
 127.0.0.1 trssexandintimacy.com
 127.0.0.1 tru-tru.ru
 127.0.0.1 truba-rf.ru
+127.0.0.1 truckersextraincome.com
+127.0.0.1 truckersextraincome.online
+127.0.0.1 truckersextraincome.org
 127.0.0.1 truckerspermits.com
 127.0.0.1 truckersucker.com
 127.0.0.1 trucksandcarsexport.com
@@ -71380,6 +71975,7 @@
 127.0.0.1 truyensextv55.com
 127.0.0.1 truyensextv69.com
 127.0.0.1 truyensextv99.com
+127.0.0.1 truyensexviet.xyz
 127.0.0.1 truyensexvl.com
 127.0.0.1 truyenvip.online
 127.0.0.1 truyenxxx.top
@@ -71446,6 +72042,7 @@
 127.0.0.1 ts-tube.net
 127.0.0.1 ts4rent.eu
 127.0.0.1 ts4rent.uk
+127.0.0.1 tsais.gay
 127.0.0.1 tscult.com
 127.0.0.1 tsdate.com
 127.0.0.1 tsdates.com
@@ -71504,6 +72101,7 @@
 127.0.0.1 ttnaked.com
 127.0.0.1 ttransexpress.com
 127.0.0.1 ttrgaydgsdacad.cyou
+127.0.0.1 ttrrrksssexxporprnns.sbs
 127.0.0.1 ttrrsextou.com
 127.0.0.1 ttxx.one
 127.0.0.1 tu-juguete-erotico.com
@@ -71685,6 +72283,7 @@
 127.0.0.1 tubepleasure.com
 127.0.0.1 tubeplus.mobi
 127.0.0.1 tubeporn.autos
+127.0.0.1 tubeporn.click
 127.0.0.1 tubeporn.com
 127.0.0.1 tubeporn.site
 127.0.0.1 tubeporn.tv
@@ -71918,6 +72517,7 @@
 127.0.0.1 turbogasexpress.shop
 127.0.0.1 turboporn.top
 127.0.0.1 turemgayrimenkul.com
+127.0.0.1 turgaypapakci.com
 127.0.0.1 turgayyucel.com
 127.0.0.1 turingcentenaryarts.eu
 127.0.0.1 turk-ifsaci.monster
@@ -72070,6 +72670,7 @@
 127.0.0.1 turkpornocu31.site
 127.0.0.1 turkpornocu31.store
 127.0.0.1 turkpornocu69.site
+127.0.0.1 turkpornohd.com
 127.0.0.1 turkpornoifsahub.com
 127.0.0.1 turkpornoizlex.xyz
 127.0.0.1 turkpornosotwe.com
@@ -72136,6 +72737,7 @@
 127.0.0.1 tvoe-porn.online
 127.0.0.1 tvoisex.ru
 127.0.0.1 tvoya-podruga.ru
+127.0.0.1 tvporn.net
 127.0.0.1 tvporn.xyz
 127.0.0.1 tvporntube.com
 127.0.0.1 tvrezka.one
@@ -72237,7 +72839,6 @@
 127.0.0.1 txmaterialsexchange.com
 127.0.0.1 txnhh.com
 127.0.0.1 txnxxx.com
-127.0.0.1 txrsex.info
 127.0.0.1 txsexdc.org
 127.0.0.1 txxx-porn.click
 127.0.0.1 txxx-porn.yachts
@@ -72305,6 +72906,7 @@
 127.0.0.1 u18chan.com
 127.0.0.1 u34sextou.com
 127.0.0.1 u3c3.com
+127.0.0.1 u4gay.com
 127.0.0.1 u4my.com
 127.0.0.1 u555sextou.com
 127.0.0.1 u9a9.de
@@ -72441,6 +73043,7 @@
 127.0.0.1 ukadultchat.com
 127.0.0.1 ukadults.com
 127.0.0.1 ukadultzone.com
+127.0.0.1 ukassignmentsexpert.com
 127.0.0.1 ukbeautyaestheticsexcellenceaward.co.uk
 127.0.0.1 ukbest50.co.uk
 127.0.0.1 ukcamboys.com
@@ -72537,6 +73140,7 @@
 127.0.0.1 ultrapornhd.com
 127.0.0.1 ultrapornhott.com
 127.0.0.1 ultrapron.com
+127.0.0.1 ultrasexdolls.com
 127.0.0.1 ultrasexshop.cz
 127.0.0.1 ultraslotsexpress.com
 127.0.0.1 ultrasparky.org
@@ -72580,6 +73184,7 @@
 127.0.0.1 unclelousexotics.com
 127.0.0.1 unclephilly.com
 127.0.0.1 unclothy.com
+127.0.0.1 unconsciousexpression.com
 127.0.0.1 unconsentingmedia.org
 127.0.0.1 uncoveringintimacy.com
 127.0.0.1 uncut-bfs.com
@@ -72641,6 +73246,7 @@
 127.0.0.1 undressly.app
 127.0.0.1 undressme.ai
 127.0.0.1 undressme.net
+127.0.0.1 undressmeaiporn.com
 127.0.0.1 undressninja.com
 127.0.0.1 undresswith.ai
 127.0.0.1 unduzxxx.click
@@ -72664,6 +73270,7 @@
 127.0.0.1 uniondeconsumidores.info
 127.0.0.1 uniondesetudiantsexiles.org
 127.0.0.1 unionslotsexchange.shop
+127.0.0.1 unionxxx.com
 127.0.0.1 unipelfurs.com
 127.0.0.1 uniplaclages.edu.br
 127.0.0.1 uniporntube.com
@@ -72686,6 +73293,7 @@
 127.0.0.1 unisexgroom.com
 127.0.0.1 unisexgurgaonescorts.com
 127.0.0.1 unisexnailpolish.com
+127.0.0.1 unisexplus.com
 127.0.0.1 unisexpure.com
 127.0.0.1 unisexsalonooty43.com
 127.0.0.1 unisexskincare.co.za
@@ -72701,6 +73309,7 @@
 127.0.0.1 unitedspermdonors.com
 127.0.0.1 unitedstatesadultcare.com
 127.0.0.1 unitedstatesbondagency.com
+127.0.0.1 unitysexualhealth.com
 127.0.0.1 unitysussex.com
 127.0.0.1 univers-l.com
 127.0.0.1 universalcargasexpress.com.br
@@ -72724,6 +73333,7 @@
 127.0.0.1 unlucidaipornpro.com
 127.0.0.1 unlugar.com
 127.0.0.1 unmoral.jp
+127.0.0.1 unmutedwasisexuallyabused.com
 127.0.0.1 unoggsex.xyz
 127.0.0.1 unosindia.com
 127.0.0.1 unpornography.org
@@ -72741,6 +73351,7 @@
 127.0.0.1 unsexy.co
 127.0.0.1 unsexybeauty.com
 127.0.0.1 unsexyskincare.com
+127.0.0.1 unsexystack.com
 127.0.0.1 unsexytech.com
 127.0.0.1 unsexytechguy.com
 127.0.0.1 unsexytechnology.com
@@ -72808,6 +73419,7 @@
 127.0.0.1 uptosex.com
 127.0.0.1 upu66.cc
 127.0.0.1 uqltc.cc
+127.0.0.1 uqygayhhjnaina.store
 127.0.0.1 ur-gay.lol
 127.0.0.1 ura-bon.com
 127.0.0.1 urabukkake.com
@@ -73028,7 +73640,6 @@
 127.0.0.1 uxxxxvideos.com
 127.0.0.1 uxxxxvideos.life
 127.0.0.1 uxxxxvideos.live
-127.0.0.1 uyyi.top
 127.0.0.1 uz-2.ru
 127.0.0.1 uz-porno.com
 127.0.0.1 uzb-porn.top
@@ -73396,7 +74007,6 @@
 127.0.0.1 vergewaltigungporno.pro
 127.0.0.1 vergewaltigungsporno.pro
 127.0.0.1 vergingoaescorts.com
-127.0.0.1 verhaege-psychosexo.com
 127.0.0.1 verhentai.com
 127.0.0.1 verhentai.org
 127.0.0.1 verhentai.top
@@ -73587,6 +74197,7 @@
 127.0.0.1 videmms24.com
 127.0.0.1 video-adult-porn.com
 127.0.0.1 video-adult-tube.com
+127.0.0.1 video-chat-sex.net
 127.0.0.1 video-chat-xxx.com
 127.0.0.1 video-chat.live
 127.0.0.1 video-chat.love
@@ -73603,6 +74214,7 @@
 127.0.0.1 video-scat.com
 127.0.0.1 video-tube-hd.com
 127.0.0.1 video-xxx.ru
+127.0.0.1 video-xxxsex.xyz
 127.0.0.1 video.szex.hu
 127.0.0.1 video01.org
 127.0.0.1 video18.net
@@ -73692,6 +74304,7 @@
 127.0.0.1 videorojo.com
 127.0.0.1 videos-girls-fuck.com
 127.0.0.1 videos-xxx-tube.com
+127.0.0.1 videos-xxxsex.click
 127.0.0.1 videos-zoofilia.com
 127.0.0.1 videos.com
 127.0.0.1 videos2porno.com
@@ -73771,6 +74384,7 @@
 127.0.0.1 videossexo.blog.br
 127.0.0.1 videostravestis.xxx
 127.0.0.1 videostube.live
+127.0.0.1 videosviejas.net
 127.0.0.1 videosvirales.us
 127.0.0.1 videosx.pro
 127.0.0.1 videosxgays.com
@@ -73785,6 +74399,7 @@
 127.0.0.1 videosxxxespanol.com
 127.0.0.1 videosxxxmaduras.com
 127.0.0.1 videosxxxmexicanas.com
+127.0.0.1 videosxxxporn.xyz
 127.0.0.1 videosxxxporno.xxx
 127.0.0.1 videosxxxputas.xxx
 127.0.0.1 videosz.com
@@ -74192,6 +74807,7 @@
 127.0.0.1 virtamate.com
 127.0.0.1 virtchat.net
 127.0.0.1 virtsexchat.com
+127.0.0.1 virtua-girls.com
 127.0.0.1 virtuagirl.info
 127.0.0.1 virtuagirlshd.com
 127.0.0.1 virtualgayhd.com
@@ -74324,7 +74940,6 @@
 127.0.0.1 vjxxx.com
 127.0.0.1 vk-wall.org
 127.0.0.1 vk.gy
-127.0.0.1 vk.wtf
 127.0.0.1 vkcams.com
 127.0.0.1 vkdj.org
 127.0.0.1 vkisku-x.com
@@ -74499,6 +75114,7 @@
 127.0.0.1 voxxxl.app
 127.0.0.1 voxxxl.com
 127.0.0.1 voyage-prive.be
+127.0.0.1 voyageursextraordinaires.com
 127.0.0.1 voyersex.eu
 127.0.0.1 voyeur-cams.de
 127.0.0.1 voyeur-houes.tv
@@ -74575,6 +75191,7 @@
 127.0.0.1 vpopke.com
 127.0.0.1 vpopke.org
 127.0.0.1 vpopu.tv
+127.0.0.1 vporn.beauty
 127.0.0.1 vporn.com
 127.0.0.1 vporn.fun
 127.0.0.1 vporn.icu
@@ -74736,6 +75353,7 @@
 127.0.0.1 vvporno.shop
 127.0.0.1 vvsexo.garden
 127.0.0.1 vvv.xxx
+127.0.0.1 vwolfsexox.sbs
 127.0.0.1 vwp.su
 127.0.0.1 vxcdn.org
 127.0.0.1 vxhentai.com
@@ -74750,6 +75368,7 @@
 127.0.0.1 vxxx.work
 127.0.0.1 vxxxi2mmwst1kn4o.top
 127.0.0.1 vxxxp.com
+127.0.0.1 vxxxx2.cn
 127.0.0.1 vxxxxvideos.biz
 127.0.0.1 vybesexperience.com.mx
 127.0.0.1 vymanga.net
@@ -75362,6 +75981,7 @@
 127.0.0.1 wetheunicorns.com
 127.0.0.1 wetholefans.com
 127.0.0.1 wetindianporn.com
+127.0.0.1 wetjavporn.com
 127.0.0.1 wetlesbianbabes.com
 127.0.0.1 wetmaturetube.com
 127.0.0.1 wetmilfpics.com
@@ -75627,6 +76247,7 @@
 127.0.0.1 wildsecrets.co.nz
 127.0.0.1 wildsecrets.com
 127.0.0.1 wildsecrets.com.au
+127.0.0.1 wildsex-flirt.click
 127.0.0.1 wildsex.life
 127.0.0.1 wildsex.media
 127.0.0.1 wildsex.online
@@ -75850,6 +76471,7 @@
 127.0.0.1 world-of-pornsites.com
 127.0.0.1 world-of-warcraft-gold.com
 127.0.0.1 world-rabbit-science.com
+127.0.0.1 world.gay
 127.0.0.1 world3d.biz
 127.0.0.1 world4ufree.deals
 127.0.0.1 world4ufree.dev
@@ -76036,6 +76658,7 @@
 127.0.0.1 wwwnpornhub.com
 127.0.0.1 wwwonderful.com
 127.0.0.1 wwwporn.biz
+127.0.0.1 wwwporn.click
 127.0.0.1 wwwporn.club
 127.0.0.1 wwwporn.xyz
 127.0.0.1 wwwporn99.com
@@ -76622,7 +77245,6 @@
 127.0.0.1 xinren.name
 127.0.0.1 xinsanbu.com
 127.0.0.1 xintimsex.top
-127.0.0.1 xinyemian.com
 127.0.0.1 xinyuhuang.com
 127.0.0.1 xipics.com
 127.0.0.1 xisvideos.net
@@ -76767,6 +77389,7 @@
 127.0.0.1 xmxx.club
 127.0.0.1 xmxx.dev
 127.0.0.1 xmxx.icu
+127.0.0.1 xmxx.info
 127.0.0.1 xmxx.lol
 127.0.0.1 xmxx.pro
 127.0.0.1 xmxx.wtf
@@ -77278,6 +77901,7 @@
 127.0.0.1 xnxxxfree.com
 127.0.0.1 xnxxxhamster.site
 127.0.0.1 xnxxxnxx.site
+127.0.0.1 xnxxxporno.net
 127.0.0.1 xnxxxsex.org
 127.0.0.1 xnxxxsex1.org
 127.0.0.1 xnxxxvids.com
@@ -77395,6 +78019,7 @@
 127.0.0.1 xnxxxxxxxarab.cfd
 127.0.0.1 xnxxxxxxxarab.click
 127.0.0.1 xnxxxxxxxarab.company
+127.0.0.1 xnxxxxxxxarab.coupons
 127.0.0.1 xnxxxxxxxarab.courses
 127.0.0.1 xnxxxxxxxarab.cyou
 127.0.0.1 xnxxxxxxxarab.digital
@@ -77430,7 +78055,6 @@
 127.0.0.1 xnxxxxxxxarab.skin
 127.0.0.1 xnxxxxxxxarab.space
 127.0.0.1 xnxxxxxxxarab.store
-127.0.0.1 xnxxxxxxxarab.study
 127.0.0.1 xnxxxxxxxarab.surf
 127.0.0.1 xnxxxxxxxarab.today
 127.0.0.1 xnxxxxxxxarab.top
@@ -77476,6 +78100,7 @@
 127.0.0.1 xoxoadultdelivery.com
 127.0.0.1 xoxohth.com
 127.0.0.1 xoxoporn.com
+127.0.0.1 xoxosextoy.com
 127.0.0.1 xoxotando.com.br
 127.0.0.1 xoxoteiros.blog.br
 127.0.0.1 xoxoxopics.com
@@ -77523,6 +78148,7 @@
 127.0.0.1 xporn.live
 127.0.0.1 xporn.one
 127.0.0.1 xporn.org
+127.0.0.1 xporn.pics
 127.0.0.1 xporn.rip
 127.0.0.1 xporn.to
 127.0.0.1 xporn.tv
@@ -77560,6 +78186,7 @@
 127.0.0.1 xporno.space
 127.0.0.1 xpornopopa.com
 127.0.0.1 xpornotop.xyz
+127.0.0.1 xpornotube.net
 127.0.0.1 xpornotuber.com
 127.0.0.1 xpornoxizlehd.com
 127.0.0.1 xpornpics.cc
@@ -77630,7 +78257,9 @@
 127.0.0.1 xsijishe.com
 127.0.0.1 xsin-hub.com
 127.0.0.1 xsinsvr.com
+127.0.0.1 xsissy.com
 127.0.0.1 xslutz.com
+127.0.0.1 xsmb100ngay.org
 127.0.0.1 xsmb30ngay.com
 127.0.0.1 xsmb90ngay.vn
 127.0.0.1 xsmdl.com
@@ -78008,6 +78637,7 @@
 127.0.0.1 xvxx.stream
 127.0.0.1 xvxxporn.com
 127.0.0.1 xvxxtube.com
+127.0.0.1 xvxxx.club
 127.0.0.1 xwetpics.com
 127.0.0.1 xwidetube.com
 127.0.0.1 xwinsextou.com
@@ -78056,6 +78686,8 @@
 127.0.0.1 xxggsextou.com
 127.0.0.1 xxgirls.vip
 127.0.0.1 xxhdvideos.com
+127.0.0.1 xxhhxttpornrrnssexxs.sbs
+127.0.0.1 xxhhxttporrnrnssexxs.sbs
 127.0.0.1 xxiav.com
 127.0.0.1 xxjap.com
 127.0.0.1 xxjoa46.com
@@ -78288,6 +78920,7 @@
 127.0.0.1 xxx-rated.net
 127.0.0.1 xxx-red-tube.net
 127.0.0.1 xxx-redtube.work
+127.0.0.1 xxx-report.com
 127.0.0.1 xxx-reporter.com
 127.0.0.1 xxx-ru.com
 127.0.0.1 xxx-sborniki.ru
@@ -78316,6 +78949,7 @@
 127.0.0.1 xxx-teen-tube.com
 127.0.0.1 xxx-teen-xxx.com
 127.0.0.1 xxx-thai4k.com
+127.0.0.1 xxx-time.com
 127.0.0.1 xxx-top100.net
 127.0.0.1 xxx-torrent.net
 127.0.0.1 xxx-tracker.com
@@ -78342,6 +78976,7 @@
 127.0.0.1 xxx-videos.cfd
 127.0.0.1 xxx-videos.com.es
 127.0.0.1 xxx-videos.tv
+127.0.0.1 xxx-videosporn.xyz
 127.0.0.1 xxx-vids.pro
 127.0.0.1 xxx-vlxx.com
 127.0.0.1 xxx-wps.com
@@ -78388,6 +79023,7 @@
 127.0.0.1 xxx1.link
 127.0.0.1 xxx1.sbs
 127.0.0.1 xxx11.icu
+127.0.0.1 xxx1121.xyz
 127.0.0.1 xxx123xxx.xyz
 127.0.0.1 xxx12m.my.id
 127.0.0.1 xxx13.shop
@@ -78785,6 +79421,7 @@
 127.0.0.1 xxxddfuvk963.top
 127.0.0.1 xxxdee.me
 127.0.0.1 xxxdee2.me
+127.0.0.1 xxxdelicate.shop
 127.0.0.1 xxxdemia.com
 127.0.0.1 xxxdesi.su
 127.0.0.1 xxxdesi49.com
@@ -78810,6 +79447,7 @@
 127.0.0.1 xxxdmm.com
 127.0.0.1 xxxdns.net
 127.0.0.1 xxxdoga.com
+127.0.0.1 xxxdolls.shop
 127.0.0.1 xxxdom.ru
 127.0.0.1 xxxdomashka.site
 127.0.0.1 xxxdominicana.com
@@ -78956,6 +79594,7 @@
 127.0.0.1 xxxhdporn.pics
 127.0.0.1 xxxhdporn.su
 127.0.0.1 xxxhdsex.cc
+127.0.0.1 xxxhdsex.mobi
 127.0.0.1 xxxhdsexvideo.net
 127.0.0.1 xxxhdteen.com
 127.0.0.1 xxxhdtubeporn.com
@@ -79060,6 +79699,7 @@
 127.0.0.1 xxxjapanesevideo24.com
 127.0.0.1 xxxjaptubexxx24.com
 127.0.0.1 xxxjapxxx245.com
+127.0.0.1 xxxjatt.com
 127.0.0.1 xxxjay.com
 127.0.0.1 xxxjlyesu.shop
 127.0.0.1 xxxjmp.com
@@ -79121,6 +79761,7 @@
 127.0.0.1 xxxlive.buzz
 127.0.0.1 xxxlive.top
 127.0.0.1 xxxlivexxx.com
+127.0.0.1 xxxlk.cc
 127.0.0.1 xxxllm.com
 127.0.0.1 xxxlloo.cc
 127.0.0.1 xxxlo.ru
@@ -79439,6 +80080,7 @@
 127.0.0.1 xxxpussyfuck.com
 127.0.0.1 xxxpvc.com
 127.0.0.1 xxxpxqk.cc
+127.0.0.1 xxxq.me
 127.0.0.1 xxxr.org
 127.0.0.1 xxxr0.com
 127.0.0.1 xxxr3.com
@@ -79446,6 +80088,7 @@
 127.0.0.1 xxxra.com
 127.0.0.1 xxxraiderpass.com
 127.0.0.1 xxxram.cn
+127.0.0.1 xxxrandevuxxx.com
 127.0.0.1 xxxrandki.pl
 127.0.0.1 xxxrape.net
 127.0.0.1 xxxrapid.in
@@ -79491,6 +80134,7 @@
 127.0.0.1 xxxsexcams.net
 127.0.0.1 xxxsexclips.net
 127.0.0.1 xxxsexcomix.com
+127.0.0.1 xxxsexhd.sbs
 127.0.0.1 xxxsexiness.com
 127.0.0.1 xxxsexmovies.xyz
 127.0.0.1 xxxsexpic.me
@@ -79614,6 +80258,7 @@
 127.0.0.1 xxxtopvideos.com
 127.0.0.1 xxxtor.com
 127.0.0.1 xxxtor.net
+127.0.0.1 xxxtoronto.com
 127.0.0.1 xxxtorrent.net
 127.0.0.1 xxxtorrents.online
 127.0.0.1 xxxtorrents.pro
@@ -79776,6 +80421,7 @@
 127.0.0.1 xxxvideoshome.com
 127.0.0.1 xxxvideosite.net
 127.0.0.1 xxxvideosmix.com
+127.0.0.1 xxxvideosone.com
 127.0.0.1 xxxvideosporno.blog.br
 127.0.0.1 xxxvideosporno.com.br
 127.0.0.1 xxxvideospro.com
@@ -79873,6 +80519,7 @@
 127.0.0.1 xxxx85throadn.com
 127.0.0.1 xxxx86throadn.com
 127.0.0.1 xxxx8k.com
+127.0.0.1 xxxx9033.com
 127.0.0.1 xxxxa.online
 127.0.0.1 xxxxa18.top
 127.0.0.1 xxxxa18.xyz
@@ -79931,6 +80578,7 @@
 127.0.0.1 xxxxp.loan
 127.0.0.1 xxxxporn.net
 127.0.0.1 xxxxpornvideo.com
+127.0.0.1 xxxxpppp.cyou
 127.0.0.1 xxxxproxy.com
 127.0.0.1 xxxxq.loan
 127.0.0.1 xxxxr.loan
@@ -79939,6 +80587,7 @@
 127.0.0.1 xxxxselfie.com
 127.0.0.1 xxxxsexvideos.com
 127.0.0.1 xxxxssss799.buzz
+127.0.0.1 xxxxsswiw.com
 127.0.0.1 xxxxsu.com
 127.0.0.1 xxxxsx.com
 127.0.0.1 xxxxt.loan
@@ -80030,6 +80679,7 @@
 127.0.0.1 xxxxzz.com
 127.0.0.1 xxxy.eu
 127.0.0.1 xxxy.me
+127.0.0.1 xxxyadong.com
 127.0.0.1 xxxyak.com
 127.0.0.1 xxxyedkub.com
 127.0.0.1 xxxyep.com
@@ -80458,6 +81108,7 @@
 127.0.0.1 youall.gay
 127.0.0.1 youarefucking.gay
 127.0.0.1 youarenot.gay
+127.0.0.1 youaresexy.com
 127.0.0.1 youav.com
 127.0.0.1 youavhub.com
 127.0.0.1 youbanda.com
@@ -80477,10 +81128,12 @@
 127.0.0.1 yougougo.top
 127.0.0.1 youhdjizz.com
 127.0.0.1 youhentai.org
+127.0.0.1 youjavporn.com
 127.0.0.1 youjizz.bond
 127.0.0.1 youjizz.club
 127.0.0.1 youjizz.com
 127.0.0.1 youjizz.report
+127.0.0.1 youjizz.sbs
 127.0.0.1 youjizz.sex
 127.0.0.1 youjizz.work
 127.0.0.1 youjizz.world
@@ -80646,6 +81299,7 @@
 127.0.0.1 yourcamspot.com
 127.0.0.1 yourcamspot.net
 127.0.0.1 yourcartoonporn.com
+127.0.0.1 yourchemsexcoach.com
 127.0.0.1 yourcosplay.com
 127.0.0.1 yourdailygirls.com
 127.0.0.1 yourdailypornmovies.ws
@@ -80715,6 +81369,7 @@
 127.0.0.1 yourwhisperingoaksexperience.com
 127.0.0.1 yourxxxvideos.pro
 127.0.0.1 yousex.me
+127.0.0.1 yousex.sbs
 127.0.0.1 yousexeporno.com
 127.0.0.1 yousexvideos.net
 127.0.0.1 youshouldbegay.com
@@ -80890,7 +81545,6 @@
 127.0.0.1 zanithone.itch.io
 127.0.0.1 zanixxxproperties.com
 127.0.0.1 zaozenit.ru
-127.0.0.1 zapchasti-hend-krasnodar.ru
 127.0.0.1 zapf-online.ru
 127.0.0.1 zapmeme.com
 127.0.0.1 zaptangas.com
@@ -81013,6 +81667,7 @@
 127.0.0.1 zhukovskiy-gruzoperevozki.ru
 127.0.0.1 zhuyousoft.com
 127.0.0.1 ziadelhiescorts.com
+127.0.0.1 zibashahr.com
 127.0.0.1 zierlicheladies.de
 127.0.0.1 ziganoygayrimenkul.com
 127.0.0.1 zigay.bond
@@ -81337,6 +81992,7 @@
 127.0.0.1 zwwsextou.com
 127.0.0.1 zxchsext.cyou
 127.0.0.1 zxctube.com
+127.0.0.1 zxsexmg.cc
 127.0.0.1 zxt.in
 127.0.0.1 zxvideos.net
 127.0.0.1 zxxxa.com
