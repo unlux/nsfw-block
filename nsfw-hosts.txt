@@ -3,7 +3,7 @@
 # Source: https://github.com/hagezi/dns-blocklists
 # Converted by: https://github.com/unlux/nsfw-block
 # Total blocked domains: 114591
-# Last updated: 2026-08-28T13:32:41Z
+# Last updated: 2026-08-29T08:24:50Z
 
 127.0.0.1 0-pussy.vip
 127.0.0.1 0000180.fortunecity.ws
